@@ -1,4 +1,4 @@
-강의 소개, https://github.com/Kwangkee/Gachon/blob/main/Lecture_2022_Fall-1.pdf  
+Course Overview, https://github.com/Kwangkee/Gachon/blob/main/Lecture_2022_Fall-1.pdf  
 Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 - 본 class 에 기대하는 바, 제안 사항 메일 (1주차 Homework) 
 - 질문, 제안 언제든 주시기 바랍니다.
