@@ -104,7 +104,7 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 
 ****
 
-|주차|수업내용|조교 발표|실습|담당조교|
+|주차|수업내용|TA 발표|실습|담당 TA|
 |---|---|---|--|--|
 |1|강의: 연합학습 소개,|발표: DNN 개요, PyTorch/TF 소개, DNN 환경|실습: Git 계정, PyTorch 설치, Tutorial/Sample 수행|김대열, 양세모|
 |2|강의: 연합학습 Open Source Platform|발표: Flower (연합학습 Open Source Platform)|실습: 설치, Tutorial/Sample 수행|김진수, 양세모|
