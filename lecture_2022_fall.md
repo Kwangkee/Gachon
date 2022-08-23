@@ -22,7 +22,7 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 - 연합학습 Open Source Platform  https://github.com/Kwangkee/FL/blob/main/FL@Platform.md
 - [Optional] Open-Source Systems for Federated Learning | Stanford MLSys #48, https://www.youtube.com/watch?v=TcbOMbg4F9g
 #### 실습 (TA)
-- [발표] Flower, FedScale 소개
+- [발표] 연합학습 Open Source Platform (Flower/FedScale) 리뷰
 - [실습] Flower 설치, Tutorial/Sample code
 #### 학생 발표
 - [학생#1 발표] https://github.com/Kwangkee/FL/blob/main/FL@Intro.md
@@ -56,7 +56,7 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 - 연합학습의 Digital Healthcare 분야 적용, https://github.com/Kwangkee/rPPG
 - 디지털 헬스케어를 위한 블록체인 융합 원격임상시험 서비스 개발, https://drive.google.com/drive/u/0/folders/1qV5jN-KspZWYuUZEzx0mzLEYPsomzhko
 #### 실습 (TA)
-- [발표] rPPG 개요
+- [발표] rPPG 리뷰
 - [실습] rPPG 실습
 #### 학생 발표
 - [학생#1 발표] Benchmark 사용기, 실습 결과, https://github.com/Kwangkee/FL/blob/main/FL@Benchmark.md
@@ -66,7 +66,7 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 - 연합학습의 medical 분야 적용, https://github.com/Kwangkee/FL/blob/main/FL@Medical.md
 - [Optional] Artificial Intelligence in Healthcare, https://biods220.stanford.edu/, Distributed Learning, Security, and Privacy lecture14.pdf, https://biods220.stanford.edu/lectures/lecture14.pdf
 #### 실습 (TA)
-- [발표] 원격임상시험 D-3 개요
+- [발표] 원격임상시험 D-3 리뷰
 - [실습] PoC 결과
 #### 학생 발표
 - [학생#1 발표] Benchmark 사용기, 실습 결과, https://github.com/Kwangkee/FL/blob/main/FL@Benchmark.md
@@ -75,7 +75,7 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 #### 강의 (Instructor)  
 - 블록체인 융합 연합학습, https://github.com/Kwangkee/FL/blob/main/FL@CSIRO.md
 #### 실습 (TA)
-- [발표] BC 개요 
+- [발표] BC 리뷰
 - [실습] Ethereum Simulator, Solidity
 #### 학생 발표
 - [학생#1 발표] 
@@ -84,7 +84,7 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 #### 강의 (Instructor)  
 - 블록체인 융합 연합학습, https://github.com/Kwangkee/FL/blob/main/FL@Nanyang.md
 #### 실습 (TA)
-- [발표] BCFL 개요 
+- [발표] BCFL 리뷰
 - [실습] 2CP Simulator
 #### 학생 발표
 - [학생#1 발표] 
@@ -104,13 +104,13 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 
 ****
 
-|주차|수업내용|TA 발표|실습|담당 TA|
+|주차|TA 발표|실습|담당 TA|
 |---|---|---|--|--|
-|1|강의: 연합학습 소개,|발표: DNN 개요, PyTorch/TF 소개, DNN 환경|실습: Git 계정, PyTorch 설치, Tutorial/Sample 수행|김대열, 양세모|
-|2|강의: 연합학습 Open Source Platform|발표: Flower (연합학습 Open Source Platform)|실습: 설치, Tutorial/Sample 수행|김진수, 양세모|
-|3|강의: 연합학습 Public Data, Benchmarking|발표: 개요|실습: 설치, Sample 수행|김진수|
-|4|Case Study: 동적인 디바이스 환경에서 적응적 연합학습기술|발표: 개요|실습: 적응적 연합학습|김진수|
-|5|Case study: 연합학습의 Digital Healthcare 분야 적용|발표: rPPG 개요|실습: rPPG|김대열|
-|6|Case study: 연합학습의 medical 분야 적용|발표: 원격임상시험 D-3 개요|실습: PoC 결과|양세모|
-|7|Case study: 블록체인 융합 연합학습, |발표: BC 개요|실습: Ethereum Simulator, Solidity|고은수|
-|8|Case study: 블록체인 융합 연합학습, |발표: BCFL 개요|실습: 2CP Simulator|고은수|
+|1|DNN 리뷰, PyTorch/TF 리뷰, DNN 환경|실습: Git 계정, PyTorch 설치, Tutorial/Sample code|김대열|
+|2|연합학습 Open Source Platform (Flower/FedScale) 리뷰|실습: 설치, Tutorial/Sample code|김진수|
+|3|Federated MetaSense, 적응적 연합학습|실습: 적응적 연합학습|김진수|
+|4|연합학습 Public Data, Benchmarking 리뷰|PFL Benchmarking 설치, Tutorial/Sample code|김진수|
+|5|rPPG 리뷰|실습: rPPG|김대열|
+|6|원격임상시험 D-3 리뷰|실습: PoC 결과|양세모|
+|7|BC 리뷰|실습: Ethereum Simulator, Solidity|고은수|
+|8|BCFL 리뷰|실습: 2CP Simulator|고은수|
