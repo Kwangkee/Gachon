@@ -105,7 +105,7 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 ****
 
 |주차|TA 발표|실습|담당 TA|
-|---|---|---|--|--|
+|---|---|--|--|
 |1|DNN 리뷰, PyTorch/TF 리뷰, DNN 환경|실습: Git 계정, PyTorch 설치, Tutorial/Sample code|김대열|
 |2|연합학습 Open Source Platform (Flower/FedScale) 리뷰|실습: 설치, Tutorial/Sample code|김진수|
 |3|Federated MetaSense, 적응적 연합학습|실습: 적응적 연합학습|김진수|
