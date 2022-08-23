@@ -90,6 +90,8 @@ Lecturer: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 - [학생#1 발표] 
 
 
+****
+
 [etc]
 - [Invited Talk] KAIST MetaSense, FedBalancer
 - Stanford MLSys Seminar Series, https://mlsys.stanford.edu/
@@ -100,7 +102,8 @@ Lecturer: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 - BIODS220 (CS271, BIOMEDIN220) Artificial Intelligence in Healthcare, https://biods220.stanford.edu/
 > Lecture 14	Nov 15 (Mon)	Distributed Learning, Security, and Privacy	lecture14.pdf, https://biods220.stanford.edu/lectures/lecture14.pdf  
 
-***
+****
+
 |주차|수업내용|조교 발표|실습|담당조교|
 |---|---|---|--|--|
 |1|강의: 연합학습 소개,|발표: DNN 개요, PyTorch/TF 소개, DNN 환경|실습: Git 계정, PyTorch 설치, Tutorial/Sample 수행|김대열, 양세모|
