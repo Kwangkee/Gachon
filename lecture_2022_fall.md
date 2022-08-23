@@ -104,13 +104,14 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 
 ****
 
+TA
 |주차|TA 발표|실습|담당 TA|
 |---|---|--|--|
-|1|DNN 리뷰, PyTorch/TF 리뷰, DNN 환경|실습: Git 계정, PyTorch 설치, Tutorial/Sample code|김대열|
-|2|연합학습 Open Source Platform (Flower/FedScale) 리뷰|실습: 설치, Tutorial/Sample code|김진수|
-|3|Federated MetaSense, 적응적 연합학습|실습: 적응적 연합학습|김진수|
+|1|DNN 리뷰, PyTorch/TF 리뷰, DNN 환경|Git 계정, PyTorch 설치, Tutorial/Sample code|김대열|
+|2|연합학습 Open Source Platform (Flower/FedScale) 리뷰|설치, Tutorial/Sample code|김진수|
+|3|Federated MetaSense, 적응적 연합학습|적응적 연합학습|김진수|
 |4|연합학습 Public Data, Benchmarking 리뷰|PFL Benchmarking 설치, Tutorial/Sample code|김진수|
-|5|rPPG 리뷰|실습: rPPG|김대열|
-|6|원격임상시험 D-3 리뷰|실습: PoC 결과|양세모|
-|7|BC 리뷰|실습: Ethereum Simulator, Solidity|고은수|
-|8|BCFL 리뷰|실습: 2CP Simulator|고은수|
+|5|rPPG 리뷰|rPPG code 리뷰|김대열|
+|6|원격임상시험 D-3 리뷰|PoC 결과|양세모|
+|7|BC 리뷰|Ethereum Simulator, Solidity|고은수|
+|8|BCFL 리뷰|2CP Simulator|고은수|
