@@ -92,18 +92,6 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 
 ****
 
-[etc]
-- [Invited Talk] KAIST MetaSense, FedBalancer
-- Stanford MLSys Seminar Series, https://mlsys.stanford.edu/
-- Virginia Smith, https://www.cs.cmu.edu/~smithv/, ML with Large Datasets, Fall 2021, https://10605.github.io/fall2021/
->- Aug 31	Introduction ([slides](https://drive.google.com/file/d/1-0aBTILgeMKn6FDfOBfg-hG1qCtRNNNr/view?usp=sharing), video)
->- Nov 23	Federated Learning ([slides](https://drive.google.com/file/d/13WrVAophCH6pgkgRJoFhhf2Fndlr-zin/view?usp=sharing), [video](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e987cd72-7681-403a-942b-ade9014cd267))
-- CS 330: Deep Multi-Task and Meta Learning, http://cs330.stanford.edu/
-- BIODS220 (CS271, BIOMEDIN220) Artificial Intelligence in Healthcare, https://biods220.stanford.edu/
-> Lecture 14	Nov 15 (Mon)	Distributed Learning, Security, and Privacy	lecture14.pdf, https://biods220.stanford.edu/lectures/lecture14.pdf  
-
-****
-
 TA
 |주차|TA 발표|실습|담당 TA|
 |---|---|--|--|
@@ -115,3 +103,17 @@ TA
 |6|원격임상시험 D-3 리뷰|PoC 결과|양세모|
 |7|BC 리뷰|Ethereum Simulator, Solidity|고은수|
 |8|BCFL 리뷰|2CP Simulator|고은수|
+
+
+****
+
+[etc]
+- [Invited Talk] KAIST MetaSense, FedBalancer
+- Stanford MLSys Seminar Series, https://mlsys.stanford.edu/
+- Virginia Smith, https://www.cs.cmu.edu/~smithv/, ML with Large Datasets, Fall 2021, https://10605.github.io/fall2021/
+>- Aug 31	Introduction ([slides](https://drive.google.com/file/d/1-0aBTILgeMKn6FDfOBfg-hG1qCtRNNNr/view?usp=sharing), video)
+>- Nov 23	Federated Learning ([slides](https://drive.google.com/file/d/13WrVAophCH6pgkgRJoFhhf2Fndlr-zin/view?usp=sharing), [video](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e987cd72-7681-403a-942b-ade9014cd267))
+- CS 330: Deep Multi-Task and Meta Learning, http://cs330.stanford.edu/
+- BIODS220 (CS271, BIOMEDIN220) Artificial Intelligence in Healthcare, https://biods220.stanford.edu/
+> Lecture 14	Nov 15 (Mon)	Distributed Learning, Security, and Privacy	lecture14.pdf, https://biods220.stanford.edu/lectures/lecture14.pdf  
+
