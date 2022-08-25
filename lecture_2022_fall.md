@@ -7,7 +7,6 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 ## 1주
 #### 강의 (Instructor)  
 - 연합학습 소개, https://github.com/Kwangkee/FL/blob/main/FL@Intro.md#fl-introduction  
-- 연합학습 소개, https://github.com/Kwangkee/FL 
 - [Optional] - Virginia Smith, https://www.cs.cmu.edu/~smithv/, ML with Large Datasets, Fall 2021, https://10605.github.io/fall2021/
 >- Introduction ([slides](https://drive.google.com/file/d/1-0aBTILgeMKn6FDfOBfg-hG1qCtRNNNr/view?usp=sharing), video)
 >- Federated Learning ([slides](https://drive.google.com/file/d/13WrVAophCH6pgkgRJoFhhf2Fndlr-zin/view?usp=sharing), [video](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e987cd72-7681-403a-942b-ade9014cd267))  
