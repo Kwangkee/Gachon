@@ -10,7 +10,7 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 >[Must read] Federated Learning Tutorial, https://sites.google.com/view/fl-tutorial/  
 >[Good read] Advances and Open Problems in Federated Learning, https://arxiv.org/abs/1912.04977  
 
-- Virginia Smith, https://www.cs.cmu.edu/~smithv/, ML with Large Datasets, Fall 2021, https://10605.github.io/fall2021/
+- Virginia Smith, https://www.cs.cmu.edu/~smithv/, ML with Large Datasets, Fall 2021, https://10605.github.io/fall2021/  
 >[Must read] Introduction ([slides](https://drive.google.com/file/d/1-0aBTILgeMKn6FDfOBfg-hG1qCtRNNNr/view?usp=sharing), video)  
 >[Must read] Federated Learning ([slides](https://drive.google.com/file/d/13WrVAophCH6pgkgRJoFhhf2Fndlr-zin/view?usp=sharing), video)  
 #### 실습 (TA)
@@ -21,7 +21,9 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 ## 2주
 #### 강의 (Instructor)  
 - 연합학습 Open Source Platform  https://github.com/Kwangkee/FL/blob/main/FL@Platform.md
-- [Good read] Open-Source Systems for Federated Learning | Stanford MLSys #48, https://www.youtube.com/watch?v=TcbOMbg4F9g
+>[Must read] Flower: A Friendly Federated Learning Research Framework, https://arxiv.org/abs/2007.14390  
+>[Good read] A scalable and extensible federated learning engine and benchmark, http://fedscale.ai/  
+>[Good read] Open-Source Systems for Federated Learning | Stanford MLSys #48, https://www.youtube.com/watch?v=TcbOMbg4F9g
 #### 실습 (TA)
 - [발표] 연합학습 Open Source Platform (Flower/FedScale) 리뷰
 - [실습] Flower 설치, Tutorial/Sample code
@@ -34,7 +36,8 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 #### 강의 (Instructor)  
 - 연합학습 이슈 : Data/System Heterogeneity in Federated Learning, Personalized FL
 - 동적인 디바이스 환경에서 적응적 연합학습, https://github.com/Kwangkee/FL/blob/main/AFL.md
-- [Optional] Stanford MLSys Seminar Episode 3: Virginia Smith, On Heterogeneity in Federated Settings, https://www.youtube.com/watch?v=laCyJICLyWg
+>[Must read]     
+>[Good read] Stanford MLSys Seminar Episode 3: Virginia Smith, On Heterogeneity in Federated Settings, https://www.youtube.com/watch?v=laCyJICLyWg
 #### 실습 (TA)
 - Federated MetaSense, 적응적 연합학습
 #### 학생 발표
