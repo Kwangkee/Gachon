@@ -8,7 +8,7 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 #### 강의 (Instructor)  
 - 연합학습 소개, https://github.com/Kwangkee/FL/blob/main/FL@Intro.md#fl-introduction  
 >[MSUT READ] Federated Learning Tutorial, https://sites.google.com/view/fl-tutorial/  
->[Opptional] Advances and Open Problems in Federated Learning, https://arxiv.org/abs/1912.04977  
+>Advances and Open Problems in Federated Learning, https://arxiv.org/abs/1912.04977  
 
 - Virginia Smith, https://www.cs.cmu.edu/~smithv/, ML with Large Datasets, Fall 2021, https://10605.github.io/fall2021/
 >[MSUT READ] Introduction ([slides](https://drive.google.com/file/d/1-0aBTILgeMKn6FDfOBfg-hG1qCtRNNNr/view?usp=sharing), video)  
