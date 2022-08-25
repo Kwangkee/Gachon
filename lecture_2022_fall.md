@@ -11,7 +11,7 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 >Federated Learning Tutorial, https://sites.google.com/view/fl-tutorial/
 
 - Virginia Smith, https://www.cs.cmu.edu/~smithv/, ML with Large Datasets, Fall 2021, https://10605.github.io/fall2021/
->[MSUT READ]
+>[MSUT READ]  
 >Introduction ([slides](https://drive.google.com/file/d/1-0aBTILgeMKn6FDfOBfg-hG1qCtRNNNr/view?usp=sharing), video)  
 >Federated Learning ([slides](https://drive.google.com/file/d/13WrVAophCH6pgkgRJoFhhf2Fndlr-zin/view?usp=sharing), video)  
 #### 실습 (TA)
