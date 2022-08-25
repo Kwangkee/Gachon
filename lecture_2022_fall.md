@@ -7,14 +7,12 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 ## 1주
 #### 강의 (Instructor)  
 - 연합학습 소개, https://github.com/Kwangkee/FL/blob/main/FL@Intro.md#fl-introduction  
->[MSUT READ]
->Federated Learning Tutorial, https://sites.google.com/view/fl-tutorial/  
->Advances and Open Problems in Federated Learning, https://arxiv.org/abs/1912.04977  
+>[MSUT READ] Federated Learning Tutorial, https://sites.google.com/view/fl-tutorial/  
+>[Opptional] Advances and Open Problems in Federated Learning, https://arxiv.org/abs/1912.04977  
 
 - Virginia Smith, https://www.cs.cmu.edu/~smithv/, ML with Large Datasets, Fall 2021, https://10605.github.io/fall2021/
->[MSUT READ]  
->Introduction ([slides](https://drive.google.com/file/d/1-0aBTILgeMKn6FDfOBfg-hG1qCtRNNNr/view?usp=sharing), video)  
->Federated Learning ([slides](https://drive.google.com/file/d/13WrVAophCH6pgkgRJoFhhf2Fndlr-zin/view?usp=sharing), video)  
+>[MSUT READ] Introduction ([slides](https://drive.google.com/file/d/1-0aBTILgeMKn6FDfOBfg-hG1qCtRNNNr/view?usp=sharing), video)  
+>[MSUT READ] Federated Learning ([slides](https://drive.google.com/file/d/13WrVAophCH6pgkgRJoFhhf2Fndlr-zin/view?usp=sharing), video)  
 #### 실습 (TA)
 - [발표] DNN 리뷰
 - [실습] PyTorch/Tensorflow 리뷰/설치, Tutorial/Sample code 
