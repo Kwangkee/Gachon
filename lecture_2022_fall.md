@@ -13,11 +13,10 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 >Part IV: Open Problems and Other Topics  
 
 - FL Intro, https://github.com/Kwangkee/FL/blob/main/FL@Intro.md#fl-introduction  
->[Must-read] Federated Learning Tutorial@NeurIPS 2020, https://sites.google.com/view/fl-tutorial/, [Slide] https://drive.google.com/file/d/1QGY2Zytp9XRSu95fX2lCld8DwfEdcHCG/view   
 >[Recommended] Communication-Efficient Learning of Deep Networks from Decentralized Data, https://arxiv.org/abs/1602.05629  
 >[Recommended] Towards Federated Learning at Scale: System Design, https://arxiv.org/abs/1902.01046  
 >[Recommended] Advances and Open Problems in Federated Learning, https://arxiv.org/abs/1912.04977   
->[Recommended] Adaptive Federrated Optimization, https://arxiv.org/abs/2003.00295
+>[Recommended] Adaptive Federated Optimization, https://arxiv.org/abs/2003.00295
 
 - Virginia Smith, https://www.cs.cmu.edu/~smithv/, ML with Large Datasets, Fall 2021, https://10605.github.io/fall2021/  
 >[Prerequisite] Introduction ([slides](https://drive.google.com/file/d/1-0aBTILgeMKn6FDfOBfg-hG1qCtRNNNr/view?usp=sharing), video)  
