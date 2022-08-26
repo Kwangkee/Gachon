@@ -13,7 +13,7 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 >[Recommended] Advances and Open Problems in Federated Learning, https://arxiv.org/abs/1912.04977    
 
 - Virginia Smith, https://www.cs.cmu.edu/~smithv/, ML with Large Datasets, Fall 2021, https://10605.github.io/fall2021/  
->[prerequisite] Introduction ([slides](https://drive.google.com/file/d/1-0aBTILgeMKn6FDfOBfg-hG1qCtRNNNr/view?usp=sharing), video)  
+>[Prerequisite] Introduction ([slides](https://drive.google.com/file/d/1-0aBTILgeMKn6FDfOBfg-hG1qCtRNNNr/view?usp=sharing), video)  
 >[Recommended] Federated Learning ([slides](https://drive.google.com/file/d/13WrVAophCH6pgkgRJoFhhf2Fndlr-zin/view?usp=sharing), video)  
 #### 실습 (TA)
 - [발표] DNN 리뷰
