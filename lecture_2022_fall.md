@@ -6,7 +6,7 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 ***
 ## 1주
 #### 강의 (Instructor)  
-- Federated Learning Tutorial@NeurIPS 2020, https://sites.google.com/view/fl-tutorial/, [Slide] https://drive.google.com/file/d/1QGY2Zytp9XRSu95fX2lCld8DwfEdcHCG/view
+- Federated Learning Tutorial@NeurIPS 2020, https://sites.google.com/view/fl-tutorial/, [slides] https://drive.google.com/file/d/1QGY2Zytp9XRSu95fX2lCld8DwfEdcHCG/view
 >Part I: What is Federated Learning?  
 >Part II: Federated Optimization  
 >*Part III: Privacy for Federated Learning and Analytics*  
