@@ -34,7 +34,9 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 - 연합학습 Open Source Platform  https://github.com/Kwangkee/FL/blob/main/FL@Platform.md
 >[Must-read] Flower: A Friendly Federated Learning Research Framework, https://arxiv.org/abs/2007.14390  
 >[Recommended] A scalable and extensible federated learning engine and benchmark, http://fedscale.ai/  
->[Recommended] Open-Source Systems for Federated Learning | Stanford MLSys #48, https://www.youtube.com/watch?v=TcbOMbg4F9g
+>[Recommended] Open-Source Systems for Federated Learning | [Stanford MLSys](https://mlsys.stanford.edu/) #48, https://www.youtube.com/watch?v=TcbOMbg4F9g
+>[Recommended] MLOps System Design for Development and Production | [Stanford MLSys](https://mlsys.stanford.edu/) #44, https://www.youtube.com/watch?v=TcbOMbg4F9g  
+ 
 #### 실습 (TA)
 - [발표] 연합학습 Open Source Platform (Flower/FedScale) 리뷰
 - [실습] Flower 설치, Tutorial/Sample code
