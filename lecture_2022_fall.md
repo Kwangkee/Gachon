@@ -16,11 +16,10 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 >[Recommended] Communication-Efficient Learning of Deep Networks from Decentralized Data, https://arxiv.org/abs/1602.05629  
 >[Recommended] Towards Federated Learning at Scale: System Design, https://arxiv.org/abs/1902.01046  
 >[Recommended] Advances and Open Problems in Federated Learning, https://arxiv.org/abs/1912.04977   
->[Recommended] Adaptive Federated Optimization, https://arxiv.org/abs/2003.00295
 
 - Virginia Smith, https://www.cs.cmu.edu/~smithv/, ML with Large Datasets, Fall 2021, https://10605.github.io/fall2021/  
->[Prerequisite] Introduction ([slides](https://drive.google.com/file/d/1-0aBTILgeMKn6FDfOBfg-hG1qCtRNNNr/view?usp=sharing), video)  
->[Recommended] Federated Learning ([slides](https://drive.google.com/file/d/13WrVAophCH6pgkgRJoFhhf2Fndlr-zin/view?usp=sharing), video)  
+>Introduction ([slides](https://drive.google.com/file/d/1-0aBTILgeMKn6FDfOBfg-hG1qCtRNNNr/view?usp=sharing), video)  
+>Federated Learning ([slides](https://drive.google.com/file/d/13WrVAophCH6pgkgRJoFhhf2Fndlr-zin/view?usp=sharing), video)  
 #### 실습 (TA)
 - [발표] DNN 리뷰
 - [실습] PyTorch/Tensorflow 리뷰/설치, Tutorial/Sample code 
