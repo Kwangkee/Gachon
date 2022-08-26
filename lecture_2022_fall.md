@@ -8,9 +8,10 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 #### 강의 (Instructor)  
 - 연합학습 소개, https://github.com/Kwangkee/FL/blob/main/FL@Intro.md#fl-introduction  
 >[Must-read] Federated Learning Tutorial@NeurIPS 2020, https://sites.google.com/view/fl-tutorial/, [Slide] https://drive.google.com/file/d/1QGY2Zytp9XRSu95fX2lCld8DwfEdcHCG/view   
->[Must-read] Communication-Efficient Learning of Deep Networks from Decentralized Data, https://arxiv.org/abs/1602.05629  
+>[Recommended] Communication-Efficient Learning of Deep Networks from Decentralized Data, https://arxiv.org/abs/1602.05629  
 >[Recommended] Towards Federated Learning at Scale: System Design, https://arxiv.org/abs/1902.01046  
->[Recommended] Advances and Open Problems in Federated Learning, https://arxiv.org/abs/1912.04977    
+>[Recommended] Advances and Open Problems in Federated Learning, https://arxiv.org/abs/1912.04977   
+>[Recommended] Adaptive Federrated Optimization, https://arxiv.org/abs/2003.00295
 
 - Virginia Smith, https://www.cs.cmu.edu/~smithv/, ML with Large Datasets, Fall 2021, https://10605.github.io/fall2021/  
 >[Prerequisite] Introduction ([slides](https://drive.google.com/file/d/1-0aBTILgeMKn6FDfOBfg-hG1qCtRNNNr/view?usp=sharing), video)  
@@ -22,9 +23,12 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 ***
 ## 2주
 #### 강의 (Instructor)  
+- FLRA: a reference architecture of federated learning systems, https://github.com/Kwangkee/FL/blob/main/FL%40CSIRO.md#flra-a-reference-architecture-for-federated-learning-systems
+>[Must-read] FLRA: A Reference Architecture for Federated Learning Systems, https://arxiv.org/abs/2106.11570  
+
 - 연합학습 Open Source Platform  https://github.com/Kwangkee/FL/blob/main/FL@Platform.md
 >[Must-read] Flower: A Friendly Federated Learning Research Framework, https://arxiv.org/abs/2007.14390  
->[Must-read] A scalable and extensible federated learning engine and benchmark, http://fedscale.ai/  
+>[Recommended] A scalable and extensible federated learning engine and benchmark, http://fedscale.ai/  
 >[Recommended] Open-Source Systems for Federated Learning | Stanford MLSys #48, https://www.youtube.com/watch?v=TcbOMbg4F9g
 #### 실습 (TA)
 - [발표] 연합학습 Open Source Platform (Flower/FedScale) 리뷰
@@ -40,6 +44,7 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 - 동적인 디바이스 환경에서 적응적 연합학습, https://github.com/Kwangkee/FL/blob/main/AFL.md
 >[Must read] Towards Personalized Federated Learning, https://arxiv.org/abs/2103.00710  
 >[Recommended] Stanford MLSys Seminar Episode 3: Virginia Smith, On Heterogeneity in Federated Settings, https://www.youtube.com/watch?v=laCyJICLyWg  
+>[Recommended] Ditto: Fair and Robust Federated Learning Through Personalization, https://proceedings.mlr.press/v139/li21h.html   
 >Client Selection for Asynchronous Federated Learning with Fairness Consideration, https://ieeexplore.ieee.org/document/9814669  
 >Client Selection for Federated Learning With Label Noise, https://ieeexplore.ieee.org/document/9632344  
 >Overcoming Noisy and Irrelevant Data in Federated Learning, https://arxiv.org/abs/2001.08300    
