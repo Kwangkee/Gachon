@@ -34,6 +34,7 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 >[Must-read] Flower: A Friendly Federated Learning Research Framework, https://arxiv.org/abs/2007.14390  
 
 - FedScale: Benchmarking Model and System Performance of Federated Learning at Scale, https://github.com/Kwangkee/FL/blob/main/FL%40FedScale.md
+>[Must-read] FedScale: Benchmarking Model and System Performance of Federated Learning at Scale, https://arxiv.org/abs/2105.11367  
 >[Recommended] Open-Source Systems for Federated Learning | [Stanford MLSys](https://mlsys.stanford.edu/) #48, https://www.youtube.com/watch?v=TcbOMbg4F9g
 
 - MLOps
