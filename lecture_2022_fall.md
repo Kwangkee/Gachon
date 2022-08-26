@@ -40,9 +40,10 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 - 동적인 디바이스 환경에서 적응적 연합학습, https://github.com/Kwangkee/FL/blob/main/AFL.md
 >[Must read] Towards Personalized Federated Learning, https://arxiv.org/abs/2103.00710
 >[Recommended] Stanford MLSys Seminar Episode 3: Virginia Smith, On Heterogeneity in Federated Settings, https://www.youtube.com/watch?v=laCyJICLyWg
+>Client Selection for Asynchronous Federated Learning with Fairness Consideration, https://ieeexplore.ieee.org/document/9814669
+>Client Selection for Federated Learning With Label Noise, https://ieeexplore.ieee.org/document/9632344
 >Overcoming Noisy and Irrelevant Data in Federated Learning, https://arxiv.org/abs/2001.08300  
->Robust Federated Learning with Noisy Labels, KAIST, https://arxiv.org/abs/2012.01700
-
+>Robust Federated Learning with Noisy Labels, KAIST, https://ieeexplore.ieee.org/abstract/document/9713942
 
 #### 실습 (TA)
 - Federated MetaSense, 적응적 연합학습
