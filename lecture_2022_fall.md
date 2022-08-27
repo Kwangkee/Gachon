@@ -13,9 +13,9 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 >Part IV: Open Problems and Other Topics  
 
 - FL Intro, https://github.com/Kwangkee/FL/blob/main/FL@Intro.md#fl-introduction  
->[Recommended] Communication-Efficient Learning of Deep Networks from Decentralized Data, https://arxiv.org/abs/1602.05629  
->[Recommended] Towards Federated Learning at Scale: System Design, https://arxiv.org/abs/1902.01046  
->[Recommended] Advances and Open Problems in Federated Learning, https://arxiv.org/abs/1912.04977   
+>[Recommend] Communication-Efficient Learning of Deep Networks from Decentralized Data, https://arxiv.org/abs/1602.05629  
+>[Recommend] Towards Federated Learning at Scale: System Design, https://arxiv.org/abs/1902.01046  
+>[Recommend] Advances and Open Problems in Federated Learning, https://arxiv.org/abs/1912.04977   
 
 - Virginia Smith, https://www.cs.cmu.edu/~smithv/, ML with Large Datasets, Fall 2021, https://10605.github.io/fall2021/  
 >Introduction ([slides](https://drive.google.com/file/d/1-0aBTILgeMKn6FDfOBfg-hG1qCtRNNNr/view?usp=sharing), video)  
@@ -36,7 +36,7 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 - FedScale: Benchmarking Model and System Performance of Federated Learning at Scale, https://github.com/Kwangkee/FL/blob/main/FL%40FedScale.md
 >[slides] http://www-personal.umich.edu/~fanlai/assets/docs/fedscale-icml-slides.pdf from http://www-personal.umich.edu/~fanlai/  
 >[Must-read] FedScale: Benchmarking Model and System Performance of Federated Learning at Scale, https://arxiv.org/abs/2105.11367  
->[Recommended] Open-Source Systems for Federated Learning | [Stanford MLSys](https://mlsys.stanford.edu/) #48, https://www.youtube.com/watch?v=TcbOMbg4F9g
+>[Recommend] Open-Source Systems for Federated Learning | [Stanford MLSys](https://mlsys.stanford.edu/) #48, https://www.youtube.com/watch?v=TcbOMbg4F9g
 
 - MLOps
 >[Recommended] MLOps System Design for Development and Production | [Stanford MLSys](https://mlsys.stanford.edu/) #44, https://www.youtube.com/watch?v=TcbOMbg4F9g  
@@ -53,9 +53,9 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 #### 강의 (Instructor)  
 - 연합학습 이슈 : Data/System Heterogeneity in Federated Learning, Personalized FL
 - 동적인 디바이스 환경에서 적응적 연합학습, https://github.com/Kwangkee/FL/blob/main/AFL.md
->[Must read] Towards Personalized Federated Learning, https://arxiv.org/abs/2103.00710  
->[Recommended] Stanford MLSys Seminar Episode 3: Virginia Smith, On Heterogeneity in Federated Settings, https://www.youtube.com/watch?v=laCyJICLyWg  
->[Recommended] Ditto: Fair and Robust Federated Learning Through Personalization, https://proceedings.mlr.press/v139/li21h.html   
+>[Must-read] Towards Personalized Federated Learning, https://arxiv.org/abs/2103.00710  
+>[Recommend] Stanford MLSys Seminar Episode 3: Virginia Smith, On Heterogeneity in Federated Settings, https://www.youtube.com/watch?v=laCyJICLyWg  
+>[Recommend] Ditto: Fair and Robust Federated Learning Through Personalization, https://proceedings.mlr.press/v139/li21h.html   
 >Client Selection for Asynchronous Federated Learning with Fairness Consideration, https://ieeexplore.ieee.org/document/9814669  
 >Client Selection for Federated Learning With Label Noise, https://ieeexplore.ieee.org/document/9632344  
 >Overcoming Noisy and Irrelevant Data in Federated Learning, https://arxiv.org/abs/2001.08300    
