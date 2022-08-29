@@ -6,7 +6,6 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 ***
 ## 1주
 #### 강의 (Instructor)  
-
 - Federated Learning Tutorial@NeurIPS 2020, https://sites.google.com/view/fl-tutorial/, [slides] https://drive.google.com/file/d/1QGY2Zytp9XRSu95fX2lCld8DwfEdcHCG/view
   >Part I: What is Federated Learning?  
   >Part II: Federated Optimization  
@@ -35,13 +34,12 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
   >[Must-read] Flower: A Friendly Federated Learning Research Framework, https://arxiv.org/abs/2007.14390  
 
 - FedScale: Benchmarking Model and System Performance of Federated Learning at Scale, https://github.com/Kwangkee/FL/blob/main/FL%40FedScale.md
-  >[slides] http://www-personal.umich.edu/~fanlai/assets/docs/fedscale-icml-slides.pdf from http://www-personal.umich.edu/~fanlai/  
   >[Must-read] FedScale: Benchmarking Model and System Performance of Federated Learning at Scale, https://arxiv.org/abs/2105.11367  
+  >[slides] http://www-personal.umich.edu/~fanlai/assets/docs/fedscale-icml-slides.pdf from http://www-personal.umich.edu/~fanlai/  
   >[Recommend] Open-Source Systems for Federated Learning | [Stanford MLSys](https://mlsys.stanford.edu/) #48, https://www.youtube.com/watch?v=TcbOMbg4F9g
 
 - MLOps
   >[Recommended] MLOps System Design for Development and Production | [Stanford MLSys](https://mlsys.stanford.edu/) #44, https://www.youtube.com/watch?v=TcbOMbg4F9g  
- 
 #### 실습 (TA)
 - [발표] 연합학습 Open Source Platform (Flower/FedScale) 리뷰
 - [실습] Flower 설치, Tutorial/Sample code
@@ -59,7 +57,6 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 
 - Personalized federated learning, https://github.com/Kwangkee/FL/blob/main/FL@Nanyang.md#towards-personalized-federated-learning
   >[Must-read] Towards Personalized Federated Learning, https://arxiv.org/abs/2103.00710  
-  
 #### 실습 (TA)
 - Federated MetaSense, 적응적 연합학습
 #### 학생 발표
@@ -80,9 +77,11 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
   >Robust Federated Learning with Noisy Labels, KAIST, https://ieeexplore.ieee.org/document/9713942
 
 - 연합학습 Public Data, Benchmarking, https://github.com/Kwangkee/FL/blob/main/FL@Benchmark.md
+
 #### 실습 (TA)
 - [발표] 연합학습 Public Data, PFL Benchmarking 개요
 - [실습] 연합학습 Public Data, PFL Benchmarking 설치, Tutorial/Sample code 
+
 #### 학생 발표
 - [학생#1 발표] FedScale 사용기, 실습 결과, https://github.com/Kwangkee/FL/blob/main/FL@FedScale.md
 - [학생#2 발표] FLSim 사용기, 실습 결과, https://github.com/Kwangkee/FL/blob/main/FL@Meta.md
@@ -91,9 +90,11 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 #### 강의 (Instructor)  
 - 연합학습의 Digital Healthcare 분야 적용, https://github.com/Kwangkee/rPPG
 - 디지털 헬스케어를 위한 블록체인 융합 원격임상시험 서비스 개발, https://drive.google.com/drive/u/0/folders/1qV5jN-KspZWYuUZEzx0mzLEYPsomzhko
+
 #### 실습 (TA)
 - [발표] rPPG 리뷰
 - [실습] rPPG 실습
+
 #### 학생 발표
 - [학생#1 발표] Benchmark 사용기, 실습 결과, https://github.com/Kwangkee/FL/blob/main/FL@Benchmark.md
 
