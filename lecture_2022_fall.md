@@ -32,15 +32,12 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 - 연합학습 Open Source Platform https://github.com/Kwangkee/FL/blob/main/FL@Platform.md
   >[Must-read] Flower: A Friendly Federated Learning Research Framework, https://arxiv.org/abs/2007.14390  
 
-- FedScale: Benchmarking Model and System Performance of Federated Learning at Scale, https://github.com/Kwangkee/FL/blob/main/FL%40FedScale.md
-  >[Must-read] FedScale: Benchmarking Model and System Performance of Federated Learning at Scale, https://arxiv.org/abs/2105.11367  
-  >[Recommend] Swan, https://github.com/Kwangkee/FL/blob/main/FL%40FedScale.md#swan, Swan   
-
+- FedScale: Benchmarking Model and System Performance of Federated Learning at Scale, https://github.com/Kwangkee/FL/blob/main/FL%40FedScale.md  
+  >[Must-read] FedScale: Benchmarking Model and System Performance of Federated Learning at Scale, https://arxiv.org/abs/2105.11367   
+  >[Recommend] Swan, https://github.com/Kwangkee/FL/blob/main/FL%40FedScale.md#swan   
   >[slides] http://www-personal.umich.edu/~fanlai/assets/docs/fedscale-icml-slides.pdf from http://www-personal.umich.edu/~fanlai/  
   >Open-Source Systems for Federated Learning | [Stanford MLSys](https://mlsys.stanford.edu/) #48, https://www.youtube.com/watch?v=TcbOMbg4F9g
 
-- MLOps
-  >MLOps System Design for Development and Production | [Stanford MLSys](https://mlsys.stanford.edu/) #44, https://www.youtube.com/watch?v=TcbOMbg4F9g  
 #### 실습 (TA)
 - [발표] 연합학습 Open Source Platform (Flower/FedScale) 리뷰
 - [실습] Flower 설치, Tutorial/Sample code
@@ -155,6 +152,8 @@ TA
 [etc]
 - [Invited Talk] KAIST MetaSense, FedBalancer
 - Stanford MLSys Seminar Series, https://mlsys.stanford.edu/
+- MLOps
+  >MLOps System Design for Development and Production | [Stanford MLSys](https://mlsys.stanford.edu/) #44, https://www.youtube.com/watch?v=TcbOMbg4F9g  
 - Virginia Smith, https://www.cs.cmu.edu/~smithv/, ML with Large Datasets, Fall 2021, https://10605.github.io/fall2021/
 >- Aug 31	Introduction ([slides](https://drive.google.com/file/d/1-0aBTILgeMKn6FDfOBfg-hG1qCtRNNNr/view?usp=sharing), video)
 >- Nov 23	Federated Learning ([slides](https://drive.google.com/file/d/13WrVAophCH6pgkgRJoFhhf2Fndlr-zin/view?usp=sharing), [video](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e987cd72-7681-403a-942b-ade9014cd267))
