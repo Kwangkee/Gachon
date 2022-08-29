@@ -30,7 +30,7 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 - FLRA: a reference architecture of federated learning systems, https://github.com/Kwangkee/FL/blob/main/FL%40CSIRO.md#flra-a-reference-architecture-for-federated-learning-systems
   >[Must-read] FLRA: A Reference Architecture for Federated Learning Systems, https://arxiv.org/abs/2106.11570  
 
-- 연합학습 Open Source Platform  https://github.com/Kwangkee/FL/blob/main/FL@Platform.md
+- 연합학습 Open Source Platform https://github.com/Kwangkee/FL/blob/main/FL@Platform.md
   >[Must-read] Flower: A Friendly Federated Learning Research Framework, https://arxiv.org/abs/2007.14390  
 
 - FedScale: Benchmarking Model and System Performance of Federated Learning at Scale, https://github.com/Kwangkee/FL/blob/main/FL%40FedScale.md
@@ -60,8 +60,8 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 #### 실습 (TA)
 - Federated MetaSense, 적응적 연합학습
 #### 학생 발표
-- [학생#1 발표] Flower 사용기, 실습 결과, https://github.com/Kwangkee/FL/blob/main/FL@Platform.md#flower
-- [학생#2 발표] Flower 사용기, 실습 결과, https://github.com/Kwangkee/FL/blob/main/FL@Platform.md#flower
+- [학생#1 발표] Flower 사용기, 실습 결과, https://github.com/Kwangkee/FL/blob/main/FL@Platform.md
+- [학생#2 발표] FedScale 사용기, 실습 결과, https://github.com/Kwangkee/FL/blob/main/FL@Platform.md  
 
 ## 4주
 #### 강의 (Instructor)  
@@ -83,8 +83,8 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 - [실습] 연합학습 Public Data, PFL Benchmarking 설치, Tutorial/Sample code 
 
 #### 학생 발표
-- [학생#1 발표] FedScale 사용기, 실습 결과, https://github.com/Kwangkee/FL/blob/main/FL@FedScale.md
-- [학생#2 발표] FLSim 사용기, 실습 결과, https://github.com/Kwangkee/FL/blob/main/FL@Meta.md
+- [학생#1 발표] FedML 사용기, 실습 결과, https://github.com/Kwangkee/FL/blob/main/FL@Platform.md 
+- [학생#2 발표] FLSim 사용기, 실습 결과, https://github.com/Kwangkee/FL/blob/main/FL@Platform.md 
 
 ## 5주
 #### 강의 (Instructor)  
