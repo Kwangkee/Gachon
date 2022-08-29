@@ -6,7 +6,7 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 ***
 ## 1주
 #### 강의 (Instructor)  
-- Federated Learning Tutorial@NeurIPS 2020, https://sites.google.com/view/fl-tutorial/, [slides] https://drive.google.com/file/d/1QGY2Zytp9XRSu95fX2lCld8DwfEdcHCG/view
+- [Must-read] Federated Learning Tutorial@NeurIPS 2020, https://sites.google.com/view/fl-tutorial/, [slides] https://drive.google.com/file/d/1QGY2Zytp9XRSu95fX2lCld8DwfEdcHCG/view
   >Part I: What is Federated Learning?  
   >Part II: Federated Optimization  
   >*Part III: Privacy for Federated Learning and Analytics*  
@@ -27,8 +27,7 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 ***
 ## 2주
 #### 강의 (Instructor)  
-- FLRA: a reference architecture of federated learning systems, https://github.com/Kwangkee/FL/blob/main/FL%40CSIRO.md#flra-a-reference-architecture-for-federated-learning-systems
-  >[Must-read] FLRA: A Reference Architecture for Federated Learning Systems, https://arxiv.org/abs/2106.11570  
+- [Must-read] FLRA: a reference architecture of federated learning systems, https://github.com/Kwangkee/FL/blob/main/FL%40CSIRO.md#flra-a-reference-architecture-for-federated-learning-systems
 
 - 연합학습 Open Source Platform https://github.com/Kwangkee/FL/blob/main/FL@Platform.md
   >[Must-read] Flower: A Friendly Federated Learning Research Framework, https://arxiv.org/abs/2007.14390  
