@@ -80,8 +80,8 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 - [실습] 연합학습 Public Data, PFL Benchmarking 설치, Tutorial/Sample code 
 
 #### 학생 발표
-- [학생#1 발표] Open Source Platform 사용기, 실습 결과, https://github.com/Kwangkee/FL/blob/main/FL@Platform.md, FedML
-- [학생#2 발표] Open Source Platform 사용기, 실습 결과, https://github.com/Kwangkee/FL/blob/main/FL@Platform.md, FLSim  
+- [학생#1 발표] Open Source Platform 사용기, 실습 결과, https://github.com/Kwangkee/FL/blob/main/FL@Platform.md, Swan
+- [학생#2 발표] Open Source Platform 사용기, 실습 결과, https://github.com/Kwangkee/FL/blob/main/FL@Platform.md, FedML, FLSim, ...  
 - 
 ## 5주
 #### 강의 (Instructor)  
