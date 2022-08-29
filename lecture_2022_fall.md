@@ -1,7 +1,7 @@
 Course Overview, https://github.com/Kwangkee/Gachon/blob/main/Lecture_2022_Fall-1.pdf  
 Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 - [1주차에] 본 class 에 기대하는 바, 제안사항 주시고, [이후] 질문/제안 언제든 주시기 바랍니다.
-- 숙제, 발표자료는 하루 전 까지 [[사이버캠퍼스](https://cyber.gachon.ac.kr/course/view.php?id=79839)]에 upload
+- 숙제, 발표자료는 하루 전 까지 [[사이버캠퍼스](https://cyber.gachon.ac.kr/course/view.php?id=79839)]에 upload 해 주세요.
 
 ***
 ## 1주
@@ -39,7 +39,7 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
   >[Recommend] Open-Source Systems for Federated Learning | [Stanford MLSys](https://mlsys.stanford.edu/) #48, https://www.youtube.com/watch?v=TcbOMbg4F9g
 
 - MLOps
-  >[Recommended] MLOps System Design for Development and Production | [Stanford MLSys](https://mlsys.stanford.edu/) #44, https://www.youtube.com/watch?v=TcbOMbg4F9g  
+  >MLOps System Design for Development and Production | [Stanford MLSys](https://mlsys.stanford.edu/) #44, https://www.youtube.com/watch?v=TcbOMbg4F9g  
 #### 실습 (TA)
 - [발표] 연합학습 Open Source Platform (Flower/FedScale) 리뷰
 - [실습] Flower 설치, Tutorial/Sample code
@@ -51,7 +51,7 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 ## 3주
 #### 강의 (Instructor)  
 - 연합학습 이슈 : Data/System Heterogeneity in Federated Learning, Personalized FL
-  >[Recommend] Stanford MLSys Seminar Episode 3: Virginia Smith, On Heterogeneity in Federated Settings, https://www.youtube.com/watch?v=laCyJICLyWg
+  >Stanford MLSys Seminar Episode 3: Virginia Smith, On Heterogeneity in Federated Settings, https://www.youtube.com/watch?v=laCyJICLyWg
 
 - 동적인 디바이스 환경에서 적응적 연합학습, https://github.com/Kwangkee/FL/blob/main/AFL.md  
 
