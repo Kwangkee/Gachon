@@ -52,15 +52,13 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 ## 3주
 #### 강의 (Instructor)  
 - 연합학습 이슈 : Data/System Heterogeneity in Federated Learning, Personalized FL
-- 동적인 디바이스 환경에서 적응적 연합학습, https://github.com/Kwangkee/FL/blob/main/AFL.md
->[Must-read] Towards Personalized Federated Learning, https://arxiv.org/abs/2103.00710  
->[Recommend] Stanford MLSys Seminar Episode 3: Virginia Smith, On Heterogeneity in Federated Settings, https://www.youtube.com/watch?v=laCyJICLyWg  
->[Recommend] Ditto: Fair and Robust Federated Learning Through Personalization, https://proceedings.mlr.press/v139/li21h.html   
->Client Selection for Asynchronous Federated Learning with Fairness Consideration, https://ieeexplore.ieee.org/document/9814669  
->Client Selection for Federated Learning With Label Noise, https://ieeexplore.ieee.org/document/9632344  
->Overcoming Noisy and Irrelevant Data in Federated Learning, https://arxiv.org/abs/2001.08300    
->Robust Federated Learning with Noisy Labels, KAIST, https://ieeexplore.ieee.org/document/9713942 
+>[Recommend] Stanford MLSys Seminar Episode 3: Virginia Smith, On Heterogeneity in Federated Settings, https://www.youtube.com/watch?v=laCyJICLyWg
 
+- 동적인 디바이스 환경에서 적응적 연합학습, https://github.com/Kwangkee/FL/blob/main/AFL.md  
+
+- Personalized federated learning, https://github.com/Kwangkee/FL/blob/main/FL@Nanyang.md#towards-personalized-federated-learning
+>[Must-read] Towards Personalized Federated Learning, https://arxiv.org/abs/2103.00710  
+  
 #### 실습 (TA)
 - Federated MetaSense, 적응적 연합학습
 #### 학생 발표
@@ -69,7 +67,15 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 
 ## 4주
 #### 강의 (Instructor)  
-- Personalized federated learning, https://github.com/Kwangkee/FL/blob/main/FL@Nanyang.md#towards-personalized-federated-learning
+
+>[Recommend] Ditto: Fair and Robust Federated Learning Through Personalization, https://proceedings.mlr.press/v139/li21h.html   
+>Client Selection for Asynchronous Federated Learning with Fairness Consideration, https://ieeexplore.ieee.org/document/9814669  
+>Client Selection for Federated Learning With Label Noise, https://ieeexplore.ieee.org/document/9632344  
+>Overcoming Noisy and Irrelevant Data in Federated Learning, https://arxiv.org/abs/2001.08300    
+>Robust Federated Learning with Noisy Labels, KAIST, https://ieeexplore.ieee.org/document/9713942
+
+
+
 - 연합학습 Public Data, Benchmarking, https://github.com/Kwangkee/FL/blob/main/FL@Benchmark.md
 #### 실습 (TA)
 - [발표] 연합학습 Public Data, PFL Benchmarking 개요
