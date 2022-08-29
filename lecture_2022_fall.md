@@ -34,6 +34,8 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 
 - FedScale: Benchmarking Model and System Performance of Federated Learning at Scale, https://github.com/Kwangkee/FL/blob/main/FL%40FedScale.md
   >[Must-read] FedScale: Benchmarking Model and System Performance of Federated Learning at Scale, https://arxiv.org/abs/2105.11367  
+  >[Recommend] Swan, https://github.com/Kwangkee/FL/blob/main/FL%40FedScale.md#swan, Swan   
+
   >[slides] http://www-personal.umich.edu/~fanlai/assets/docs/fedscale-icml-slides.pdf from http://www-personal.umich.edu/~fanlai/  
   >Open-Source Systems for Federated Learning | [Stanford MLSys](https://mlsys.stanford.edu/) #48, https://www.youtube.com/watch?v=TcbOMbg4F9g
 
@@ -81,9 +83,9 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 - [실습] 연합학습 Public Data, PFL Benchmarking 설치, Tutorial/Sample code 
 
 #### 학생 발표
-- [학생#1 발표] Open Source Platform 사용기, 실습 결과, https://github.com/Kwangkee/FL/blob/main/FL@Platform.md, Swan
-- [학생#2 발표] Open Source Platform 사용기, 실습 결과, https://github.com/Kwangkee/FL/blob/main/FL@Platform.md, FedML, FLSim, ...  
-- 
+- [학생#1 발표] Open Source Platform 사용기, 실습 결과, https://github.com/Kwangkee/FL/blob/main/FL@Platform.md, FedML, FLSim, ...   
+- [학생#2 발표] Open Source Platform 사용기, 실습 결과, https://github.com/Kwangkee/FL/blob/main/FL%40FedScale.md#swan, Swan  
+
 ## 5주
 #### 강의 (Instructor)  
 - 연합학습의 Digital Healthcare 분야 적용 사례
