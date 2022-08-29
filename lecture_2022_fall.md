@@ -89,7 +89,7 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 - 연합학습의 Digital Healthcare 분야 적용 사례
 - 디지털 헬스케어를 위한 블록체인 융합 원격임상시험 서비스 개발, https://drive.google.com/drive/u/0/folders/1qV5jN-KspZWYuUZEzx0mzLEYPsomzhko
 - Equideum Health, https://github.com/Kwangkee/FL/blob/main/BCFL%40Equideum.md
-- rPPG, https://github.com/Kwangkee/rPPG
+- rPPG, https://github.com/Kwangkee/rPPG, 원격임상시험 D-2 리뷰
 
 #### 실습 (TA)
 - [발표] rPPG 리뷰
