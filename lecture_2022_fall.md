@@ -36,7 +36,7 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 - FedScale: Benchmarking Model and System Performance of Federated Learning at Scale, https://github.com/Kwangkee/FL/blob/main/FL%40FedScale.md
   >[Must-read] FedScale: Benchmarking Model and System Performance of Federated Learning at Scale, https://arxiv.org/abs/2105.11367  
   >[slides] http://www-personal.umich.edu/~fanlai/assets/docs/fedscale-icml-slides.pdf from http://www-personal.umich.edu/~fanlai/  
-  >[Recommend] Open-Source Systems for Federated Learning | [Stanford MLSys](https://mlsys.stanford.edu/) #48, https://www.youtube.com/watch?v=TcbOMbg4F9g
+  >Open-Source Systems for Federated Learning | [Stanford MLSys](https://mlsys.stanford.edu/) #48, https://www.youtube.com/watch?v=TcbOMbg4F9g
 
 - MLOps
   >MLOps System Design for Development and Production | [Stanford MLSys](https://mlsys.stanford.edu/) #44, https://www.youtube.com/watch?v=TcbOMbg4F9g  
@@ -60,16 +60,14 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 #### 실습 (TA)
 - Federated MetaSense, 적응적 연합학습
 #### 학생 발표
-- [학생#1 발표] Flower 사용기, 실습 결과, https://github.com/Kwangkee/FL/blob/main/FL@Platform.md
-- [학생#2 발표] FedScale 사용기, 실습 결과, https://github.com/Kwangkee/FL/blob/main/FL@Platform.md  
+- [학생#1 발표] Open Source Platform 사용기, 실습 결과, https://github.com/Kwangkee/FL/blob/main/FL@Platform.md, Flower
+- [학생#2 발표] Open Source Platform 사용기, 실습 결과, https://github.com/Kwangkee/FL/blob/main/FL@Platform.md, FedScale  
 
 ## 4주
 #### 강의 (Instructor)  
 - Client Selection, https://github.com/Kwangkee/FL/blob/main/FL%40ClientSelection.md
   >[Recommend] Ditto: Fair and Robust Federated Learning Through Personalization, https://proceedings.mlr.press/v139/li21h.html   
   >[Must-read] Oort: Efficient Federated Learning via Guided Participant Selection, https://github.com/Kwangkee/FL/blob/main/FL%40ClientSelection.md#oort
-  >Client Selection for Asynchronous Federated Learning with Fairness Consideration, https://ieeexplore.ieee.org/document/9814669  
-  >Client Selection for Federated Learning With Label Noise, https://ieeexplore.ieee.org/document/9632344  
 
 - FL with Noisy Labels  
   >Federated Learning with Noisy Labels, https://arxiv.org/abs/2208.09378
@@ -83,9 +81,9 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 - [실습] 연합학습 Public Data, PFL Benchmarking 설치, Tutorial/Sample code 
 
 #### 학생 발표
-- [학생#1 발표] FedML 사용기, 실습 결과, https://github.com/Kwangkee/FL/blob/main/FL@Platform.md 
-- [학생#2 발표] FLSim 사용기, 실습 결과, https://github.com/Kwangkee/FL/blob/main/FL@Platform.md 
-
+- [학생#1 발표] Open Source Platform 사용기, 실습 결과, https://github.com/Kwangkee/FL/blob/main/FL@Platform.md, FedML
+- [학생#2 발표] Open Source Platform 사용기, 실습 결과, https://github.com/Kwangkee/FL/blob/main/FL@Platform.md, FLSim  
+- 
 ## 5주
 #### 강의 (Instructor)  
 - 연합학습의 Digital Healthcare 분야 적용, https://github.com/Kwangkee/rPPG
@@ -96,12 +94,13 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 - [실습] rPPG 실습
 
 #### 학생 발표
-- [학생#1 발표] Benchmark 사용기, 실습 결과, https://github.com/Kwangkee/FL/blob/main/FL@Benchmark.md
+- [학생#1 발표] PFL Benchmark 사용기, 실습 결과, https://github.com/Kwangkee/FL/blob/main/FL@Benchmark.md
+- [학생#2 발표] PFL Benchmark 사용기, 실습 결과, https://github.com/Kwangkee/FL/blob/main/FL@Benchmark.md
 
 ## 6주
 #### 강의 (Instructor)  
 - 연합학습의 medical 분야 적용, https://github.com/Kwangkee/FL/blob/main/FL@Medical.md
-- [Optional] Artificial Intelligence in Healthcare, https://biods220.stanford.edu/, Distributed Learning, Security, and Privacy lecture14.pdf, https://biods220.stanford.edu/lectures/lecture14.pdf
+- Artificial Intelligence in Healthcare, https://biods220.stanford.edu/, Distributed Learning, Security, and Privacy lecture14.pdf, https://biods220.stanford.edu/lectures/lecture14.pdf
 #### 실습 (TA)
 - [발표] 원격임상시험 D-3 리뷰
 - [실습] PoC 결과
@@ -110,22 +109,29 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 
 ## 7주
 #### 강의 (Instructor)  
-- 블록체인 융합 연합학습, https://github.com/Kwangkee/FL/blob/main/FL@CSIRO.md
+- 블록체인 융합 연합학습, https://github.com/Kwangkee/FL/blob/main/FL%40CSIRO.md#towards-trustworthy-ai
+- 2CP: Decentralized Protocols to Transparently Evaluate Contributivity in Blockchain Federated Learning Environments, https://arxiv.org/abs/2011.07516, Code: https://github.com/cai-harry/2CP
+- BCFL@Korea, https://github.com/Kwangkee/FL/blob/main/BCFL%40Korea.md
+  >[Must-read] 2CP: Decentralized Protocols to Transparently Evaluate Contributivity in Blockchain Federated Learning Environments, https://arxiv.org/abs/2011.07516, Code: https://github.com/cai-harry/2CP  
+  >[Recommend] [[Towards Trustworthy AI: Blockchain-based Architecture Design for Accountability and Fairness of Federated Learning Systems](https://github.com/Kwangkee/FL/blob/main/FL%40CSIRO.md#towards-trustworthy-ai)], https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=TuL21poAAAAJ&sortby=pubdate&citation_for_view=TuL21poAAAAJ:koF6b02d8EEC
+ 
 #### 실습 (TA)
 - [발표] BC 리뷰
 - [실습] Ethereum Simulator, Solidity
 #### 학생 발표
-- [학생#1 발표] 
+- [학생 발표] Deep dive 주제 (응용 및 Open Challenges) 발표 : 1 page proposal
 
 ## 8주
 #### 강의 (Instructor)  
 - 블록체인 융합 연합학습, https://github.com/Kwangkee/FL/blob/main/FL@Nanyang.md
+  >[Must-read] 2CP  
+  >[Recommend] xyz
+
 #### 실습 (TA)
 - [발표] BCFL 리뷰
 - [실습] 2CP Simulator
 #### 학생 발표
-- [학생#1 발표] 
-
+- [학생 발표] Deep dive 주제 (응용 및 Open Challenges) 발표 : 1 page proposal
 
 ****
 
