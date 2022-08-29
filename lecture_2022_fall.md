@@ -111,8 +111,7 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 #### 강의 (Instructor)  
 - 블록체인 융합 연합학습, https://github.com/Kwangkee/FL/blob/main/BCFL%40Korea.md
   >[Must-read] 2CP: Decentralized Protocols to Transparently Evaluate Contributivity in Blockchain Federated Learning Environments, https://arxiv.org/abs/2011.07516, Code: https://github.com/cai-harry/2CP  
-  >[Must-read] [[Towards Trustworthy AI: Blockchain-based Architecture Design for Accountability and Fairness of Federated Learning Systems](https://github.com/Kwangkee/FL/blob/main/FL%40CSIRO.md#towards-trustworthy-ai)], https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=TuL21poAAAAJ&sortby=pubdate&citation_for_view=TuL21poAAAAJ:koF6b02d8EEC
- 
+
 #### 실습 (TA)
 - [발표] BC 리뷰
 - [실습] Ethereum Simulator, Solidity
@@ -121,9 +120,8 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 
 ## 8주
 #### 강의 (Instructor)  
-- 블록체인 융합 연합학습, https://github.com/Kwangkee/FL/blob/main/FL@Nanyang.md
-  >[Must-read] 2CP  
-  >[Recommend] xyz
+- 블록체인 융합 연합학습, https://github.com/Kwangkee/FL/blob/main/BCFL%40Korea.md
+  >[Must-read] [[Towards Trustworthy AI: Blockchain-based Architecture Design for Accountability and Fairness of Federated Learning Systems](https://github.com/Kwangkee/FL/blob/main/FL%40CSIRO.md#towards-trustworthy-ai)], https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=TuL21poAAAAJ&sortby=pubdate&citation_for_view=TuL21poAAAAJ:koF6b02d8EEC
 
 #### 실습 (TA)
 - [발표] BCFL 리뷰
