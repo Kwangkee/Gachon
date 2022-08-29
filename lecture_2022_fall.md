@@ -6,30 +6,21 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 ***
 ## 1주
 #### 강의 (Instructor)  
-- Federated Learning Tutorial@NeurIPS 2020, https://sites.google.com/view/fl-tutorial/, [slides] https://drive.google.com/file/d/1QGY2Zytp9XRSu95fX2lCld8DwfEdcHCG/view
->Part I: What is Federated Learning?  
->Part II: Federated Optimization  
->*Part III: Privacy for Federated Learning and Analytics*  
->Part IV: Open Problems and Other Topics  
 
 - Federated Learning Tutorial@NeurIPS 2020, https://sites.google.com/view/fl-tutorial/, [slides] https://drive.google.com/file/d/1QGY2Zytp9XRSu95fX2lCld8DwfEdcHCG/view
-  - Part I: What is Federated Learning?  
-  - Part II: Federated Optimization  
-
-
-- Federated Learning Tutorial@NeurIPS 2020, https://sites.google.com/view/fl-tutorial/, [slides] https://drive.google.com/file/d/1QGY2Zytp9XRSu95fX2lCld8DwfEdcHCG/view
- >- Part I: What is Federated Learning?  
- >- Part II: Federated Optimization  
-
+  >Part I: What is Federated Learning?  
+  >Part II: Federated Optimization  
+  >*Part III: Privacy for Federated Learning and Analytics*  
+  >Part IV: Open Problems and Other Topics  
 
 - FL Intro, https://github.com/Kwangkee/FL/blob/main/FL@Intro.md#fl-introduction  
->[Recommend] Communication-Efficient Learning of Deep Networks from Decentralized Data, https://arxiv.org/abs/1602.05629  
->[Recommend] Towards Federated Learning at Scale: System Design, https://arxiv.org/abs/1902.01046  
->[Recommend] Advances and Open Problems in Federated Learning, https://arxiv.org/abs/1912.04977   
+  >[Recommend] Communication-Efficient Learning of Deep Networks from Decentralized Data, https://arxiv.org/abs/1602.05629  
+  >[Recommend] Towards Federated Learning at Scale: System Design, https://arxiv.org/abs/1902.01046  
+  >[Recommend] Advances and Open Problems in Federated Learning, https://arxiv.org/abs/1912.04977   
 
 - Virginia Smith, https://www.cs.cmu.edu/~smithv/, ML with Large Datasets, Fall 2021, https://10605.github.io/fall2021/  
->Introduction ([slides](https://drive.google.com/file/d/1-0aBTILgeMKn6FDfOBfg-hG1qCtRNNNr/view?usp=sharing), video)  
->Federated Learning ([slides](https://drive.google.com/file/d/13WrVAophCH6pgkgRJoFhhf2Fndlr-zin/view?usp=sharing), video)  
+  >Introduction ([slides](https://drive.google.com/file/d/1-0aBTILgeMKn6FDfOBfg-hG1qCtRNNNr/view?usp=sharing), video)  
+  >Federated Learning ([slides](https://drive.google.com/file/d/13WrVAophCH6pgkgRJoFhhf2Fndlr-zin/view?usp=sharing), video)  
 #### 실습 (TA)
 - [발표] DNN 리뷰
 - [실습] PyTorch/Tensorflow 리뷰/설치, Tutorial/Sample code 
@@ -38,18 +29,18 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 ## 2주
 #### 강의 (Instructor)  
 - FLRA: a reference architecture of federated learning systems, https://github.com/Kwangkee/FL/blob/main/FL%40CSIRO.md#flra-a-reference-architecture-for-federated-learning-systems
->[Must-read] FLRA: A Reference Architecture for Federated Learning Systems, https://arxiv.org/abs/2106.11570  
+  >[Must-read] FLRA: A Reference Architecture for Federated Learning Systems, https://arxiv.org/abs/2106.11570  
 
 - 연합학습 Open Source Platform  https://github.com/Kwangkee/FL/blob/main/FL@Platform.md
->[Must-read] Flower: A Friendly Federated Learning Research Framework, https://arxiv.org/abs/2007.14390  
+  >[Must-read] Flower: A Friendly Federated Learning Research Framework, https://arxiv.org/abs/2007.14390  
 
 - FedScale: Benchmarking Model and System Performance of Federated Learning at Scale, https://github.com/Kwangkee/FL/blob/main/FL%40FedScale.md
->[slides] http://www-personal.umich.edu/~fanlai/assets/docs/fedscale-icml-slides.pdf from http://www-personal.umich.edu/~fanlai/  
->[Must-read] FedScale: Benchmarking Model and System Performance of Federated Learning at Scale, https://arxiv.org/abs/2105.11367  
->[Recommend] Open-Source Systems for Federated Learning | [Stanford MLSys](https://mlsys.stanford.edu/) #48, https://www.youtube.com/watch?v=TcbOMbg4F9g
+  >[slides] http://www-personal.umich.edu/~fanlai/assets/docs/fedscale-icml-slides.pdf from http://www-personal.umich.edu/~fanlai/  
+  >[Must-read] FedScale: Benchmarking Model and System Performance of Federated Learning at Scale, https://arxiv.org/abs/2105.11367  
+  >[Recommend] Open-Source Systems for Federated Learning | [Stanford MLSys](https://mlsys.stanford.edu/) #48, https://www.youtube.com/watch?v=TcbOMbg4F9g
 
 - MLOps
->[Recommended] MLOps System Design for Development and Production | [Stanford MLSys](https://mlsys.stanford.edu/) #44, https://www.youtube.com/watch?v=TcbOMbg4F9g  
+  >[Recommended] MLOps System Design for Development and Production | [Stanford MLSys](https://mlsys.stanford.edu/) #44, https://www.youtube.com/watch?v=TcbOMbg4F9g  
  
 #### 실습 (TA)
 - [발표] 연합학습 Open Source Platform (Flower/FedScale) 리뷰
@@ -62,12 +53,12 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 ## 3주
 #### 강의 (Instructor)  
 - 연합학습 이슈 : Data/System Heterogeneity in Federated Learning, Personalized FL
->[Recommend] Stanford MLSys Seminar Episode 3: Virginia Smith, On Heterogeneity in Federated Settings, https://www.youtube.com/watch?v=laCyJICLyWg
+  >[Recommend] Stanford MLSys Seminar Episode 3: Virginia Smith, On Heterogeneity in Federated Settings, https://www.youtube.com/watch?v=laCyJICLyWg
 
 - 동적인 디바이스 환경에서 적응적 연합학습, https://github.com/Kwangkee/FL/blob/main/AFL.md  
 
 - Personalized federated learning, https://github.com/Kwangkee/FL/blob/main/FL@Nanyang.md#towards-personalized-federated-learning
->[Must-read] Towards Personalized Federated Learning, https://arxiv.org/abs/2103.00710  
+  >[Must-read] Towards Personalized Federated Learning, https://arxiv.org/abs/2103.00710  
   
 #### 실습 (TA)
 - Federated MetaSense, 적응적 연합학습
@@ -78,15 +69,15 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 ## 4주
 #### 강의 (Instructor)  
 - Client Selection, https://github.com/Kwangkee/FL/blob/main/FL%40ClientSelection.md
->[Recommend] Ditto: Fair and Robust Federated Learning Through Personalization, https://proceedings.mlr.press/v139/li21h.html   
->[Must-read] Oort: Efficient Federated Learning via Guided Participant Selection, https://github.com/Kwangkee/FL/blob/main/FL%40ClientSelection.md#oort
->Client Selection for Asynchronous Federated Learning with Fairness Consideration, https://ieeexplore.ieee.org/document/9814669  
->Client Selection for Federated Learning With Label Noise, https://ieeexplore.ieee.org/document/9632344  
+  >[Recommend] Ditto: Fair and Robust Federated Learning Through Personalization, https://proceedings.mlr.press/v139/li21h.html   
+  >[Must-read] Oort: Efficient Federated Learning via Guided Participant Selection, https://github.com/Kwangkee/FL/blob/main/FL%40ClientSelection.md#oort
+  >Client Selection for Asynchronous Federated Learning with Fairness Consideration, https://ieeexplore.ieee.org/document/9814669  
+  >Client Selection for Federated Learning With Label Noise, https://ieeexplore.ieee.org/document/9632344  
 
 - FL with Noisy Labels  
->Federated Learning with Noisy Labels, https://arxiv.org/abs/2208.09378
->Overcoming Noisy and Irrelevant Data in Federated Learning, https://arxiv.org/abs/2001.08300    
->Robust Federated Learning with Noisy Labels, KAIST, https://ieeexplore.ieee.org/document/9713942
+  >Federated Learning with Noisy Labels, https://arxiv.org/abs/2208.09378
+  >Overcoming Noisy and Irrelevant Data in Federated Learning, https://arxiv.org/abs/2001.08300    
+  >Robust Federated Learning with Noisy Labels, KAIST, https://ieeexplore.ieee.org/document/9713942
 
 - 연합학습 Public Data, Benchmarking, https://github.com/Kwangkee/FL/blob/main/FL@Benchmark.md
 #### 실습 (TA)
