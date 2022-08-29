@@ -13,8 +13,8 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 >Part IV: Open Problems and Other Topics  
 
 - Federated Learning Tutorial@NeurIPS 2020, https://sites.google.com/view/fl-tutorial/, [slides] https://drive.google.com/file/d/1QGY2Zytp9XRSu95fX2lCld8DwfEdcHCG/view
- >Part I: What is Federated Learning?  
- >Part II: Federated Optimization  
+ ->Part I: What is Federated Learning?  
+ ->Part II: Federated Optimization  
 
 
 - Federated Learning Tutorial@NeurIPS 2020, https://sites.google.com/view/fl-tutorial/, [slides] https://drive.google.com/file/d/1QGY2Zytp9XRSu95fX2lCld8DwfEdcHCG/view
