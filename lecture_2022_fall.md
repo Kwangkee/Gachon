@@ -66,14 +66,15 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 #### 강의 (Instructor)  
 - Client Selection, https://github.com/Kwangkee/FL/blob/main/FL%40ClientSelection.md
   >[Recommend] Ditto: Fair and Robust Federated Learning Through Personalization, https://proceedings.mlr.press/v139/li21h.html   
-  >[Must-read] Oort: Efficient Federated Learning via Guided Participant Selection, https://github.com/Kwangkee/FL/blob/main/FL%40ClientSelection.md#oort
+  >[Must-read] Oort: Efficient Federated Learning via Guided Participant Selection, https://github.com/Kwangkee/FL/blob/main/FL%40ClientSelection.md#oort  
+  >[Recommend] YaeJeeCho@CM https://github.com/Kwangkee/FL/blob/main/FL@CarnegieMellon.md#yae-jee-cho  
 
 - FL with Noisy Labels  
   >Federated Learning with Noisy Labels, https://arxiv.org/abs/2208.09378
   >Overcoming Noisy and Irrelevant Data in Federated Learning, https://arxiv.org/abs/2001.08300    
   >Robust Federated Learning with Noisy Labels, KAIST, https://ieeexplore.ieee.org/document/9713942
 
-- 연합학습 Public Data, Benchmarking, https://github.com/Kwangkee/FL/blob/main/FL@Benchmark.md
+- [Must-read] 연합학습 Public Data, PFL Benchmarking, https://github.com/Kwangkee/FL/blob/main/FL@Benchmark.md
 
 #### 실습 (TA)
 - [발표] 연합학습 Public Data, PFL Benchmarking 개요
