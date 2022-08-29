@@ -13,8 +13,8 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
   >Part IV: Open Problems and Other Topics  
 
 - FL Intro, https://github.com/Kwangkee/FL/blob/main/FL@Intro.md#fl-introduction  
-  >[Recommend] Communication-Efficient Learning of Deep Networks from Decentralized Data, https://arxiv.org/abs/1602.05629  
-  >[Recommend] Towards Federated Learning at Scale: System Design, https://arxiv.org/abs/1902.01046  
+  >Communication-Efficient Learning of Deep Networks from Decentralized Data, https://arxiv.org/abs/1602.05629  
+  >Towards Federated Learning at Scale: System Design, https://arxiv.org/abs/1902.01046  
   >[Recommend] Advances and Open Problems in Federated Learning, https://arxiv.org/abs/1912.04977   
 
 - Virginia Smith, https://www.cs.cmu.edu/~smithv/, ML with Large Datasets, Fall 2021, https://10605.github.io/fall2021/  
@@ -64,9 +64,9 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 ## 4주
 #### 강의 (Instructor)  
 - Client Selection, https://github.com/Kwangkee/FL/blob/main/FL%40ClientSelection.md
-  >[Recommend] Ditto: Fair and Robust Federated Learning Through Personalization, https://proceedings.mlr.press/v139/li21h.html   
+  >Ditto: Fair and Robust Federated Learning Through Personalization, https://proceedings.mlr.press/v139/li21h.html   
   >[Must-read] Oort: Efficient Federated Learning via Guided Participant Selection, https://github.com/Kwangkee/FL/blob/main/FL%40ClientSelection.md#oort  
-  >[Recommend] YaeJeeCho@CM https://github.com/Kwangkee/FL/blob/main/FL@CarnegieMellon.md#yae-jee-cho  
+  >YaeJeeCho@CM https://github.com/Kwangkee/FL/blob/main/FL@CarnegieMellon.md#yae-jee-cho  
 
 - FL with Noisy Labels  
   >Federated Learning with Noisy Labels, https://arxiv.org/abs/2208.09378
@@ -114,6 +114,7 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 #### 강의 (Instructor)  
 - 블록체인 융합 연합학습, https://github.com/Kwangkee/FL/blob/main/BCFL%40Korea.md
   >[Must-read] 2CP: Decentralized Protocols to Transparently Evaluate Contributivity in Blockchain Federated Learning Environments, https://arxiv.org/abs/2011.07516, Code: https://github.com/cai-harry/2CP  
+  >[Recommend] 연합학습의 인센티브 플랫폼으로써 이더리움 스마트 컨트랙트를 시행하는 경우의 실무적 고려사항, https://github.com/Kwangkee/FL/blob/main/BCFL%40Korea.md#%EB%B6%80%EA%B2%BD%EB%8C%80
 
 #### 실습 (TA)
 - [발표] BC 리뷰
@@ -125,6 +126,7 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 #### 강의 (Instructor)  
 - 블록체인 융합 연합학습, https://github.com/Kwangkee/FL/blob/main/BCFL%40Korea.md
   >[Recommend] [[Towards Trustworthy AI: Blockchain-based Architecture Design for Accountability and Fairness of Federated Learning Systems](https://github.com/Kwangkee/FL/blob/main/FL%40CSIRO.md#towards-trustworthy-ai)], https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=TuL21poAAAAJ&sortby=pubdate&citation_for_view=TuL21poAAAAJ:koF6b02d8EEC
+  >[Recommend] https://github.com/Kwangkee/FL/blob/main/BCFL%40Korea.md#%EC%84%9C%EC%9A%B8%EB%8C%80
 
 #### 실습 (TA)
 - [발표] BCFL 리뷰
