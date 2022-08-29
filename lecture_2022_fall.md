@@ -100,6 +100,7 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 ## 6주
 #### 강의 (Instructor)  
 - 연합학습의 medical 분야 적용, https://github.com/Kwangkee/FL/blob/main/FL@Medical.md
+  >[Must-read] [[Contribution-Aware Federated Learning for Smart Healthcare](https://github.com/Kwangkee/FL/blob/main/FL@Nanyang.md#carefl)], https://ojs.aaai.org/index.php/AAAI/article/view/21505 
   >Artificial Intelligence in Healthcare, https://biods220.stanford.edu/, Distributed Learning, Security, and Privacy lecture14.pdf, https://biods220.stanford.edu/lectures/lecture14.pdf
 #### 실습 (TA)
 - [발표] 원격임상시험 D-3 리뷰
