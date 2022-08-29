@@ -107,7 +107,7 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
   >Artificial Intelligence in Healthcare, https://biods220.stanford.edu/, Distributed Learning, Security, and Privacy lecture14.pdf, https://biods220.stanford.edu/lectures/lecture14.pdf
 #### 실습 (TA)
 - [발표] 원격임상시험 D-3 리뷰
-- [실습] PoC 결과
+- [실습] 원격임상시험 D-3 PoC 결과
 #### 학생 발표
 - [학생#1 발표] Benchmark 사용기, 실습 결과, https://github.com/Kwangkee/FL/blob/main/FL@Benchmark.md
 
