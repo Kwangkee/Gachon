@@ -88,6 +88,7 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 #### 강의 (Instructor)  
 - 연합학습의 Digital Healthcare 분야 적용, https://github.com/Kwangkee/rPPG
 - 디지털 헬스케어를 위한 블록체인 융합 원격임상시험 서비스 개발, https://drive.google.com/drive/u/0/folders/1qV5jN-KspZWYuUZEzx0mzLEYPsomzhko
+- Equideum Health, https://github.com/Kwangkee/FL/blob/main/BCFL%40Equideum.md
 
 #### 실습 (TA)
 - [발표] rPPG 리뷰
@@ -100,7 +101,8 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 ## 6주
 #### 강의 (Instructor)  
 - 연합학습의 medical 분야 적용, https://github.com/Kwangkee/FL/blob/main/FL@Medical.md
-  >[Must-read] [[Contribution-Aware Federated Learning for Smart Healthcare](https://github.com/Kwangkee/FL/blob/main/FL@Nanyang.md#carefl)], https://ojs.aaai.org/index.php/AAAI/article/view/21505 
+  >[Must-read] [[Contribution-Aware Federated Learning for Smart Healthcare](https://github.com/Kwangkee/FL/blob/main/FL@Nanyang.md#carefl)], https://ojs.aaai.org/index.php/AAAI/article/view/21505   
+  >[Must-read] [[삼성병원: 신수용 교수](https://github.com/Kwangkee/FL/blob/main/FL@Medical.md#%EC%82%BC%EC%84%B1%EB%B3%91%EC%9B%90-%EC%8B%A0%EC%88%98%EC%9A%A9-%EA%B5%90%EC%88%98)] 
   >Artificial Intelligence in Healthcare, https://biods220.stanford.edu/, Distributed Learning, Security, and Privacy lecture14.pdf, https://biods220.stanford.edu/lectures/lecture14.pdf
 #### 실습 (TA)
 - [발표] 원격임상시험 D-3 리뷰
