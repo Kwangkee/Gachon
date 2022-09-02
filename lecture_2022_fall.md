@@ -21,7 +21,7 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
   >Introduction ([slides](https://drive.google.com/file/d/1-0aBTILgeMKn6FDfOBfg-hG1qCtRNNNr/view?usp=sharing), video)  
   >Federated Learning ([slides](https://drive.google.com/file/d/13WrVAophCH6pgkgRJoFhhf2Fndlr-zin/view?usp=sharing), video)  
 #### 실습 (TA)
-- [발표] DNN 리뷰, https://github.com/Kwangkee/Gachon/blob/main/slides/220901_deep learning overview.pptx
+- [발표] DNN 리뷰, https://github.com/Kwangkee/Gachon/blob/e959d9d076657d6625398dd363dd6dd49663de5d/slides/220901_DL_overview.pdf
 - [실습] PyTorch/Tensorflow 리뷰/설치, Tutorial/Sample code 
 
 ***
