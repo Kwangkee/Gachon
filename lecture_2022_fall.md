@@ -2,7 +2,7 @@ Course Overview, https://github.com/Kwangkee/Gachon/blob/main/Lecture_2022_Fall-
 Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 - [1주차에] 본 class 에 기대하는 바, 제안사항 알려주시고, [이후] 질문/제안 언제든 주시기 바랍니다.
 - 숙제, 발표자료는 하루 전 까지 [[사이버캠퍼스](https://cyber.gachon.ac.kr/course/view.php?id=79839)]에 upload 해 주세요.
-- Slide: https://github.com/Kwangkee/Gachon/blob/2f5dd44c1f4761a2212c92c584cdd2ecfddc6682/slides/FL_2022_Fall.pdf
+- Slide: https://github.com/Kwangkee/Gachon/blob/main/slides/FL_2022_Fall.pdf
 
 ***
 ## 1주
@@ -22,7 +22,7 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
   >Introduction ([slides](https://drive.google.com/file/d/1-0aBTILgeMKn6FDfOBfg-hG1qCtRNNNr/view?usp=sharing), video)  
   >Federated Learning ([slides](https://drive.google.com/file/d/13WrVAophCH6pgkgRJoFhhf2Fndlr-zin/view?usp=sharing), video)  
 #### 실습 (TA)
-- [발표] DNN 리뷰, https://github.com/Kwangkee/Gachon/blob/e959d9d076657d6625398dd363dd6dd49663de5d/slides/220901_DL_overview.pdf
+- [발표] DNN 리뷰, https://github.com/Kwangkee/Gachon/blob/main/slides/220901_DL_overview.pdf
 - [실습] PyTorch/Tensorflow 리뷰/설치, Tutorial/Sample code 
 
 ***
