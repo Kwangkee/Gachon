@@ -5,7 +5,7 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 - Slide: https://github.com/Kwangkee/Gachon/blob/main/slides/FL_2022_Fall.pdf
 
 ***
-## 1주
+## Week-1
 #### 강의 (Instructor)  
 - [Must-read] Federated Learning Tutorial@NeurIPS 2020, https://sites.google.com/view/fl-tutorial/, [slides] https://drive.google.com/file/d/1QGY2Zytp9XRSu95fX2lCld8DwfEdcHCG/view
   >Part I: What is Federated Learning?  
@@ -29,7 +29,7 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 - [실습] PyTorch/Tensorflow 리뷰/설치, Tutorial/Sample code 
 
 ***
-## 2주
+## Week-2
 #### 강의 (Instructor)  
 - [Must-read] FLRA: a reference architecture of federated learning systems, https://github.com/Kwangkee/FL/blob/main/FL%40CSIRO.md#flra-a-reference-architecture-for-federated-learning-systems
 
@@ -50,7 +50,7 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 - [학생#2 발표] https://github.com/Kwangkee/FL/blob/main/FL@Intro.md
 
 ***
-## 3주
+## Week-3
 #### 강의 (Instructor)  
 - 연합학습 이슈 : Data/System Heterogeneity in Federated Learning, Personalized FL
   >Stanford MLSys Seminar Episode 3: Virginia Smith, On Heterogeneity in Federated Settings, https://www.youtube.com/watch?v=laCyJICLyWg
@@ -65,7 +65,7 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 - [학생#1 발표] Open Source Platform 사용기, 실습 결과, https://github.com/Kwangkee/FL/blob/main/FL@Platform.md, Flower
 - [학생#2 발표] Open Source Platform 사용기, 실습 결과, https://github.com/Kwangkee/FL/blob/main/FL@Platform.md, FedScale  
 
-## 4주
+## Week-4
 #### 강의 (Instructor)  
 - Client Selection, https://github.com/Kwangkee/FL/blob/main/FL%40ClientSelection.md
   >Ditto: Fair and Robust Federated Learning Through Personalization, https://proceedings.mlr.press/v139/li21h.html   
@@ -87,7 +87,7 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 - [학생#1 발표] Open Source Platform 사용기, 실습 결과, https://github.com/Kwangkee/FL/blob/main/FL@Platform.md, FedML, FLSim, ...   
 - [학생#2 발표] Open Source Platform 사용기, 실습 결과, https://github.com/Kwangkee/FL/blob/main/FL%40FedScale.md#swan, Swan  
 
-## 5주
+## Week-5
 #### 강의 (Instructor)  
 - 연합학습의 Digital Healthcare 분야 적용 사례
 - 디지털 헬스케어를 위한 블록체인 융합 원격임상시험 서비스 개발, https://drive.google.com/drive/u/0/folders/1qV5jN-KspZWYuUZEzx0mzLEYPsomzhko
@@ -102,7 +102,7 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 - [학생#1 발표] PFL Benchmark 사용기, 실습 결과, https://github.com/Kwangkee/FL/blob/main/FL@Benchmark.md
 - [학생#2 발표] PFL Benchmark 사용기, 실습 결과, https://github.com/Kwangkee/FL/blob/main/FL@Benchmark.md
 
-## 6주
+## Week-6
 #### 강의 (Instructor)  
 - 연합학습의 medical 분야 적용, https://github.com/Kwangkee/FL/blob/main/FL@Medical.md
   >[Must-read] [[Contribution-Aware Federated Learning for Smart Healthcare](https://github.com/Kwangkee/FL/blob/main/FL@Nanyang.md#carefl)], https://ojs.aaai.org/index.php/AAAI/article/view/21505   
@@ -116,7 +116,7 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 #### 학생 발표
 - [학생#1 발표] Benchmark 사용기, 실습 결과, https://github.com/Kwangkee/FL/blob/main/FL@Benchmark.md
 
-## 7주
+## Week-7
 #### 강의 (Instructor)  
 - 블록체인 융합 연합학습, https://github.com/Kwangkee/FL/blob/main/BCFL%40Korea.md
   >[Must-read] 2CP: Decentralized Protocols to Transparently Evaluate Contributivity in Blockchain Federated Learning Environments, https://arxiv.org/abs/2011.07516, Code: https://github.com/cai-harry/2CP  
@@ -128,7 +128,7 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 #### 학생 발표
 - [학생 발표] Deep dive 주제 (응용 및 Open Challenges) 발표 : 1 page proposal
 
-## 8주
+## Week-8
 #### 강의 (Instructor)  
 - 블록체인 융합 연합학습, https://github.com/Kwangkee/FL/blob/main/BCFL%40Korea.md
   >[Recommend] [[Towards Trustworthy AI: Blockchain-based Architecture Design for Accountability and Fairness of Federated Learning Systems](https://github.com/Kwangkee/FL/blob/main/FL%40CSIRO.md#towards-trustworthy-ai)], https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=TuL21poAAAAJ&sortby=pubdate&citation_for_view=TuL21poAAAAJ:koF6b02d8EEC
