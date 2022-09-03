@@ -45,7 +45,7 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 #### 실습 (TA)
 - [발표] 연합학습 Open Source Platform (Flower/FedScale) 리뷰
 - [실습] Flower 설치, Tutorial/Sample code
-#### Week-2 Studuent (학생 발표)
+#### Week-2 Studuent
 - [학생#1 발표] Open Source Platform 사용기, 실습 결과, https://github.com/Kwangkee/FL/blob/main/FL@Platform.md
 - [학생#2 발표] Open Source Platform 사용기, 실습 결과, https://github.com/Kwangkee/FL/blob/main/FL@Platform.md
 
