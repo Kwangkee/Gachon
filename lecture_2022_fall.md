@@ -18,9 +18,12 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
   >Towards Federated Learning at Scale: System Design, https://arxiv.org/abs/1902.01046  
   >[Recommend] Advances and Open Problems in Federated Learning, https://arxiv.org/abs/1912.04977   
 
-- Virginia Smith, https://www.cs.cmu.edu/~smithv/, ML with Large Datasets, Fall 2021, https://10605.github.io/fall2021/  
-  >Introduction ([slides](https://drive.google.com/file/d/1-0aBTILgeMKn6FDfOBfg-hG1qCtRNNNr/view?usp=sharing), video)  
-  >Federated Learning ([slides](https://drive.google.com/file/d/13WrVAophCH6pgkgRJoFhhf2Fndlr-zin/view?usp=sharing), video)  
+- Virginia Smith, https://www.cs.cmu.edu/~smithv/, 
+  - ML with Large Datasets, Fall 2021, https://10605.github.io/fall2021/  
+    >Introduction ([slides](https://drive.google.com/file/d/1-0aBTILgeMKn6FDfOBfg-hG1qCtRNNNr/view?usp=sharing), video)  
+    >Federated Learning ([slides](https://drive.google.com/file/d/13WrVAophCH6pgkgRJoFhhf2Fndlr-zin/view?usp=sharing), video)  
+  - ML with Large Datasets, Fall 2022, https://10605.github.io/ 
+
 #### 실습 (TA)
 - [발표] DNN 리뷰, https://github.com/Kwangkee/Gachon/blob/main/slides/220901_DL_overview.pdf
 - [실습] PyTorch/Tensorflow 리뷰/설치, Tutorial/Sample code 
