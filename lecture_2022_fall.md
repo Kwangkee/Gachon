@@ -33,8 +33,6 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 #### 강의 (Instructor)  
 - [Must-read] FLRA: a reference architecture of federated learning systems, https://github.com/Kwangkee/FL/blob/main/FL%40CSIRO.md#flra-a-reference-architecture-for-federated-learning-systems
 
-- [Must-read] 연합학습시스템에서의 MLOps 구현 방안 연구, http://www.jics.or.kr/digital-library/25791
-
 - 연합학습 Open Source Platform https://github.com/Kwangkee/FL/blob/main/FL@Platform.md
   >[Must-read] Flower: A Friendly Federated Learning Research Framework, https://arxiv.org/abs/2007.14390  
 
@@ -44,9 +42,10 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
   >[slides] http://www-personal.umich.edu/~fanlai/assets/docs/fedscale-icml-slides.pdf from http://www-personal.umich.edu/~fanlai/  
   >Open-Source Systems for Federated Learning | [Stanford MLSys](https://mlsys.stanford.edu/) #48, https://www.youtube.com/watch?v=TcbOMbg4F9g
 
-#### 실습 (TA)
+#### Week-2 실습 (TA)
 - [발표] 연합학습 Open Source Platform (Flower/FedScale) 리뷰
-- [실습] Flower 설치, Tutorial/Sample code
+- [실습] Flower/FedScale 설치, Tutorial/Sample code
+- [발표] [Must-read] 연합학습시스템에서의 MLOps 구현 방안 연구, http://www.jics.or.kr/digital-library/25791
 #### Week-2 Studuent
 - [학생#1 발표] Open Source Platform 사용기, 실습 결과, https://github.com/Kwangkee/FL/blob/main/FL@Platform.md
 - [학생#2 발표] Open Source Platform 사용기, 실습 결과, https://github.com/Kwangkee/FL/blob/main/FL@Platform.md
