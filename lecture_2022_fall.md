@@ -3,8 +3,6 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 - [1주차에] 본 class 에 기대하는 바, 제안사항 알려주시고, [이후] 질문/제안 언제든 주시기 바랍니다.
 - 숙제, 발표자료는 하루 전 까지 [[사이버캠퍼스](https://cyber.gachon.ac.kr/course/view.php?id=79839)]에 upload 해 주세요.
 - Slide: https://github.com/Kwangkee/Gachon/blob/main/slides/FL_Introduction_2022_Fall.pdf  
-- https://github.com/Kwangkee/Gachon/blob/2a553c0fb641aebdb94cc406a982f0f4b24898c3/slides/FL%C2%AD_Introduction_2022_Fall.pdf
-- Slide: https://github.com/Kwangkee/Gachon/blob/main/slides/FL_Introduction_2022_Fall.pdf  
 - Slide: https://github.com/Kwangkee/Gachon/blob/main/slides/FL_Platforms_2022_Fall.pdf  
 - 
 ***
