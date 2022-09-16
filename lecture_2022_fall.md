@@ -26,7 +26,7 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
   - ML with Large Datasets, Fall 2022, https://10605.github.io/ 
 
 #### 실습 (TA: 김대열 박사)
-- [발표] DNN 리류, https://github.com/Kwangkee/Gachon/blob/44a4568ada23d6e9b57ac4c337ed1a2b1b9927cb/slides/TA_DL_overview.pdf
+- [발표] DNN 리류, https://github.com/Kwangkee/Gachon/blob/main/slides/TA_DL_overview.pdf
 - [실습] PyTorch/Tensorflow 리뷰/설치, Tutorial/Sample code 
 
 ***
@@ -44,7 +44,7 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
   >Open-Source Systems for Federated Learning | [Stanford MLSys](https://mlsys.stanford.edu/) #48, https://www.youtube.com/watch?v=TcbOMbg4F9g
 
 #### Week-2 실습 (TA: 김진수)
-- [발표] 연합학습 Open Source Platform (Flower/FedScale) 리뷰, https://github.com/Kwangkee/Gachon/blob/44a4568ada23d6e9b57ac4c337ed1a2b1b9927cb/slides/TA_FL%20Open-Source%20Platform.pdf
+- [발표] 연합학습 Open Source Platform (Flower/FedScale) 리뷰, https://github.com/Kwangkee/Gachon/blob/main/slides/TA_FL%20Open-Source%20Platform.pdf
 - [실습] Flower/FedScale 설치, Tutorial/Sample code
 #### Week-2 Studuent
 - [학생#1 발표] Open Source Platform 사용기, 실습 결과, https://github.com/Kwangkee/FL/blob/main/FL@Platform.md
