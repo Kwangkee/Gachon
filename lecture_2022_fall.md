@@ -2,8 +2,8 @@ Course Overview, https://github.com/Kwangkee/Gachon/blob/main/Lecture_2022_Fall-
 Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 - [1주차에] 본 class 에 기대하는 바, 제안사항 알려주시고, [이후] 질문/제안 언제든 주시기 바랍니다.
 - 숙제, 발표자료는 하루 전 까지 [[사이버캠퍼스](https://cyber.gachon.ac.kr/course/view.php?id=79839)]에 upload 해 주세요.
-- Slide: https://github.com/Kwangkee/Gachon/blob/main/slides/FL_Introduction_2022_Fall.pdf  
-- Slide: https://github.com/Kwangkee/Gachon/blob/main/slides/FL_Platforms_2022_Fall.pdf  
+- Week-1 Slide: https://github.com/Kwangkee/Gachon/blob/main/slides/FL_Introduction_2022_Fall.pdf  
+- Week-2 Slide: https://github.com/Kwangkee/Gachon/blob/main/slides/FL_Platforms_2022_Fall.pdf  
 - 
 ***
 ## Week-1
@@ -26,7 +26,7 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
   - ML with Large Datasets, Fall 2022, https://10605.github.io/ 
 
 #### 실습 (TA)
-- [발표] DNN 리뷰, https://github.com/Kwangkee/Gachon/blob/main/slides/220901_DL_overview.pdf
+- [발표] DNN 리뷰, https://github.com/Kwangkee/Gachon/blob/01249d2df2120a99131ed1455f17bd4614847176/slides/TA_DL_overview_%EA%B9%80%EB%8C%80%EC%97%B4.pdf
 - [실습] PyTorch/Tensorflow 리뷰/설치, Tutorial/Sample code 
 
 ***
@@ -44,7 +44,7 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
   >Open-Source Systems for Federated Learning | [Stanford MLSys](https://mlsys.stanford.edu/) #48, https://www.youtube.com/watch?v=TcbOMbg4F9g
 
 #### Week-2 실습 (TA)
-- [발표] 연합학습 Open Source Platform (Flower/FedScale) 리뷰, https://github.com/Kwangkee/Gachon/blob/main/slides/FL%20Open-Source%20Platform_%EA%B9%80%EC%A7%84%EC%88%98%20.pdf
+- [발표] 연합학습 Open Source Platform (Flower/FedScale) 리뷰, https://github.com/Kwangkee/Gachon/blob/01249d2df2120a99131ed1455f17bd4614847176/slides/TA_FL%20Open-Source%20Platform_%EA%B9%80%EC%A7%84%EC%88%98.pdf
 - [실습] Flower/FedScale 설치, Tutorial/Sample code
 - [발표] [Must-read] 연합학습시스템에서의 MLOps 구현 방안 연구, http://www.jics.or.kr/digital-library/25791
 #### Week-2 Studuent
