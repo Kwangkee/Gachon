@@ -46,9 +46,6 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 #### Week-2 실습 (TA: 김진수)
 - [발표] 연합학습 Open Source Platform (Flower/FedScale) 리뷰, https://github.com/Kwangkee/Gachon/blob/main/slides/TA_FL%20Open-Source%20Platform.pdf
 - [실습] Flower/FedScale 설치, Tutorial/Sample code
-#### Week-2 Studuent
-- [학생#1 발표] Open Source Platform 사용기, 실습 결과, https://github.com/Kwangkee/FL/blob/main/FL@Platform.md
-- [학생#2 발표] Open Source Platform 사용기, 실습 결과, https://github.com/Kwangkee/FL/blob/main/FL@Platform.md
 
 ***
 ## Week-3
@@ -62,9 +59,8 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
   >[Must-read] Towards Personalized Federated Learning, https://arxiv.org/abs/2103.00710  
 #### Week-3 실습 (TA: 김진수)
 - Federated MetaSense, 적응적 연합학습
-#### Week-3 실습 (양세모)
-- [발표] [Must-read] 연합학습시스템에서의 MLOps 구현 방안 연구, http://www.jics.or.kr/digital-library/25791
-#### 학생 발표
+#### Week-3 학생 발표
+- [양세모] [Must-read] 연합학습시스템에서의 MLOps 구현 방안 연구, http://www.jics.or.kr/digital-library/25791
 - [학생#1 발표] Open Source Platform 사용기, 실습 결과, https://github.com/Kwangkee/FL/blob/main/FL@Platform.md, Flower
 - [학생#2 발표] Open Source Platform 사용기, 실습 결과, https://github.com/Kwangkee/FL/blob/main/FL@Platform.md, FedScale  
 
