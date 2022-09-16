@@ -44,7 +44,7 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
   >Open-Source Systems for Federated Learning | [Stanford MLSys](https://mlsys.stanford.edu/) #48, https://www.youtube.com/watch?v=TcbOMbg4F9g
 
 #### Week-2 실습 (TA)
-- [발표] 연합학습 Open Source Platform (Flower/FedScale) 리뷰
+- [발표] 연합학습 Open Source Platform (Flower/FedScale) 리뷰, https://github.com/Kwangkee/Gachon/blob/main/slides/FL%20Open-Source%20Platform_%EA%B9%80%EC%A7%84%EC%88%98%20.pdf
 - [실습] Flower/FedScale 설치, Tutorial/Sample code
 - [발표] [Must-read] 연합학습시스템에서의 MLOps 구현 방안 연구, http://www.jics.or.kr/digital-library/25791
 #### Week-2 Studuent
