@@ -78,11 +78,11 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 
 - 연합학습 Public Data, PFL Benchmarking, https://github.com/Kwangkee/FL/blob/main/FL@Benchmark.md
 
-#### 실습 (TA)
+#### Week-4 실습 (TA: 김진수)
 - [발표] 연합학습 Public Data, PFL Benchmarking 개요
 - [실습] 연합학습 Public Data, PFL Benchmarking 설치, Tutorial/Sample code 
 
-#### 학생 발표
+#### Week-4 학생 발표
 - [학생#1 발표] Open Source Platform 사용기, 실습 결과, https://github.com/Kwangkee/FL/blob/main/FL@Platform.md, FedML, FLSim, ...   
 - [학생#2 발표] Open Source Platform 사용기, 실습 결과, https://github.com/Kwangkee/FL/blob/main/FL%40FedScale.md#swan, Swan  
 
@@ -93,11 +93,11 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 - Equideum Health, https://github.com/Kwangkee/FL/blob/main/BCFL%40Equideum.md
 - rPPG, https://github.com/Kwangkee/rPPG, 원격임상시험 D-2 리뷰
 
-#### 실습 (TA)
+#### Week-5 실습 (TA: 김대열 박사)
 - [발표] rPPG 리뷰
 - [실습] rPPG 실습
 
-#### 학생 발표
+#### Week-5 학생 발표
 - [학생#1 발표] PFL Benchmark 사용기, 실습 결과, https://github.com/Kwangkee/FL/blob/main/FL@Benchmark.md
 - [학생#2 발표] PFL Benchmark 사용기, 실습 결과, https://github.com/Kwangkee/FL/blob/main/FL@Benchmark.md
 
