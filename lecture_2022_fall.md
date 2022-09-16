@@ -25,8 +25,8 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
     >Federated Learning ([slides](https://drive.google.com/file/d/13WrVAophCH6pgkgRJoFhhf2Fndlr-zin/view?usp=sharing), video)  
   - ML with Large Datasets, Fall 2022, https://10605.github.io/ 
 
-#### 실습 (TA)
-- [발표] DNN 리뷰, https://github.com/Kwangkee/Gachon/blob/01249d2df2120a99131ed1455f17bd4614847176/slides/TA_DL_overview_%EA%B9%80%EB%8C%80%EC%97%B4.pdf
+#### 실습 (TA: 김대열 박사)
+- [발표] DNN 리류, https://github.com/Kwangkee/Gachon/blob/44a4568ada23d6e9b57ac4c337ed1a2b1b9927cb/slides/TA_DL_overview.pdf
 - [실습] PyTorch/Tensorflow 리뷰/설치, Tutorial/Sample code 
 
 ***
@@ -43,10 +43,9 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
   >[slides] http://www-personal.umich.edu/~fanlai/assets/docs/fedscale-icml-slides.pdf from http://www-personal.umich.edu/~fanlai/  
   >Open-Source Systems for Federated Learning | [Stanford MLSys](https://mlsys.stanford.edu/) #48, https://www.youtube.com/watch?v=TcbOMbg4F9g
 
-#### Week-2 실습 (TA)
-- [발표] 연합학습 Open Source Platform (Flower/FedScale) 리뷰, https://github.com/Kwangkee/Gachon/blob/01249d2df2120a99131ed1455f17bd4614847176/slides/TA_FL%20Open-Source%20Platform_%EA%B9%80%EC%A7%84%EC%88%98.pdf
+#### Week-2 실습 (TA: 김진수)
+- [발표] 연합학습 Open Source Platform (Flower/FedScale) 리뷰, https://github.com/Kwangkee/Gachon/blob/44a4568ada23d6e9b57ac4c337ed1a2b1b9927cb/slides/TA_FL%20Open-Source%20Platform.pdf
 - [실습] Flower/FedScale 설치, Tutorial/Sample code
-- [발표] [Must-read] 연합학습시스템에서의 MLOps 구현 방안 연구, http://www.jics.or.kr/digital-library/25791
 #### Week-2 Studuent
 - [학생#1 발표] Open Source Platform 사용기, 실습 결과, https://github.com/Kwangkee/FL/blob/main/FL@Platform.md
 - [학생#2 발표] Open Source Platform 사용기, 실습 결과, https://github.com/Kwangkee/FL/blob/main/FL@Platform.md
@@ -61,8 +60,10 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 
 - Personalized federated learning, https://github.com/Kwangkee/FL/blob/main/FL@Nanyang.md#towards-personalized-federated-learning
   >[Must-read] Towards Personalized Federated Learning, https://arxiv.org/abs/2103.00710  
-#### 실습 (TA)
+#### Week-3 실습 (TA: 김진수)
 - Federated MetaSense, 적응적 연합학습
+#### Week-3 실습 (양세모)
+- [발표] [Must-read] 연합학습시스템에서의 MLOps 구현 방안 연구, http://www.jics.or.kr/digital-library/25791
 #### 학생 발표
 - [학생#1 발표] Open Source Platform 사용기, 실습 결과, https://github.com/Kwangkee/FL/blob/main/FL@Platform.md, Flower
 - [학생#2 발표] Open Source Platform 사용기, 실습 결과, https://github.com/Kwangkee/FL/blob/main/FL@Platform.md, FedScale  
