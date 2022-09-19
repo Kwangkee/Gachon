@@ -67,7 +67,11 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 ## Week-4
 #### 강의 (Instructor)  
 - Client Selection, https://github.com/Kwangkee/FL/blob/main/FL%40ClientSelection.md
-  >[Must-read] Oort: Efficient Federated Learning via Guided Participant Selection, https://github.com/Kwangkee/FL/blob/main/FL%40ClientSelection.md#oort  
+- [Must-read] Oort: Efficient Federated Learning via Guided Participant Selection, https://github.com/Kwangkee/FL/blob/main/FL%40ClientSelection.md#oort  
+  >https://www.usenix.org/conference/osdi21/presentation/lai
+  >Presentation Video: https://www.youtube.com/watch?v=5npOel4T4Mw
+  >slides: https://www.usenix.org/system/files/osdi21_slides_lai.pdf
+- 
   >Ditto: Fair and Robust Federated Learning Through Personalization, https://proceedings.mlr.press/v139/li21h.html   
   >YaeJeeCho@CM https://github.com/Kwangkee/FL/blob/main/FL@CarnegieMellon.md#yae-jee-cho  
 
