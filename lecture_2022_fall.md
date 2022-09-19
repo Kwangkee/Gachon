@@ -8,7 +8,7 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 ***
 ## Week-1
 #### 강의 (Instructor)  
-- [Must-read] Federated Learning Tutorial@NeurIPS 2020, https://sites.google.com/view/fl-tutorial/, [slides] https://drive.google.com/file/d/1QGY2Zytp9XRSu95fX2lCld8DwfEdcHCG/view
+- [**Must-read**] Federated Learning Tutorial@NeurIPS 2020, https://sites.google.com/view/fl-tutorial/, [slides] https://drive.google.com/file/d/1QGY2Zytp9XRSu95fX2lCld8DwfEdcHCG/view
   >Part I: What is Federated Learning?  
   >Part II: Federated Optimization  
   >*Part III: Privacy for Federated Learning and Analytics*  
@@ -32,13 +32,13 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 ***
 ## Week-2
 #### 강의 (Instructor)  
-- [Must-read] FLRA: a reference architecture of federated learning systems, https://github.com/Kwangkee/FL/blob/main/FL%40CSIRO.md#flra-a-reference-architecture-for-federated-learning-systems
+- [**Must-read**] FLRA: a reference architecture of federated learning systems, https://github.com/Kwangkee/FL/blob/main/FL%40CSIRO.md#flra-a-reference-architecture-for-federated-learning-systems
 
 - 연합학습 Open Source Platform https://github.com/Kwangkee/FL/blob/main/FL@Platform.md
-  >[Must-read] Flower: A Friendly Federated Learning Research Framework, https://arxiv.org/abs/2007.14390  
+  >[**Must-read**] Flower: A Friendly Federated Learning Research Framework, https://arxiv.org/abs/2007.14390  
 
 - FedScale: Benchmarking Model and System Performance of Federated Learning at Scale, https://github.com/Kwangkee/FL/blob/main/FL%40FedScale.md  
-  >[Must-read] FedScale: Benchmarking Model and System Performance of Federated Learning at Scale, https://arxiv.org/abs/2105.11367   
+  >[**Must-read**] FedScale: Benchmarking Model and System Performance of Federated Learning at Scale, https://arxiv.org/abs/2105.11367   
   >[Recommend] Swan, https://github.com/Kwangkee/FL/blob/main/FL%40FedScale.md#swan   
   >[slides] http://www-personal.umich.edu/~fanlai/assets/docs/fedscale-icml-slides.pdf from http://www-personal.umich.edu/~fanlai/  
   >Open-Source Systems for Federated Learning | [Stanford MLSys](https://mlsys.stanford.edu/) #48, https://www.youtube.com/watch?v=TcbOMbg4F9g
@@ -60,14 +60,14 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 #### Week-3 실습 (TA: 김진수)
 - Federated MetaSense, 적응적 연합학습
 #### Week-3 학생 발표
-- [양세모] [Must-read] 연합학습시스템에서의 MLOps 구현 방안 연구, http://www.jics.or.kr/digital-library/25791
+- [양세모] [**Must-read**] 연합학습시스템에서의 MLOps 구현 방안 연구, http://www.jics.or.kr/digital-library/25791
 - [학생#1 발표] Open Source Platform 사용기, 실습 결과, https://github.com/Kwangkee/FL/blob/main/FL@Platform.md, Flower
 - [학생#2 발표] Open Source Platform 사용기, 실습 결과, https://github.com/Kwangkee/FL/blob/main/FL@Platform.md, FedScale  
 
 ## Week-4
 #### 강의 (Instructor)  
 - Client Selection, https://github.com/Kwangkee/FL/blob/main/FL%40ClientSelection.md
-- [Must-read] Oort: Efficient Federated Learning via Guided Participant Selection, https://github.com/Kwangkee/FL/blob/main/FL%40ClientSelection.md#oort  
+- [**Must-read**] Oort: Efficient Federated Learning via Guided Participant Selection, https://github.com/Kwangkee/FL/blob/main/FL%40ClientSelection.md#oort  
   >- https://www.usenix.org/conference/osdi21/presentation/lai  
   >- Presentation Video: https://www.youtube.com/watch?v=5npOel4T4Mw  
   >- slides: https://www.usenix.org/system/files/osdi21_slides_lai.pdf  
@@ -113,7 +113,7 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 ## Week-6
 #### 강의 (Instructor)  
 - 연합학습의 medical 분야 적용, https://github.com/Kwangkee/FL/blob/main/FL@Medical.md
-  >[Must-read] [[Contribution-Aware Federated Learning for Smart Healthcare](https://github.com/Kwangkee/FL/blob/main/FL@Nanyang.md#carefl)], https://ojs.aaai.org/index.php/AAAI/article/view/21505   
+  >[**Must-read**] [[Contribution-Aware Federated Learning for Smart Healthcare](https://github.com/Kwangkee/FL/blob/main/FL@Nanyang.md#carefl)], https://ojs.aaai.org/index.php/AAAI/article/view/21505   
   >[Recommend] [[삼성병원: 신수용 교수](https://github.com/Kwangkee/FL/blob/main/FL@Medical.md#%EC%82%BC%EC%84%B1%EB%B3%91%EC%9B%90-%EC%8B%A0%EC%88%98%EC%9A%A9-%EA%B5%90%EC%88%98)]   
   >Artificial Intelligence in Healthcare, https://biods220.stanford.edu/, Distributed Learning, Security, and Privacy lecture14.pdf, https://biods220.stanford.edu/lectures/lecture14.pdf
 
@@ -127,7 +127,7 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 ## Week-7
 #### 강의 (Instructor)  
 - 블록체인 융합 연합학습, https://github.com/Kwangkee/FL/blob/main/BCFL%40Korea.md
-  >[Must-read] 2CP: Decentralized Protocols to Transparently Evaluate Contributivity in Blockchain Federated Learning Environments, https://arxiv.org/abs/2011.07516, Code: https://github.com/cai-harry/2CP  
+  >[**Must-read**] 2CP: Decentralized Protocols to Transparently Evaluate Contributivity in Blockchain Federated Learning Environments, https://arxiv.org/abs/2011.07516, Code: https://github.com/cai-harry/2CP  
   >[Recommend] 연합학습의 인센티브 플랫폼으로써 이더리움 스마트 컨트랙트를 시행하는 경우의 실무적 고려사항, https://github.com/Kwangkee/FL/blob/main/BCFL%40Korea.md#%EB%B6%80%EA%B2%BD%EB%8C%80
 
 #### 실습 (TA)
@@ -139,7 +139,7 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 ## Week-8
 #### 강의 (Instructor)  
 - 블록체인 융합 연합학습, https://github.com/Kwangkee/FL/blob/main/BCFL%40Korea.md
-  >[Must-read] [[Towards Trustworthy AI: Blockchain-based Architecture Design for Accountability and Fairness of Federated Learning Systems](https://github.com/Kwangkee/FL/blob/main/FL%40CSIRO.md#towards-trustworthy-ai)], https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=TuL21poAAAAJ&sortby=pubdate&citation_for_view=TuL21poAAAAJ:koF6b02d8EEC
+  >[**Must-read**] [[Towards Trustworthy AI: Blockchain-based Architecture Design for Accountability and Fairness of Federated Learning Systems](https://github.com/Kwangkee/FL/blob/main/FL%40CSIRO.md#towards-trustworthy-ai)], https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=TuL21poAAAAJ&sortby=pubdate&citation_for_view=TuL21poAAAAJ:koF6b02d8EEC
   >[Recommend] https://github.com/Kwangkee/FL/blob/main/BCFL%40Korea.md#%EC%84%9C%EC%9A%B8%EB%8C%80
 
 #### 실습 (TA)
