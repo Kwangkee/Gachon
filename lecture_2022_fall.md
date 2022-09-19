@@ -72,7 +72,7 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
   >- Presentation Video: https://www.youtube.com/watch?v=5npOel4T4Mw  
   >- slides: https://www.usenix.org/system/files/osdi21_slides_lai.pdf  
 - FedBalancer, https://github.com/Kwangkee/FL/blob/main/AFL.md#t1-kaist
-  >- https://nmsl.kaist.ac.kr/projects/fedbalancer/
+  >- https://nmsl.kaist.ac.kr/projects/fedbalancer/, 이기종 사용자 기기가 포함된 환경에서의 최적화된 사용자 학습 데이터 선택 및 연합학습 라운드의 데드라인 제어를 통한 효율적인 연합학습 알고리즘 연구
 
 - Etc
   >- Ditto: Fair and Robust Federated Learning Through Personalization, https://proceedings.mlr.press/v139/li21h.html   
