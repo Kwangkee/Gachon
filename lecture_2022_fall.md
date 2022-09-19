@@ -73,13 +73,13 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
   >- slides: https://www.usenix.org/system/files/osdi21_slides_lai.pdf  
 
 - Etc
-  >Ditto: Fair and Robust Federated Learning Through Personalization, https://proceedings.mlr.press/v139/li21h.html   
-  >YaeJeeCho@CM https://github.com/Kwangkee/FL/blob/main/FL@CarnegieMellon.md#yae-jee-cho  
+  >- Ditto: Fair and Robust Federated Learning Through Personalization, https://proceedings.mlr.press/v139/li21h.html   
+  >- YaeJeeCho@CM https://github.com/Kwangkee/FL/blob/main/FL@CarnegieMellon.md#yae-jee-cho  
 
 - FL with Noisy Labels  
-  >Federated Learning with Noisy Labels, https://arxiv.org/abs/2208.09378
-  >Overcoming Noisy and Irrelevant Data in Federated Learning, https://arxiv.org/abs/2001.08300    
-  >Robust Federated Learning with Noisy Labels, KAIST, https://ieeexplore.ieee.org/document/9713942
+  >- Federated Learning with Noisy Labels, https://arxiv.org/abs/2208.09378  
+  >- Overcoming Noisy and Irrelevant Data in Federated Learning, https://arxiv.org/abs/2001.08300    
+  >- Robust Federated Learning with Noisy Labels, KAIST, https://ieeexplore.ieee.org/document/9713942
 
 - 연합학습 Public Data, PFL Benchmarking, https://github.com/Kwangkee/FL/blob/main/FL@Benchmark.md
 
