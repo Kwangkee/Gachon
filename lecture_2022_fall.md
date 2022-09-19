@@ -67,8 +67,8 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 ## Week-4
 #### 강의 (Instructor)  
 - Client Selection, https://github.com/Kwangkee/FL/blob/main/FL%40ClientSelection.md
-  >Ditto: Fair and Robust Federated Learning Through Personalization, https://proceedings.mlr.press/v139/li21h.html   
   >[Must-read] Oort: Efficient Federated Learning via Guided Participant Selection, https://github.com/Kwangkee/FL/blob/main/FL%40ClientSelection.md#oort  
+  >Ditto: Fair and Robust Federated Learning Through Personalization, https://proceedings.mlr.press/v139/li21h.html   
   >YaeJeeCho@CM https://github.com/Kwangkee/FL/blob/main/FL@CarnegieMellon.md#yae-jee-cho  
 
 - FL with Noisy Labels  
