@@ -71,6 +71,8 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
   >- https://www.usenix.org/conference/osdi21/presentation/lai  
   >- Presentation Video: https://www.youtube.com/watch?v=5npOel4T4Mw  
   >- slides: https://www.usenix.org/system/files/osdi21_slides_lai.pdf  
+- FedBalancer, https://github.com/Kwangkee/FL/blob/main/AFL.md#t1-kaist
+  >- https://nmsl.kaist.ac.kr/projects/fedbalancer/
 
 - Etc
   >- Ditto: Fair and Robust Federated Learning Through Personalization, https://proceedings.mlr.press/v139/li21h.html   
