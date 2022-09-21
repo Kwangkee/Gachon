@@ -25,7 +25,7 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
     >Federated Learning ([slides](https://drive.google.com/file/d/13WrVAophCH6pgkgRJoFhhf2Fndlr-zin/view?usp=sharing), video)  
   - ML with Large Datasets, Fall 2022, https://10605.github.io/ 
 
-#### 실습 (TA: 김대열 박사)
+#### Week-1 실습 (TA: 김대열 박사)
 - [발표] DNN 리류, https://github.com/Kwangkee/Gachon/blob/main/slides/TA_DL_overview.pdf
 - [실습] PyTorch/Tensorflow 리뷰/설치, Tutorial/Sample code 
 
