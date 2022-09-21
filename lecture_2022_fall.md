@@ -61,6 +61,8 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 - Federated MetaSense, 적응적 연합학습
 #### Week-3 학생 발표
 - [양세모] [**Must-read**] 연합학습시스템에서의 MLOps 구현 방안 연구, http://www.jics.or.kr/digital-library/25791
+- [이기훈] Open Source Platform 사용기, 실습 결과, https://github.com/Liky98/Federated_Learning/blob/master/README/Week3%203f7a8157a4b6403ab14d2ee8e5bcf967.md
+- [시경요] Open Source Platform 사용기, 실습 결과, https://github.com/qq490800573/FL-Platform-Homework/tree/main/Week3-Homework
 - [학생#1 발표] Open Source Platform 사용기, 실습 결과, https://github.com/Kwangkee/FL/blob/main/FL@Platform.md, Flower
 - [학생#2 발표] Open Source Platform 사용기, 실습 결과, https://github.com/Kwangkee/FL/blob/main/FL@Platform.md, FedScale  
 
