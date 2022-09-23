@@ -4,7 +4,7 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 - 숙제, 발표자료는 하루 전 까지 [[사이버캠퍼스](https://cyber.gachon.ac.kr/course/view.php?id=79839)]에 upload 해 주세요.
 - Week-1 Slide: https://github.com/Kwangkee/Gachon/blob/main/slides/FL_Introduction_2022_Fall.pdf  
 - Week-2 Slide: https://github.com/Kwangkee/Gachon/blob/main/slides/FL_Platforms_2022_Fall.pdf  
-- Week-3 Slide: https://github.com/Kwangkee/Gachon/blob/main/slides/FL_ClientSelection_Fall.pdf
+- Week-4 Slide: https://github.com/Kwangkee/Gachon/blob/main/slides/FL_ClientSelection_Fall.pdf
 - 
 ***
 ## Week-1
