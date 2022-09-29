@@ -48,7 +48,7 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 
 #### Week-2 실습 (TA: 김진수)
 - [발표] 연합학습 Open Source Platform 리뷰, https://github.com/Kwangkee/Gachon/blob/main/slides/TA_FL%20Open-Source%20Platform.pdf
-- [발표] 연합학습 Open Source Platform 리뷰-2,https://github.com/Kwangkee/Gachon/blob/main/slides/TA_FL%20Open-Source%20Platform-2.pdf
+- [발표] 연합학습 Open Source Platform 리뷰-2, https://github.com/Kwangkee/Gachon/blob/main/slides/TA_FL%20Open-Source%20Platform-2.pdf
 - [실습] Flower/FedScale 설치, Tutorial/Sample code
 
 ***
@@ -109,7 +109,7 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 - rPPG, https://github.com/Kwangkee/rPPG, 원격임상시험 D-2 리뷰
 
 #### Week-5 실습 (TA: 김대열 박사)
-- [발표] rPPG 리뷰 및 실습, https://github.com/Kwangkee/Gachon/blob/19301694cfb5c63e9559abbcfca7b00fbc9d9e42/slides/TA_rPPG_Overview.pdf
+- [발표] rPPG 리뷰 및 실습, https://github.com/Kwangkee/Gachon/blob/main/slides/TA_rPPG_Overview.pdf
 - [논문] 딥러닝 기반 rPPG 모델 사용을 위한 경량 모델 연구, https://github.com/Kwangkee/Gachon/blob/5dd38ea670a14d0f0dd71fd789ce879c2be9d9a4/slides/%EC%9D%98%EB%A3%8C%EC%A0%95%EB%B3%B4%ED%95%99%ED%9A%8C_2022%EC%B6%94%EA%B3%84_%EB%94%A5%EB%9F%AC%EB%8B%9D%20%EA%B8%B0%EB%B0%98%20rPPG%20%EB%AA%A8%EB%8D%B8%20%EC%82%AC%EC%9A%A9%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EA%B2%BD%EB%9F%89%20%EB%AA%A8%EB%8D%B8%20%EC%97%B0%EA%B5%AC.pdf
 - [논문] Assessment of ROI Selection for Facial Video-Based rPPG(MDPI Sensors 2021):  [T3-1] 헬스케어 서비스 분야에서, 원격-PPG 기반 생체징후인식 실세계 적용 시나리오에 적응적 연합학습 기술을 적용하기 위한 기반기술, https://www.mdpi.com/1424-8220/21/23/7923  
 - [논문] 안면 이미지 데이터를 이용한 실시간 생체 징후 측정 시스템, https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002699582 
