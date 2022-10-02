@@ -10,9 +10,10 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 
 #### Awesome Federated Machine Learning
 - https://www.google.com/search?q=awesome+Federated+Learning
-- https://github.com/chaoyanghe/Awesome-Federated-Learning
 - https://github.com/innovation-cat/Awesome-Federated-Machine-Learning
 - https://github.com/ChanChiChoi/awesome-Federated-Learning
+- https://github.com/chaoyanghe/Awesome-Federated-Learning
+
 
 ***
 ## Week-1
