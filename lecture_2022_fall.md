@@ -100,13 +100,9 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 
 - 연합학습 Public Data, PFL Benchmarking, https://github.com/Kwangkee/FL/blob/main/FL@Benchmark.md
 
-#### Week-4 실습 (TA: 김진수)
-- [발표] 연합학습 Public Data, PFL Benchmarking 개요
-- [실습] 연합학습 Public Data, PFL Benchmarking 설치, Tutorial/Sample code 
-
-#### Week-4 학생 발표
-- [학생#1 발표] Open Source Platform 사용기, 실습 결과, https://github.com/Kwangkee/FL/blob/main/FL@Platform.md, FedML, FLSim, ...   
-- [학생#2 발표] Open Source Platform 사용기, 실습 결과, https://github.com/Kwangkee/FL/blob/main/FL%40FedScale.md#swan, Swan  
+#### Week-4 실습 (TA: 신재민/KAIST)
+- Efficient Federated Learning Approaches on Heterogeneous Clients, 이기종 클라이언트 위 효율적 연합학습 방법론, https://github.com/Kwangkee/Gachon/blob/main/slides/TA_FedBalancer_%EC%8B%A0%EC%9E%AC%EB%AF%BC_20221007.pdf
+- FedBalancer, https://github.com/Kwangkee/FL/blob/main/FL@ClientSelection.md#fedbalancer
 
 ## Week-5
 #### 강의 (Instructor)  
@@ -121,9 +117,6 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 - [논문] Assessment of ROI Selection for Facial Video-Based rPPG(MDPI Sensors 2021):  [T3-1] 헬스케어 서비스 분야에서, 원격-PPG 기반 생체징후인식 실세계 적용 시나리오에 적응적 연합학습 기술을 적용하기 위한 기반기술, https://www.mdpi.com/1424-8220/21/23/7923  
 - [논문] 안면 이미지 데이터를 이용한 실시간 생체 징후 측정 시스템, https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002699582 
 
-#### Week-5 학생 발표
-- [학생#1 발표] PFL Benchmark 사용기, 실습 결과, https://github.com/Kwangkee/FL/blob/main/FL@Benchmark.md
-- [학생#2 발표] PFL Benchmark 사용기, 실습 결과, https://github.com/Kwangkee/FL/blob/main/FL@Benchmark.md
 
 ## Week-6
 #### 강의 (Instructor)  
@@ -132,12 +125,8 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
   >[Recommend] [[삼성병원: 신수용 교수](https://github.com/Kwangkee/FL/blob/main/FL@Medical.md#%EC%82%BC%EC%84%B1%EB%B3%91%EC%9B%90-%EC%8B%A0%EC%88%98%EC%9A%A9-%EA%B5%90%EC%88%98)]   
   >Artificial Intelligence in Healthcare, https://biods220.stanford.edu/, Distributed Learning, Security, and Privacy lecture14.pdf, https://biods220.stanford.edu/lectures/lecture14.pdf
 
-#### 실습 (TA)
-- [발표] 원격임상시험 D-3 리뷰
-- [실습] 원격임상시험 D-3 PoC 결과
-
 #### 학생 발표
-- [학생#1 발표] Benchmark 사용기, 실습 결과, https://github.com/Kwangkee/FL/blob/main/FL@Benchmark.md
+- [학생 발표, 양세모] https://github.com/YangSemo/SaMD
 
 ## Week-7
 #### 강의 (Instructor)  
