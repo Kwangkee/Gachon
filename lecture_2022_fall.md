@@ -6,8 +6,8 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 #### Slides
 - Week-1 Slide: https://github.com/Kwangkee/Gachon/blob/main/slides/FL_Introduction_2022_Fall.pdf  
 - Week-2 Slide: https://github.com/Kwangkee/Gachon/blob/main/slides/FL_Platforms_2022_Fall.pdf  
-- Week-4 Slide: https://github.com/Kwangkee/Gachon/blob/main/slides/FL_ClientSelection_Fall.pdf
-- Week-7 Slide: https://github.com/Kwangkee/Gachon/blob/main/slides/FL_Medical_Fall.pdf
+- Week-4 Slide: https://github.com/Kwangkee/Gachon/blob/main/slides/FL_ClientSelection_2022_Fall.pdf
+- Week-7 Slide: https://github.com/Kwangkee/Gachon/blob/main/slides/FL_Medical_2022_Fall.pdf
 
 #### Awesome Federated Machine Learning
 - https://www.google.com/search?q=awesome+Federated+Learning
