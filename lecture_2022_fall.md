@@ -134,6 +134,7 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
   >[Recommend] 연합학습의 인센티브 플랫폼으로써 이더리움 스마트 컨트랙트를 시행하는 경우의 실무적 고려사항, https://github.com/Kwangkee/FL/blob/main/BCFL%40Korea.md#%EB%B6%80%EA%B2%BD%EB%8C%80
 
 - [Recommend][한글 유튜브] Web3 기술 인프라 , https://youtu.be/2cpUO1XN528?t=3173
+- [Udemy Course] https://www.udemy.com/course/master-ethereum-and-solidity-programming-with-real-world-apps/?utm_source=email-sendgrid&utm_medium=1771964&utm_campaign=2022-10-20&utm_term=50683248&utm_content=promo
 
 #### 실습 (TA: 고은수/이노피아)
 - [발표, 실습] BCFL, https://github.com/Kwangkee/Gachon/blob/main/slides/TA_BCFL_%EA%B3%A0%EC%9D%80%EC%88%98.pdf
