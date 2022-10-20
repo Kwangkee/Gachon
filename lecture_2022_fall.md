@@ -135,7 +135,7 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 
 - Web3 기술 인프라 , https://youtu.be/2cpUO1XN528?t=3173
 
-#### 실습 (TA)
+#### 실습 (TA: 고은수/이노피아)
 - [발표, 실습] BCFL, https://github.com/Kwangkee/Gachon/blob/main/slides/TA_BCFL_%EA%B3%A0%EC%9D%80%EC%88%98.pdf
 
 
@@ -145,11 +145,6 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
   >[**Must-read**] [[Towards Trustworthy AI: Blockchain-based Architecture Design for Accountability and Fairness of Federated Learning Systems](https://github.com/Kwangkee/FL/blob/main/FL%40CSIRO.md#towards-trustworthy-ai)], https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=TuL21poAAAAJ&sortby=pubdate&citation_for_view=TuL21poAAAAJ:koF6b02d8EEC
   >[Recommend] https://github.com/Kwangkee/FL/blob/main/BCFL%40Korea.md#%EC%84%9C%EC%9A%B8%EB%8C%80
 
-#### 실습 (TA)
-- [발표] BCFL 리뷰
-- [실습] 2CP Simulator
-#### 학생 발표
-- [학생 발표] Deep dive 주제 (응용 및 Open Challenges) 발표
 
 ****
 
