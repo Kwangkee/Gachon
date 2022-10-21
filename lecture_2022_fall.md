@@ -148,6 +148,16 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
   >[Recommend] https://github.com/Kwangkee/FL/blob/main/BCFL%40Korea.md#%EC%84%9C%EC%9A%B8%EB%8C%80
 
 
+
+## Week-9
+#### 강의 (Instructor)  
+- 
+
+## Week-10
+#### 강의 (Instructor)  
+- 성균관대 우홍욱 교수님
+
+
 ****
 
 TA
