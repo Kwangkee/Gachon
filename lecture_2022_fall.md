@@ -101,7 +101,7 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 
 - 연합학습 Public Data, PFL Benchmarking, https://github.com/Kwangkee/FL/blob/main/FL@Benchmark.md
 
-#### Week-4 실습 (TA: 신재민/KAIST)
+#### Invited Talk (신재민/KAIST)
 - Efficient Federated Learning Approaches on Heterogeneous Clients, 이기종 클라이언트 위 효율적 연합학습 방법론, https://github.com/Kwangkee/Gachon/blob/main/slides/TA_FedBalancer_%EC%8B%A0%EC%9E%AC%EB%AF%BC_20221007.pdf
 - FedBalancer, https://github.com/Kwangkee/FL/blob/main/FL@ClientSelection.md#fedbalancer
 
@@ -126,7 +126,7 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
   >[Recommend] [[삼성병원: 신수용 교수](https://github.com/Kwangkee/FL/blob/main/FL@Medical.md#%EC%82%BC%EC%84%B1%EB%B3%91%EC%9B%90-%EC%8B%A0%EC%88%98%EC%9A%A9-%EA%B5%90%EC%88%98)]   
   >Artificial Intelligence in Healthcare, https://biods220.stanford.edu/, Distributed Learning, Security, and Privacy lecture14.pdf, https://biods220.stanford.edu/lectures/lecture14.pdf
 
-
+***
 ## Week-7
 #### 강의 (Instructor)  
 - 블록체인 융합 연합학습, https://github.com/Kwangkee/FL/blob/main/BCFL%40Korea.md
@@ -140,7 +140,7 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 - [발표, 실습] BCFL, https://github.com/Kwangkee/Gachon/blob/main/slides/TA_BCFL_%EA%B3%A0%EC%9D%80%EC%88%98.pdf
 - 블록체인 기반 연합학습을 위한 퍼런스 아키텍처, https://github.com/Kwangkee/Gachon/blob/main/samples/%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8%EC%97%B0%ED%95%A9%ED%95%99%EC%8A%B5_%EC%9D%98%EB%A3%8C%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%ED%95%99%ED%9A%8C_2022%EC%B6%94%EA%B3%84_20221013.pdf
 
-
+***
 ## Week-8
 #### 강의 (Instructor)  
 - 블록체인 융합 연합학습, https://github.com/Kwangkee/FL/blob/main/BCFL%40Korea.md
@@ -148,14 +148,18 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
   >[Recommend] https://github.com/Kwangkee/FL/blob/main/BCFL%40Korea.md#%EC%84%9C%EC%9A%B8%EB%8C%80
 
 
-
+***
 ## Week-9
 #### 강의 (Instructor)  
-- 
 
+#### Invited Talk (성균관대 신성국/김광수 교수님)
+
+***
 ## Week-10
 #### 강의 (Instructor)  
-- 성균관대 우홍욱 교수님
+
+#### Invited Talk (성균관대 우홍욱 교수님)
+- 
 
 
 ****
