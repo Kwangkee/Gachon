@@ -150,14 +150,10 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 
 ***
 ## Week-9
-#### 강의 (Instructor)  
-
 #### Invited Talk (성균관대 신성국/김광수 교수님)
 
 ***
 ## Week-10
-#### 강의 (Instructor)  
-
 #### Invited Talk (성균관대 우홍욱 교수님)
 - 
 
