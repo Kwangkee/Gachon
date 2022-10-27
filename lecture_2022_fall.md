@@ -62,8 +62,9 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 ***
 ## Week-3
 #### 강의 (Instructor)  
-- 연합학습 이슈 : Data/System Heterogeneity in Federated Learning, Personalized FL
-  >Stanford MLSys Seminar Episode 3: Virginia Smith, On Heterogeneity in Federated Settings, https://www.youtube.com/watch?v=laCyJICLyWg
+
+- Federated Learning on Non-IID Data Silos: An Experimental Study, https://arxiv.org/abs/2102.02079
+  >Github: https://github.com/Xtra-Computing/NIID-Bench
 
 - 동적인 디바이스 환경에서 적응적 연합학습, https://github.com/Kwangkee/FL/blob/main/AFL.md  
 
