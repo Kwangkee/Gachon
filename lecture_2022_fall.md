@@ -66,10 +66,6 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 - Federated Learning on Non-IID Data Silos: An Experimental Study, https://arxiv.org/abs/2102.02079
   >Github: https://github.com/Xtra-Computing/NIID-Bench
 
-- 동적인 디바이스 환경에서 적응적 연합학습, https://github.com/Kwangkee/FL/blob/main/AFL.md  
-
-- Personalized federated learning, https://github.com/Kwangkee/FL/blob/main/FL@Nanyang.md#towards-personalized-federated-learning
-  >[**Must-read**] Towards Personalized Federated Learning, https://arxiv.org/abs/2103.00710  
 #### Week-3 실습 (TA: 김진수)
 - Federated MetaSense, 적응적 연합학습
 #### Week-3 학생 발표
@@ -174,6 +170,17 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 #### Invited Talk (성균관대 우홍욱 교수님)
 - 
 
+***
+## Week-11
+
+#### 강의 (Instructor)  
+- 동적인 디바이스 환경에서 적응적 연합학습, https://github.com/Kwangkee/FL/blob/main/AFL.md  
+- Personalized federated learning, https://github.com/Kwangkee/FL/blob/main/FL@Nanyang.md#towards-personalized-federated-learning
+  >[**Must-read**] Towards Personalized Federated Learning, https://arxiv.org/abs/2103.00710  
+  
+#### TA
+- 김진수, Meta Learning, MAML 기반 FL Personalization 
+- 논문
 
 ****
 
