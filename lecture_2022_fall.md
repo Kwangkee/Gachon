@@ -164,6 +164,13 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 
 ***
 ## Week-10
+
+#### 강의 (Instructor)  
+- FL Product, https://github.com/Kwangkee/Gachon/blob/main/slides/FL_Product_FedML_20221027.pdf
+- FedML: https://fedml.ai/
+  >- FedML Product Overview, https://medium.com/@FedML/fedml-ai-platform-releases-the-worlds-federated-learning-open-platform-on-public-cloud-with-an-8024e68a70b6 
+  >- Tutorial for Platform, https://fedml.ai/platform-tutorial/
+
 #### Invited Talk (성균관대 우홍욱 교수님)
 - 
 
