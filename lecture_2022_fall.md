@@ -151,7 +151,16 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 
 ***
 ## Week-9
+
+#### 강의 (Instructor)  
+- Client Contribution, https://github.com/Kwangkee/Gachon/blob/main/slides/FL_ClientContribution_2022_Fall.pdf
+
 #### Invited Talk (성균관대 신성국/김광수 교수님)
+- Client Contribution, https://github.com/Kwangkee/Gachon/blob/main/slides/InvitedTalk_Client_Contribution_%EC%8B%A0%EC%84%B1%EA%B5%AD_%EC%84%B1%EA%B7%A0%EA%B4%80%EB%8C%80_20221028.pdf
+
+#### Paper Review
+- 양세모, Contribution-Aware Federated Learning for Smart Healthcare, https://giai.notion.site/Contribution-Aware-Federated-Learning-for-Smart-Healthcare-19a363e1b60e4427b297f58dafdb1833
+- 김진수, 
 
 ***
 ## Week-10
