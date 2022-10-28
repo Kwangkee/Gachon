@@ -179,7 +179,7 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
   >[**Must-read**] Towards Personalized Federated Learning, https://arxiv.org/abs/2103.00710  
   
 #### TA
-- 김진수, Meta Learning, MAML 기반 FL Personalization 
+- Meta Learning, MAML 기반 FL Personalization 
 - 논문
 
 ****
