@@ -183,6 +183,13 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 - Meta Learning, MAML 기반 FL Personalization 
 - 논문
 
+***
+## Week-12
+
+#### 강의 (Instructor)  
+  
+#### TA
+- https://github.com/Kwangkee/Gachon/blob/main/samples/%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8%20%EA%B8%B0%EB%B0%98%20%EC%97%B0%ED%95%A9%ED%95%99%EC%8A%B5%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EB%A0%88%ED%8D%BC%EB%9F%B0%EC%8A%A4%20%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98_%EB%B0%A9%EC%86%A1%EB%AF%B8%EB%94%94%EC%96%B4%EA%B3%B5%ED%95%99%ED%9A%8C_20221006.pdf
 ****
 
 TA
