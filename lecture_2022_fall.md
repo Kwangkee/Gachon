@@ -187,6 +187,10 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 
 #### 강의 (Instructor)  
   
+  
+#### Invited Talk (서울과학기술대학교 컴퓨터공학과 박종혁 교수님)
+- Secure Electronic Health Record Sharing Scheme based on Federated Learning in Medical Informatics, https://ieeexplore.ieee.org/abstract/document/9774951
+  
 #### TA (고은수/이노피아)
 - 블록체인 기반 연합학습을 위한 레퍼런스 아키텍처, https://github.com/Kwangkee/Gachon/blob/main/samples/%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8%20%EA%B8%B0%EB%B0%98%20%EC%97%B0%ED%95%A9%ED%95%99%EC%8A%B5%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EB%A0%88%ED%8D%BC%EB%9F%B0%EC%8A%A4%20%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98_%EB%B0%A9%EC%86%A1%EB%AF%B8%EB%94%94%EC%96%B4%EA%B3%B5%ED%95%99%ED%9A%8C_20221006.pdf
 - 블록체인 기반 연합학습을 위한 레퍼런스 아키텍처, https://github.com/Kwangkee/Gachon/blob/main/samples/%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8%EC%97%B0%ED%95%A9%ED%95%99%EC%8A%B5_%EC%9D%98%EB%A3%8C%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%ED%95%99%ED%9A%8C_2022%EC%B6%94%EA%B3%84_20221013.pdf
