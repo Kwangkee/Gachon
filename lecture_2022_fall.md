@@ -167,8 +167,10 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
   >- FedML Product Overview, https://medium.com/@FedML/fedml-ai-platform-releases-the-worlds-federated-learning-open-platform-on-public-cloud-with-an-8024e68a70b6 
   >- Tutorial for Platform, https://fedml.ai/platform-tutorial/
 
+- FedNLP: A Research Platform for Federated Learning in Natural Language Processing, https://github.com/FedML-AI/FedML/tree/master/python/app/fednlp
+
 #### Invited Talk (성균관대 우홍욱 교수님)
-- 
+
 
 ***
 ## Week-11
