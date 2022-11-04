@@ -157,7 +157,7 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 
 #### Paper Review
 - 양세모, Contribution-Aware Federated Learning for Smart Healthcare, https://giai.notion.site/Contribution-Aware-Federated-Learning-for-Smart-Healthcare-19a363e1b60e4427b297f58dafdb1833
-- 김진수, https://github.com/Kwangkee/Gachon/blob/main/slides/Paper_Pretrained_%EA%B9%80%EC%A7%84%EC%88%98_20221028.pdf
+- 김진수, Where to Begin? Exploring the Impact of Pre-Training and Initialization in Federated Learning, https://github.com/Kwangkee/Gachon/blob/main/slides/Paper_Pretrained_%EA%B9%80%EC%A7%84%EC%88%98_20221028.pdf
 
 ***
 ## Week-10
