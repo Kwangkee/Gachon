@@ -171,7 +171,8 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 - FedNLP: A Research Platform for Federated Learning in Natural Language Processing, https://github.com/FedML-AI/FedML/tree/master/python/app/fednlp
 
 #### Invited Talk (성균관대 우홍욱 교수님)
-
+- Reinforcement Learning with
+Pretrained Models, https://github.com/Kwangkee/Gachon/blob/main/slides/20221104_PretrainedRL_CSSeminar_%EC%9A%B0%ED%99%8D%EC%9A%B1%EA%B5%90%EC%88%98.pdf
 
 ***
 ## Week-11
