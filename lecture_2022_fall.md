@@ -177,6 +177,12 @@ Pretrained Models, https://github.com/Kwangkee/Gachon/blob/main/slides/20221104_
 ***
 ## Week-11
 
+#### Invited Talk (인하대 이선우 교수님)
+- https://sites.google.com/view/sunwoolee
+- https://scholar.google.com/citations?hl=en&user=WA9KNNcAAAAJ&view_op=list_works&sortby=pubdate
+
+***
+## Week-12
 #### 강의 (Instructor)  
 - 동적인 디바이스 환경에서 적응적 연합학습, https://github.com/Kwangkee/FL/blob/main/AFL.md  
 - Personalized federated learning, https://github.com/Kwangkee/FL/blob/main/FL@Nanyang.md#towards-personalized-federated-learning
@@ -187,7 +193,7 @@ Pretrained Models, https://github.com/Kwangkee/Gachon/blob/main/slides/20221104_
 - 논문
 
 ***
-## Week-12
+## Week-13
 
 #### 강의 (Instructor)  
   
