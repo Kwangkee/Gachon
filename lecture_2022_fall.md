@@ -178,8 +178,8 @@ Pretrained Models, https://github.com/Kwangkee/Gachon/blob/main/slides/20221104_
 ## Week-11
 
 #### Invited Talk (인하대 이선우 교수님)
-- https://sites.google.com/view/sunwoolee
 - https://scholar.google.com/citations?hl=en&user=WA9KNNcAAAAJ&view_op=list_works&sortby=pubdate
+- 
 
 ***
 ## Week-12
