@@ -179,7 +179,7 @@ Pretrained Models, https://github.com/Kwangkee/Gachon/blob/main/slides/20221104_
 
 #### Invited Talk (인하대 이선우 교수님)
 - https://scholar.google.com/citations?hl=en&user=WA9KNNcAAAAJ&view_op=list_works&sortby=pubdate
-- 
+- Scalabl Federated Learning on Real World Edge Device Environments, https://github.com/Kwangkee/Gachon/blob/main/slides/Scalable%20FL%20%EC%9D%B4%EC%84%A0%EC%9A%B0%20%EA%B5%90%EC%88%98%EB%8B%98_2022_Fall.pdf
 
 ***
 ## Week-12
