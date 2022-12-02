@@ -189,8 +189,9 @@ Pretrained Models, https://github.com/Kwangkee/Gachon/blob/main/slides/20221104_
   >[**Must-read**] Towards Personalized Federated Learning, https://arxiv.org/abs/2103.00710  
   
 #### TA (김진수)
-- Meta Learning, MAML 기반 FL Personalization 
-- 논문
+- 원격 PPG에 대한 메타러닝 기반 개인화 연합학습 적용 및 성능 평가 
+- 발표자료, https://github.com/Kwangkee/Gachon/blob/main/slides/%EB%8C%80%ED%95%9C%EC%9D%98%EB%A3%8C%EC%A0%95%EB%B3%B4%ED%95%99%ED%9A%8C%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_%EB%A9%94%ED%83%80%EB%9F%AC%EB%8B%9D%20%EA%B8%B0%EB%B0%98%20%EA%B0%9C%EC%9D%B8%ED%99%94%20%EC%97%B0%ED%95%A9%ED%95%99%EC%8A%B5_%EA%B9%80%EC%A7%84%EC%88%98.pdf
+- 논문,  https://github.com/Kwangkee/Gachon/blob/main/slides/%EC%9D%98%EB%A3%8C%EC%A0%95%EB%B3%B4%ED%95%99%ED%9A%8C_2022%EC%B6%94%EA%B3%84_%EC%9B%90%EA%B2%A9%20PPG%EC%97%90%20%EB%8C%80%ED%95%9C%20%EB%A9%94%ED%83%80%EB%9F%AC%EB%8B%9D%20%EA%B8%B0%EB%B0%98%20%EA%B0%9C%EC%9D%B8%ED%99%94%20%EC%97%B0%ED%95%A9%ED%95%99%EC%8A%B5%20%EC%A0%81%EC%9A%A9%20%EB%B0%8F%20%EC%84%B1%EB%8A%A5%20%ED%8F%89%EA%B0%80.pdf
 
 ***
 ## Week-13
