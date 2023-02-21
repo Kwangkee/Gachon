@@ -9,8 +9,9 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 |---|---|--|
 |1|DNN Overview, https://github.com/Kwangkee/Gachon/blob/main/slides/TA_DL_overview.pdf|PyTorch 설치, Tutorial/Sample code, [Add Install Guide]|
 |2|연합학습 Open Source Platform, https://github.com/Kwangkee/Gachon/blob/main/slides/TA_FL%20Open-Source%20Platform.pdf, https://github.com/Kwangkee/Gachon/blob/main/slides/TA_FL%20Open-Source%20Platform-2.pdf|Flower/FedML 설치, Tutorial/Sample code, [Add Install Guide]|
-|3|rPPG overview, https://github.com/Kwangkee/Gachon/blob/main/slides/TA_rPPG_Overview.pdf||
+|3|rPPG overview, https://github.com/Kwangkee/Gachon/blob/main/slides/TA_rPPG_Overview.pdf|https://github.com/Kwangkee/rPPG|
 |4|PPG, MIMIC Dataset 
+||Digital Healthcare|https://github.com/Kwangkee/Digital-Healthcare|
 ||웨어러블
 ||메타러닝
 ||블록체인
