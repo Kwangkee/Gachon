@@ -5,8 +5,8 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 - 숙제, 발표자료는 하루 전 까지 [[사이버캠퍼스](https://cyber.gachon.ac.kr/course/view.php?id=85330)]에 upload 해 주세요.
 
 ***
-|주차|수업내용|TA|학생발표|
-|---|---|--|--|
+|주차|수업내용|실습|
+|---|---|--|
 |1|DNN Overview, https://github.com/Kwangkee/Gachon/blob/main/slides/TA_DL_overview.pdf
 |PyTorch 설치, Tutorial/Sample code, [Install/Sample Guide]|
 
