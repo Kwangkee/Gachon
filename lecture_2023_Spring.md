@@ -11,11 +11,12 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 |2|연합학습 Open Source Platform, https://github.com/Kwangkee/Gachon/blob/main/slides/TA_FL%20Open-Source%20Platform.pdf, https://github.com/Kwangkee/Gachon/blob/main/slides/TA_FL%20Open-Source%20Platform-2.pdf|https://github.com/Kwangkee/FL|Flower/FedML 설치, Tutorial/Sample code, [Add Install Guide]|
 |3|rPPG overview, https://github.com/Kwangkee/Gachon/blob/main/slides/TA_rPPG_Overview.pdf|https://github.com/Kwangkee/rPPG|
 |4|PPG, MIMIC Dataset 
-||Digital Healthcare|https://github.com/Kwangkee/Digital-Healthcare|
 ||웨어러블
 ||메타러닝
 ||블록체인
-||임상시험
+||임상시험 Platform
+||
+||Digital Healthcare|https://github.com/Kwangkee/Digital-Healthcare|
 ||
 
 
