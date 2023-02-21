@@ -11,8 +11,8 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 |1|https://github.com/Kwangkee/Gachon/blob/main/slides/TA_DL_overview.pdf|Install/Sample Guide|
 |2|연합학습 Open Source Platform 리뷰|설치, Tutorial/Sample code||
 |2|https://github.com/Kwangkee/Gachon/blob/main/slides/TA_FL%20Open-Source%20Platform.pdf, https://github.com/Kwangkee/Gachon/blob/main/slides/TA_FL%20Open-Source%20Platform-2.pdf|Install/Sample Guide|
-|3|Federated MetaSense, 적응적 연합학습|적응적 연합학습||
-|3|
+|3|rPPG|실습||
+|3|https://github.com/Kwangkee/Gachon/blob/main/slides/TA_rPPG_Overview.pdf
 |4|연합학습 Public Data, Benchmarking 리뷰|PFL Benchmarking 설치, Tutorial/Sample code||
 |4|
 |5|rPPG 리뷰|rPPG code 리뷰||
