@@ -8,9 +8,9 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 |주차|수업내용|TA|학생발표|
 |---|---|--|--|
 |1|DNN 리뷰|PyTorch 설치, Tutorial/Sample code||
-|1| https://github.com/Kwangkee/Gachon/blob/main/slides/TA_DL_overview.pdf
-|2|연합학습 Open Source Platform (Flower/FedScale) 리뷰|설치, Tutorial/Sample code||
-|2|
+|1|https://github.com/Kwangkee/Gachon/blob/main/slides/TA_DL_overview.pdf
+|2|연합학습 Open Source Platform 리뷰|설치, Tutorial/Sample code||
+|2|https://github.com/Kwangkee/Gachon/blob/main/slides/TA_FL%20Open-Source%20Platform.pdf, https://github.com/Kwangkee/Gachon/blob/main/slides/TA_FL%20Open-Source%20Platform-2.pdf
 |3|Federated MetaSense, 적응적 연합학습|적응적 연합학습||
 |3|
 |4|연합학습 Public Data, Benchmarking 리뷰|PFL Benchmarking 설치, Tutorial/Sample code||
