@@ -14,7 +14,7 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 ||웨어러블
 ||메타러닝
 ||
-||Web3.0|https://https://github.com/Kwangkee/WEB3.0|
+||Web3.0|https://github.com/Kwangkee/WEB3.0|
 ||블록체인
 ||
 ||인공지능 모델/데이터 거래시장을 위한 블록체인 융합 연합학습 플랫폼
