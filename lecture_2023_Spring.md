@@ -16,7 +16,7 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 ||블록체인
 ||임상시험 Platform
 ||
-||Digital Healthcare|https://github.com/Kwangkee/Digital-Healthcare|
+||Web3.0|https://https://github.com/Kwangkee/WEB3.0|
 ||
 
 
