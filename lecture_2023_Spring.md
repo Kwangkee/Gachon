@@ -4,12 +4,41 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 - 질문/제안 언제든 주시기 바랍니다.
 - 숙제, 발표자료는 하루 전 까지 [[사이버캠퍼스](https://cyber.gachon.ac.kr/course/view.php?id=85330)]에 upload 해 주세요.
 
-## Python Install 
+
+***
+## Week-1
+
+#### Python Install 
 - Install Anaconda
 - Install PyCharm (Community Edition)
 - Creat Env and Project for MNIST tutorial
 - Run at Colab
-- See the youtube tutorials & Try as described in https://github.com/hanyoseob/youtube-cnn-001-pytorch-mnist
+- See youtube videos & Try as described in https://github.com/hanyoseob/youtube-cnn-001-pytorch-mnist
+
+#### Deep Learning Overview
+Deep Learning Overview, https://github.com/Kwangkee/Gachon/blob/main/slides/TA_DL_overview.pdf
+
+***
+## Week-2
+
+
+***
+## Week-3
+
+
+***
+## Week-4
+
+
+***
+## Week-5
+
+
+***
+## Week-6
+
+
+
 
 ***
 |주차|수업내용|참고|실습|
