@@ -16,7 +16,7 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 - See & Try: https://github.com/hanyoseob/youtube-cnn-001-pytorch-mnist
 
 #### Deep Learning Overview
-Deep Learning Overview, https://github.com/Kwangkee/Gachon/blob/main/slides/TA_DL_overview.pdf
+- Deep Learning Overview, https://github.com/Kwangkee/Gachon/blob/main/slides/TA_DL_overview.pdf
 
 ***
 ## Week-2
