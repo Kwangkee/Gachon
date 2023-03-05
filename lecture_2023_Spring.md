@@ -21,10 +21,18 @@ Deep Learning Overview, https://github.com/Kwangkee/Gachon/blob/main/slides/TA_D
 ***
 ## Week-2
 
+#### 연합학습 
+
+- https://github.com/Kwangkee/FL
+- FL Open Source Platform, https://github.com/Kwangkee/Gachon/blob/main/slides/TA_FL%20Open-Source%20Platform.pdf
+- FL Open Source Platform, https://github.com/Kwangkee/Gachon/blob/main/slides/TA_FL%20Open-Source%20Platform-2.pdf
+- https://github.com/Kwangkee/FL
 
 ***
 ## Week-3
 
+#### Remote PPG
+rPPG overview, https://github.com/Kwangkee/Gachon/blob/main/slides/TA_rPPG_Overview.pdf
 
 ***
 ## Week-4
@@ -43,9 +51,6 @@ Deep Learning Overview, https://github.com/Kwangkee/Gachon/blob/main/slides/TA_D
 ***
 |주차|수업내용|참고|실습|
 |---|---|---|---|
-|1|DNN Overview, https://github.com/Kwangkee/Gachon/blob/main/slides/TA_DL_overview.pdf||PyTorch 설치, Tutorial/Sample code, [Add Install Guide]|
-|2|연합학습 Open Source Platform, https://github.com/Kwangkee/Gachon/blob/main/slides/TA_FL%20Open-Source%20Platform.pdf, https://github.com/Kwangkee/Gachon/blob/main/slides/TA_FL%20Open-Source%20Platform-2.pdf|https://github.com/Kwangkee/FL|Flower/FedML 설치, Tutorial/Sample code, [Add Install Guide]|
-|3|rPPG overview, https://github.com/Kwangkee/Gachon/blob/main/slides/TA_rPPG_Overview.pdf|https://github.com/Kwangkee/rPPG|
 |4|PPG, MIMIC Dataset 
 ||웨어러블
 ||메타러닝
