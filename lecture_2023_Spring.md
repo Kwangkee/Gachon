@@ -11,9 +11,9 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 #### Python Install (미리 설치, 실행해 보고 수업에 참석해 주세요)
 - Install Anaconda
 - Install PyCharm (Community Edition)
-- Creat Env and PyCharm Project for MNIST tutorial
+- Create Env and PyCharm Project for MNIST tutorial
 - Run at Colab
-- 수업 전에 설치, 참고: https://github.com/hanyoseob/youtube-cnn-001-pytorch-mnist
+- See & Try: https://github.com/hanyoseob/youtube-cnn-001-pytorch-mnist
 
 #### Deep Learning Overview
 Deep Learning Overview, https://github.com/Kwangkee/Gachon/blob/main/slides/TA_DL_overview.pdf
