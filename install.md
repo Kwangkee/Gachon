@@ -8,11 +8,12 @@
 - Sh 파일로 받았다면, $./Anaconda3-2021.11-Linux-x86_64.sh
 
 ## Conda 환경 구축
-""
+'''
 conda create -n pytorch python=3.9
 conda install pytorch torchvision torchaudio pytorch-cuda=11.7 -c pytorch -c nvidia
 conda install captum –c pyotorch
 pip install wandb
+'''
 
 ## Pycharm install
 "https://www.jetbrains.com/ko-kr/pycharm/download/
