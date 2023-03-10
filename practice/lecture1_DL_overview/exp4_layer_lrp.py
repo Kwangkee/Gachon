@@ -104,14 +104,14 @@ for epoch in range(num_epoch):
             y = y.to(device)
 
             if i == 0:
-                integrated_gradients = IntegratedGradients(model)
+                integrated_gradients = LayerIntegratedGradients(model, model.cnn1)
                 attributions_ig = integrated_gradients.attribute(x, target=y, n_steps=50)
                 print(attributions_ig)
                 default_cmap = LinearSegmentedColormap.from_list('custom blue',
                                                                 [(0, '#ffffff'),
                                                                  (0.25, '#0000ff'),
                                                                  (1, '#0000ff')], N=256)
-                _ = viz.visualize_image_attr(np.transpose(attributions_ig.squeeze().cpu().detach().numpy(), (1, 2, 0)),
+                _ = viz.visualize_image_attr(np.transpose(attributions_ig.squeeze().cpu().detach().numpy()[0], (1, 2, 0)),
                                                         np.transpose(x.squeeze().cpu().detach().numpy(), (1, 2, 0)),
                                                         method= "blended_heat_map",
                                                         cmap=default_cmap,

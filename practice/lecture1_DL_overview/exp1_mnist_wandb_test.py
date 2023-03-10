@@ -69,6 +69,7 @@ optimizer = torch.optim.Adam(model.parameters(), lr=lr)
 criterion = torch.nn.CrossEntropyLoss()
 
 fn_acc = lambda pred, label: ((pred.max(dim=1)[1] == label).type(torch.float)).mean()
+
 wandb.watch(model, criterion, log="all", log_freq=10)
 
 for epoch in range(num_epoch):

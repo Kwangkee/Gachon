@@ -29,7 +29,8 @@ random.seed(random_seed)
 
 # 하이퍼 파라미터 세팅
 lr = 0.0015848931924611136
-batch_size = 256
+# lr = 0.01
+batch_size = 1024
 num_epoch = 10
 # 저장 경로 세팅
 ckpt_dir = './checkpoint'
@@ -108,11 +109,11 @@ fn_pred = lambda output: torch.softmax(output, dim=1)
 fn_acc = lambda pred, label: ((pred.max(dim=1)[1] == label).type(torch.float)).mean()
 wandb.watch(model, criterion, log="all", log_freq=10)
 #
-log_lrs, losses = find_lr(model, loader, optimizer, criterion)
-plt.plot(log_lrs, losses)
-plt.xlabel('log10 Learning Rate')
-plt.ylabel('Loss')
-plt.show()
+# log_lrs, losses = find_lr(model, train_loader, optimizer, criterion)
+# plt.plot(log_lrs, losses)
+# plt.xlabel('log10 Learning Rate')
+# plt.ylabel('Loss')
+# plt.show()
 
 #print( (log_lrs[losses.index(min(losses))] *2 + log_lrs[losses.index(max(losses))]) / 3)
 
@@ -127,22 +128,6 @@ for epoch in range(num_epoch):
 
             x = x.to(device)
             y = y.to(device)
-
-            if i == 0:
-                integrated_gradients = IntegratedGradients(model)
-                attributions_ig = integrated_gradients.attribute(x, target=y, n_steps=50)
-                print(attributions_ig)
-                default_cmap = LinearSegmentedColormap.from_list('custom blue',
-                                                                [(0, '#ffffff'),
-                                                                 (0.25, '#0000ff'),
-                                                                 (1, '#0000ff')], N=256)
-                _ = viz.visualize_image_attr(np.transpose(attributions_ig.squeeze().cpu().detach().numpy(), (1, 2, 0)),
-                                                        np.transpose(x.squeeze().cpu().detach().numpy(), (1, 2, 0)),
-                                                        method= "blended_heat_map",
-                                                        cmap=default_cmap,
-                                                        show_colorbar=True,
-                                                         sign='positive',
-                                                         title='Integrated Gradients')
 
             optimizer.zero_grad()
 
