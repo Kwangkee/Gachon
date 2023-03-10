@@ -18,7 +18,7 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 #### Deep Learning Overview
 - Deep Learning Overview, [https://github.com/Kwangkee/Gachon/blob/main/slides/TA_DL_overview_2023.pdf]
 - Python Install, https://github.com/Kwangkee/Gachon/blob/main/python_install.md
-- Practice & Hoework, https://github.com/Kwangkee/Gachon/tree/main/practice/lecture1_DL_overview
+- Practice & Homework, https://github.com/Kwangkee/Gachon/tree/main/practice/lecture1_DL_overview
 
 ***
 ## Week-2
