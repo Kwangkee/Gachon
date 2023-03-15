@@ -23,21 +23,22 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 ***
 ## Week-2
 
-#### 연합학습 
+#### 연합학습 (김진수)
 
 - https://github.com/Kwangkee/FL
 - FL Open Source Platform, https://github.com/Kwangkee/Gachon/blob/main/slides/TA_FL%20Open-Source%20Platform.pdf
 - FL Open Source Platform, https://github.com/Kwangkee/Gachon/blob/main/slides/TA_FL%20Open-Source%20Platform-2.pdf
-
 - KSII 논문
+
+실습  
 - KSII 논문 실험 code
 
 ***
 ## Week-3
 
-#### Remote PPG
+#### Remote PPG (김대열)
 rPPG overview, https://github.com/Kwangkee/Gachon/blob/main/slides/TA_rPPG_Overview.pdf
-PPG, MIMIC Dataset 
+PPG, MIMIC Dataset (채종의)
 
 ***
 ## Week-4 
@@ -45,34 +46,35 @@ PPG, MIMIC Dataset
 
 - Web 3.0 소개, https://drive.google.com/file/d/1qmhWZIjMHRZCt6_ae9X4xa1ia7QCX-Ys/view?usp
 - Web 3.0 소개, https://drive.google.com/drive/u/0/folders/1746oSDqOLuzvlmkDjly2MM0WwT6oOzaq
+- https://github.com/Kwangkee/WEB3.0|
 
-실습   
+실습 (고은수)  
 - MetaMask
 - Remix
 
 ***
 ## Week-5
-Meta Learning
+
+#### Meta Learning
 - 실세계 비전 문제해결을 위한 메타학습 (백성용 교수, 한양대), https://drive.google.com/file/d/1vWjxNVFWjI0PgTgg22oRNGlHcQ-b2zYx/view?usp=sharing 166 페이지
 
 ***
 ## Week-6
 
+#### 연합학습 (김진수)
 
+## Week-8
 
+#### 원격임상시험
 
-***
-|주차|수업내용|참고|실습|
-|---|---|---|---|
-||PPG, MIMIC Dataset 
-||웨어러블
-||메타러닝
-||
-||Web3.0|https://github.com/Kwangkee/WEB3.0|
-||블록체인
-||
-||인공지능 모델/데이터 거래시장을 위한 블록체인 융합 연합학습 플랫폼
 ||원격임상시험 플랫폼
 
+
+## Week-7
+
+#### 연합학습 (김진수)
+
+
+||인공지능 모델/데이터 거래시장을 위한 블록체인 융합 연합학습 플랫폼
 
 
