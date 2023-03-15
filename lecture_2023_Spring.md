@@ -4,6 +4,7 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 - 질문/제안 언제든 주시기 바랍니다.
 - 숙제, 발표자료는 하루 전 까지 [[사이버캠퍼스](https://cyber.gachon.ac.kr/course/view.php?id=85330)]에 upload 해 주세요.
 - 노트북 필참
+- 매주 강의 온라인 병행하겠습니다. Google Meet 링크 : https://meet.google.com/veg-hgjg-rgk  
 
 ***
 TA
