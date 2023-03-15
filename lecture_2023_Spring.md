@@ -7,12 +7,15 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 
 ***
 TA
-|주차|내용|실습|담당 TA|
+|주차|내용|실습|강사|
 |---|---|--|--|
 |1|DNN 리뷰|Python|김대열|
-|2|연합학습|Open Source Platform (Flower/FedScale) 설치|김진수|
-|3||||
-|4||||
+|2|연합학습 리뷰|Open Source Platform (Flower/FedScale) 설치|김진수|
+|3|Web 3.0||고은수|
+|4|Remote PPG||김대열|
+|5|Meta Learning||백성용|
+|6|연합학습||양세모|
+|7||||
 
 ***
 ## Week-1
@@ -43,8 +46,8 @@ TA
 - KSII 논문 실험 code
 
 ***
-## Week-4 
-#### Web 3.0
+## Week-3 
+#### Web 3.0 
 
 - Web 3.0 소개, https://drive.google.com/file/d/1qmhWZIjMHRZCt6_ae9X4xa1ia7QCX-Ys/view?usp
 - Web 3.0 소개, https://drive.google.com/drive/u/0/folders/1746oSDqOLuzvlmkDjly2MM0WwT6oOzaq
@@ -56,7 +59,7 @@ TA
 
 
 ***
-## Week-3
+## Week-4
 
 #### Remote PPG (김대열)
 rPPG overview, https://github.com/Kwangkee/Gachon/blob/main/slides/TA_rPPG_Overview.pdf
