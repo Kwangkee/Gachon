@@ -29,6 +29,9 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 - FL Open Source Platform, https://github.com/Kwangkee/Gachon/blob/main/slides/TA_FL%20Open-Source%20Platform.pdf
 - FL Open Source Platform, https://github.com/Kwangkee/Gachon/blob/main/slides/TA_FL%20Open-Source%20Platform-2.pdf
 
+- KSII 논문
+- KSII 논문 실험 code
+
 ***
 ## Week-3
 
