@@ -15,7 +15,7 @@ TA
 |4|Remote PPG||김대열|
 |5|Meta Learning||백성용|
 |6|연합학습||양세모|
-|7|BCFL|||
+|7|BCFL||고은수|
 |8|의료 Dataset ||양세모, 채종의|
 
 ***
