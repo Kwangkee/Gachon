@@ -40,7 +40,8 @@ TA
 
 #### 연합학습 
 
-- https://github.com/Kwangkee/FL/blob/main/FL%40Intro.md
+- FL Intro, https://github.com/Kwangkee/FL/blob/main/FL%40Intro.md
+- FL 지난학기 강, https://github.com/Kwangkee/Gachon/edit/main/lecture_2023_Spring.md
 - FL Open Source Platform, https://github.com/Kwangkee/Gachon/blob/main/slides/TA_FL%20Open-Source%20Platform.pdf (김진수)
 - FL Open Source Platform, https://github.com/Kwangkee/Gachon/blob/main/slides/TA_FL%20Open-Source%20Platform-2.pdf (김진수)
 - Open FL Platforms 설치/실습 (김진수)
