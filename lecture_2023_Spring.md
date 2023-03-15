@@ -28,17 +28,10 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 - https://github.com/Kwangkee/FL
 - FL Open Source Platform, https://github.com/Kwangkee/Gachon/blob/main/slides/TA_FL%20Open-Source%20Platform.pdf
 - FL Open Source Platform, https://github.com/Kwangkee/Gachon/blob/main/slides/TA_FL%20Open-Source%20Platform-2.pdf
-- KSII 논문
+- KSII 논문 링크 (김진수)
 
 실습  
 - KSII 논문 실험 code
-
-***
-## Week-3
-
-#### Remote PPG (김대열)
-rPPG overview, https://github.com/Kwangkee/Gachon/blob/main/slides/TA_rPPG_Overview.pdf
-PPG, MIMIC Dataset (채종의)
 
 ***
 ## Week-4 
@@ -49,8 +42,16 @@ PPG, MIMIC Dataset (채종의)
 - https://github.com/Kwangkee/WEB3.0|
 
 실습 (고은수)  
-- MetaMask
-- Remix
+- 전자지갑, MetaMask
+- Remix IDE
+
+
+***
+## Week-3
+
+#### Remote PPG (김대열)
+rPPG overview, https://github.com/Kwangkee/Gachon/blob/main/slides/TA_rPPG_Overview.pdf
+PPG, MIMIC Dataset (채종의)
 
 ***
 ## Week-5
@@ -61,20 +62,19 @@ PPG, MIMIC Dataset (채종의)
 ***
 ## Week-6
 
-#### 연합학습 (김진수)
-
-## Week-8
-
-#### 원격임상시험
-
-||원격임상시험 플랫폼
-
+#### 연합학습 (양세모)
 
 ## Week-7
 
-#### 연합학습 (김진수)
+#### BCFL (고은수)
 
-
+||원격임상시험 플랫폼
 ||인공지능 모델/데이터 거래시장을 위한 블록체인 융합 연합학습 플랫폼
+
+## Week-8
+
+#### 
+
+
 
 
