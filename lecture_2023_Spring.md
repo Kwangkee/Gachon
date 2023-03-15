@@ -78,15 +78,15 @@ TA
 ***
 ## Week-6
 
-#### 연합학습 (양세모)
+#### 연합학습
 - KSII 논문 링크 (김진수)
 - IEEE Acess 논문 링크 (양세모)
 
 ## Week-7
 
-#### BCFL (고은수)
+#### BCFL
 
-- https://drive.google.com/drive/u/0/folders/1qV5jN-KspZWYuUZEzx0mzLEYPsomzhko
+- 원격임상시험 과제, https://drive.google.com/drive/u/0/folders/1qV5jN-KspZWYuUZEzx0mzLEYPsomzhko
 - 원격임상시험 플랫폼 (헬스커넥트)
 - BCFL Simulator (고은수)
 - 인공지능 모델/데이터 거래시장을 위한 블록체인 융합 연합학습 플랫폼
