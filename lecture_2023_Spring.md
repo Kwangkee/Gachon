@@ -88,14 +88,23 @@ TA
 
 ## Week-7
 
+#### Blockchain
+
+실습  
+- BCFL Simulator (고은수)
+
+## Week-8
+
 #### BCFL
 
 - 원격임상시험 과제, https://drive.google.com/drive/u/0/folders/1qV5jN-KspZWYuUZEzx0mzLEYPsomzhko
 - 원격임상시험 플랫폼 (헬스커넥트)
-- BCFL Simulator (고은수)
 - 인공지능 모델/데이터 거래시장을 위한 블록체인 융합 연합학습 플랫폼
 
-## Week-8
+실습  
+- BCFL Simulator (고은수)
+
+## Week-9
 
 #### 의료 Dataset 
 - DeepCars (양세모)
