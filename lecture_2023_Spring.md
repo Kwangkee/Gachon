@@ -6,6 +6,15 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 - 노트북 필참
 
 ***
+TA
+|주차|내용|실습|담당 TA|
+|---|---|--|--|
+|1|DNN 리뷰|Python|김대열|
+|2|연합학습|Open Source Platform (Flower/FedScale) 설치|김진수|
+|3||||
+|4||||
+
+***
 ## Week-1
 
 #### Python Install (미리 설치, 실행해 보고 수업에 참석해 주세요)
