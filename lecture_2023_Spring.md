@@ -41,14 +41,12 @@ TA
 #### 연합학습 
 
 - FL Intro, https://github.com/Kwangkee/FL/blob/main/FL%40Intro.md
-- FL 지난학기 강, https://github.com/Kwangkee/Gachon/edit/main/lecture_2023_Spring.md
+- FL 지난학기 강의, https://github.com/Kwangkee/Gachon/blob/main/lecture_2022_fall.md
 - FL Open Source Platform, https://github.com/Kwangkee/Gachon/blob/main/slides/TA_FL%20Open-Source%20Platform.pdf (김진수)
 - FL Open Source Platform, https://github.com/Kwangkee/Gachon/blob/main/slides/TA_FL%20Open-Source%20Platform-2.pdf (김진수)
-- Open FL Platforms 설치/실습 (김진수)
-- KSII 논문 링크 (김진수)
 
 실습  
-- KSII 논문 실험 code
+- Open FL Platforms 설치/실습 (김진수)
 
 ***
 ## Week-3 
@@ -83,6 +81,10 @@ TA
 #### 연합학습
 - KSII 논문 링크 (김진수)
 - IEEE Acess 논문 링크 (양세모)
+
+실습  
+- KSII 논문 관련 code (김진수)
+- IEEE Acess 논문 관련 code (양세모)
 
 ## Week-7
 
