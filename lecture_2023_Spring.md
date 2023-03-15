@@ -79,7 +79,8 @@ TA
 ## Week-6
 
 #### 연합학습 (양세모)
-- IEEE Acess 논문 링크 (김진수)
+- KSII 논문 링크 (김진수)
+- IEEE Acess 논문 링크 (양세모)
 
 ## Week-7
 
