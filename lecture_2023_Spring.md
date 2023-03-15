@@ -9,13 +9,14 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 TA
 |주차|내용|실습|강사|
 |---|---|--|--|
-|1|DNN 리뷰|Python|김대열|
-|2|연합학습 리뷰|Open Source Platform (Flower/FedScale) 설치|김진수|
-|3|Web 3.0||고은수|
+|1|DNN 리뷰|Python, PyTorch|김대열|
+|2|연합학습 리뷰|Open FL Platforms|김진수|
+|3|Web 3.0|지갑/IDE|고은수|
 |4|Remote PPG||김대열|
 |5|Meta Learning||백성용|
 |6|연합학습||양세모|
-|7||||
+|7|BCFL|||
+|8|의료 Dataset ||양세모, |
 
 ***
 ## Week-1
@@ -62,8 +63,8 @@ TA
 ## Week-4
 
 #### Remote PPG (김대열)
-rPPG overview, https://github.com/Kwangkee/Gachon/blob/main/slides/TA_rPPG_Overview.pdf
-PPG, MIMIC Dataset (채종의)
+- rPPG overview, https://github.com/Kwangkee/Gachon/blob/main/slides/TA_rPPG_Overview.pdf
+- Implement Deep Learning based Rppg Model & PPG 2 ABP using pytorch, https://github.com/remotebiosensing/rppg 
 
 ***
 ## Week-5
@@ -85,8 +86,9 @@ PPG, MIMIC Dataset (채종의)
 
 ## Week-8
 
-#### 
-
+#### 의료 Dataset 
+- DeepCars (양세모)
+- MIMIC (채종의)
 
 
 
