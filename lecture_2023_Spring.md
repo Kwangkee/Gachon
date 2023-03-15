@@ -7,7 +7,7 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 
 ***
 TA
-|주차|내용|실습|강사|
+|주차|내용|실습|TA|
 |---|---|--|--|
 |1|DNN 리뷰|Python, PyTorch|김대열|
 |2|연합학습 리뷰|Open FL Platforms|김진수|
@@ -36,11 +36,12 @@ TA
 ***
 ## Week-2
 
-#### 연합학습 (김진수)
+#### 연합학습 
 
 - https://github.com/Kwangkee/FL
-- FL Open Source Platform, https://github.com/Kwangkee/Gachon/blob/main/slides/TA_FL%20Open-Source%20Platform.pdf
-- FL Open Source Platform, https://github.com/Kwangkee/Gachon/blob/main/slides/TA_FL%20Open-Source%20Platform-2.pdf
+- FL Open Source Platform, https://github.com/Kwangkee/Gachon/blob/main/slides/TA_FL%20Open-Source%20Platform.pdf (김진수)
+- FL Open Source Platform, https://github.com/Kwangkee/Gachon/blob/main/slides/TA_FL%20Open-Source%20Platform-2.pdf (김진수)
+- Open FL Platforms 설치/실습 (김진수)
 - KSII 논문 링크 (김진수)
 
 실습  
