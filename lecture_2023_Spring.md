@@ -16,7 +16,7 @@ TA
 |5|Meta Learning||백성용|
 |6|연합학습||양세모|
 |7|BCFL|||
-|8|의료 Dataset ||양세모, |
+|8|의료 Dataset ||양세모, 채종의|
 
 ***
 ## Week-1
