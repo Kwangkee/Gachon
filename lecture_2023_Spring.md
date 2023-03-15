@@ -10,8 +10,8 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 TA
 |주차|내용|실습|TA|
 |---|---|--|--|
-|1|DNN 리뷰|Python, PyTorch|김대열|
-|2|연합학습 리뷰|Open FL Platforms|김진수|
+|1|DNN|Python, PyTorch|김대열|
+|2|연합학습|Open FL Platforms|김진수|
 |3|Web 3.0|지갑/IDE|고은수|
 |4|Remote PPG||김대열|
 |5|Meta Learning||백성용|
