@@ -15,7 +15,7 @@ TA
 |3|Web 3.0|지갑/IDE|고은수|
 |4|Remote PPG||김대열|
 |5|Meta Learning||백성용|
-|6|연합학습||양세모|
+|6|연합학습||김진수, 양세모|
 |7|BlockChain||고은수|
 |7|BCFL||고은수|
 |8|의료 Dataset ||양세모, 채종의|
