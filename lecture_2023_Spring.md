@@ -35,6 +35,7 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 
 #### Remote PPG
 rPPG overview, https://github.com/Kwangkee/Gachon/blob/main/slides/TA_rPPG_Overview.pdf
+PPG, MIMIC Dataset 
 
 ***
 ## Week-4 
@@ -42,7 +43,8 @@ Web 3.0, https://drive.google.com/drive/u/0/folders/1J2wanszqqtPSXGLg-jX02pt6Z_X
 
 ***
 ## Week-5
-
+Meta Learning
+- 실세계 비전 문제해결을 위한 메타학습 (백성용 교수, 한양대), https://drive.google.com/file/d/1vWjxNVFWjI0PgTgg22oRNGlHcQ-b2zYx/view?usp=sharing 166 페이지
 
 ***
 ## Week-6
@@ -53,7 +55,7 @@ Web 3.0, https://drive.google.com/drive/u/0/folders/1J2wanszqqtPSXGLg-jX02pt6Z_X
 ***
 |주차|수업내용|참고|실습|
 |---|---|---|---|
-|4|PPG, MIMIC Dataset 
+||PPG, MIMIC Dataset 
 ||웨어러블
 ||메타러닝
 ||
