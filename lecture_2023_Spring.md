@@ -13,7 +13,7 @@ TA
 |1|DNN|Python, PyTorch|김대열|
 |2|연합학습|Open FL Platforms|김진수|
 |3|Web 3.0|지갑/IDE|고은수|
-|4|Remote PPG||김대열|
+|4|Remote PPG|Open Source, App/SDK|김대열|
 |5|Meta Learning||백성용|
 |6|연합학습||김진수, 양세모|
 |7|BlockChain||고은수|
@@ -67,7 +67,8 @@ TA
 
 #### Remote PPG (김대열)
 - rPPG overview, https://github.com/Kwangkee/Gachon/blob/main/slides/TA_rPPG_Overview.pdf
-- Implement Deep Learning based Rppg Model & PPG 2 ABP using pytorch, https://github.com/remotebiosensing/rppg 
+- Open Source, Implement Deep Learning based Rppg Model & PPG 2 ABP using pytorch, https://github.com/remotebiosensing/rppg 
+- App/SDK
 
 ***
 ## Week-5
