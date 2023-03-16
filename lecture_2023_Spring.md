@@ -14,11 +14,11 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 |1|DNN|Python, PyTorch|김대열|
 |2|연합학습|Open FL Platforms|김진수|
 |3|Web 3.0|지갑/IDE|고은수|
-|4|연합학습||김진수, 양세모|
-|5|Remote PPG|Open Source, App/SDK|김대열|
-|6|Meta Learning||백성용|
-|7|BlockChain||고은수|
-|8|BCFL||고은수|
+|4(3/31)|연합학습||김진수, 양세모|
+|5(4/7)|Remote PPG|Open Source, App/SDK|김대열|
+|6(4/14)|Meta Learning||백성용|
+|7(4/21)|BlockChain||고은수|
+|8(4/28)|BCFL||고은수|
 |9|의료 Dataset ||양세모, 채종의|
 
 ***
