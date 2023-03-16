@@ -7,7 +7,8 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 - 매주 강의 온라인 병행하겠습니다. Google Meet 링크 : https://meet.google.com/veg-hgjg-rgk  
 
 ***
-TA
+## Schedule
+
 |주차|내용|실습|TA|
 |---|---|--|--|
 |1|DNN|Python, PyTorch|김대열|
