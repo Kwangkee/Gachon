@@ -80,7 +80,7 @@ TA
 - App/SDK
 
 ***
-## Week-5 (4/14)
+## Week-6 (4/14)
 
 #### Meta Learning
 - 실세계 비전 문제해결을 위한 메타학습 (백성용 교수, 한양대), https://drive.google.com/file/d/1vWjxNVFWjI0PgTgg22oRNGlHcQ-b2zYx/view?usp=sharing 166 페이지
