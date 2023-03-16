@@ -38,7 +38,7 @@ TA
 ***
 ## Week-2
 
-#### 연합학습 
+#### 연합학습 (3/17)
 
 - FL Intro, https://github.com/Kwangkee/FL/blob/main/FL%40Intro.md
 - FL 지난학기 강의, https://github.com/Kwangkee/Gachon/blob/main/lecture_2022_fall.md
@@ -49,7 +49,7 @@ TA
 - Open FL Platforms 설치/실습 (김진수)
 
 ***
-## Week-3 
+## Week-3 (3/24)
 #### Web 3.0 
 
 - Web 3.0 소개, https://drive.google.com/file/d/1qmhWZIjMHRZCt6_ae9X4xa1ia7QCX-Ys/view?usp
@@ -60,23 +60,8 @@ TA
 - 전자지갑, MetaMask
 - Remix IDE
 
-
 ***
-## Week-4
-
-#### Remote PPG (김대열)
-- rPPG overview, https://github.com/Kwangkee/Gachon/blob/main/slides/TA_rPPG_Overview.pdf
-- Open Source, Implement Deep Learning based Rppg Model & PPG 2 ABP using pytorch, https://github.com/remotebiosensing/rppg 
-- App/SDK
-
-***
-## Week-5
-
-#### Meta Learning
-- 실세계 비전 문제해결을 위한 메타학습 (백성용 교수, 한양대), https://drive.google.com/file/d/1vWjxNVFWjI0PgTgg22oRNGlHcQ-b2zYx/view?usp=sharing 166 페이지
-
-***
-## Week-6
+## Week-4 (3/31)
 
 #### 연합학습
 - KSII 논문 링크 (김진수)
@@ -85,6 +70,21 @@ TA
 실습  
 - KSII 논문 관련 code (김진수)
 - IEEE Acess 논문 관련 code (양세모)
+
+***
+## Week-5 (4/7)
+
+#### Remote PPG (김대열)
+- rPPG overview, https://github.com/Kwangkee/Gachon/blob/main/slides/TA_rPPG_Overview.pdf
+- Open Source, Implement Deep Learning based Rppg Model & PPG 2 ABP using pytorch, https://github.com/remotebiosensing/rppg 
+- App/SDK
+
+***
+## Week-5 (4/14)
+
+#### Meta Learning
+- 실세계 비전 문제해결을 위한 메타학습 (백성용 교수, 한양대), https://drive.google.com/file/d/1vWjxNVFWjI0PgTgg22oRNGlHcQ-b2zYx/view?usp=sharing 166 페이지
+
 
 ***
 ## Week-7
