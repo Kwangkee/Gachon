@@ -52,6 +52,7 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 - FedML, https://github.com/Kwangkee/Gachon/blob/main/slides/FL_Product_FedML_20221027.pdf
 
 #### 실습  
+- FL with FLOWER , https://github.com/Kwangkee/Gachon/blob/main/slides/TA_FL_with_flwr_2023.pdf
 - FL Open Source Platform, https://github.com/Kwangkee/Gachon/blob/main/slides/TA_FL%20Open-Source%20Platform.pdf (김진수)
 - FL Open Source Platform, https://github.com/Kwangkee/Gachon/blob/main/slides/TA_FL%20Open-Source%20Platform-2.pdf (김진수)
 - Open FL Platforms 설치/실습 (김진수)
