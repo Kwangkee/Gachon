@@ -42,9 +42,9 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 #### 연합학습 (3/17)
 
 - FL Intro, https://github.com/Kwangkee/FL/blob/main/FL%40Intro.md
-- FL 지난학기 강의, https://github.com/Kwangkee/Gachon/blob/main/lecture_2022_fall.md
 
-#### Slides
+#### FL 지난학기 강의
+- FL 지난학기 강의, https://github.com/Kwangkee/Gachon/blob/main/lecture_2022_fall.md
 - FL Intro, https://github.com/Kwangkee/Gachon/blob/main/slides/FL_Introduction_2022_Fall.pdf  
 - FL Open Platforms, https://github.com/Kwangkee/Gachon/blob/main/slides/FL_Platforms_2022_Fall.pdf  
 - FL CE/CS: https://github.com/Kwangkee/Gachon/blob/main/slides/FL_ClientContribution_2022_Fall.pdf
