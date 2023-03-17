@@ -16,7 +16,7 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 |3|Web 3.0|지갑/IDE|고은수|
 |4(3/31)|연합학습||김진수, 양세모|
 |5(4/7)|Remote PPG|Open Source, App/SDK|김대열|
-|6(4/14)|Meta Learning||백성용|
+|6(4/14)|Meta Learning||백성용 |
 |7(4/21)|BlockChain||고은수|
 |8(4/28)|BCFL||고은수|
 |9|의료 Dataset ||양세모, 채종의|
@@ -111,7 +111,7 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 ## Week-9
 
 #### 의료 Dataset 
-- DeepCars (양세모)
+- DeepCars Dataset (양세모)
 - MIMIC (채종의)
 
 
