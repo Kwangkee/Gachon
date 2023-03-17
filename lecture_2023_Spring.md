@@ -41,12 +41,14 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 
 #### 연합학습 (3/17)
 
+- FL Intro, https://github.com/Kwangkee/Gachon/blob/main/slides/FL_Introduction_2022_Fall.pdf  
+- FL Open Platforms, https://github.com/Kwangkee/Gachon/blob/main/slides/FL_Platforms_2022_Fall.pdf  
 - FL Intro, https://github.com/Kwangkee/FL/blob/main/FL%40Intro.md
 - FL 지난학기 강의, https://github.com/Kwangkee/Gachon/blob/main/lecture_2022_fall.md
-- FL Open Source Platform, https://github.com/Kwangkee/Gachon/blob/main/slides/TA_FL%20Open-Source%20Platform.pdf (김진수)
-- FL Open Source Platform, https://github.com/Kwangkee/Gachon/blob/main/slides/TA_FL%20Open-Source%20Platform-2.pdf (김진수)
 
 실습  
+- FL Open Source Platform, https://github.com/Kwangkee/Gachon/blob/main/slides/TA_FL%20Open-Source%20Platform.pdf (김진수)
+- FL Open Source Platform, https://github.com/Kwangkee/Gachon/blob/main/slides/TA_FL%20Open-Source%20Platform-2.pdf (김진수)
 - Open FL Platforms 설치/실습 (김진수)
 
 ***
