@@ -67,7 +67,7 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 - Web 3.0 Projects, https://github.com/Kwangkee/WEB3.0/blob/main/projects.md
 
 실습 (고은수)  
-- 전자지갑, MetaMask
+- 블록체인 지갑, MetaMask
 - Remix IDE
 
 ***
