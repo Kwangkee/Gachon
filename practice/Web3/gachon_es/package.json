@@ -1,0 +1,16 @@
+{
+  "name": "gachon_es",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "nft.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mime": "^3.0.0",
+    "nft.storage": "^7.0.3"
+  }
+}
