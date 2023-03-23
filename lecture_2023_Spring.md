@@ -68,8 +68,8 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 - Web 3.0 Projects, https://github.com/Kwangkee/WEB3.0/blob/main/projects.md
 
 실습 (고은수)  
-- Web 3.0, https://github.com/Kwangkee/Gachon/blob/main/slides/TA-WEB3-%E1%84%80%E1%85%A9%E1%84%8B%E1%85%B3%E1%86%AB%E1%84%89%E1%85%AE.pdf
-- 블록체인 지갑, Remix IDE https://github.com/Kwangkee/Gachon/tree/main/practice/Web3
+- Web 3.0, 블록체인 지갑, https://github.com/Kwangkee/Gachon/blob/main/slides/TA-WEB3-%E1%84%80%E1%85%A9%E1%84%8B%E1%85%B3%E1%86%AB%E1%84%89%E1%85%AE.pdf
+- Remix IDE https://github.com/Kwangkee/Gachon/tree/main/practice/Web3
 
 ***
 ## Week-4 (3/31)
