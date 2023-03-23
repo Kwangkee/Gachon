@@ -17,7 +17,7 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 |4(3/31)|연합학습||김진수, 양세모|
 |5(4/7)|Remote PPG|Open Source, App/SDK|김대열|
 |6(4/14)|Meta Learning||백성용 |
-|7|의료 Dataset ||양세모, 채종의|
+|7(4/21)|의료 Dataset ||양세모, 채종의|
 |8(4/28)|BlockChain||고은수|
 |9(5/5)|BCFL||고은수|
 
