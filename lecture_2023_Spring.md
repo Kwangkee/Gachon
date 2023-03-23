@@ -22,6 +22,9 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 |9(5/5)|BCFL||고은수|
 
 
+## Homework
+- 양세모, https://github.com/YangSemo/Pratical_Smart_Service/
+
 ***
 ## Week-1
 
