@@ -24,6 +24,8 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 
 ## Homework
 - 양세모, https://github.com/YangSemo/Pratical_Smart_Service/
+- OTGON DOVCHINSAMBUU, https://github.com/dovchoo/Practical-Smart-Service.git
+
 
 ***
 ## Week-1
