@@ -88,7 +88,7 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 
 실습  
 - KSII 논문 관련 code (김진수)
-- IEEE Acess 논문 관련 code (양세모)
+- IEEE Acess 논문 관련 code (양세모), https://github.com/Kwangkee/Gachon/tree/main/practice/FedOps
 
 ***
 ## Week-5 (4/7)
