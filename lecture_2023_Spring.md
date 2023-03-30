@@ -84,7 +84,7 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 
 #### 연합학습
 - KSII 논문 링크 (김진수)
-- IEEE Acess 논문 링크 (양세모)
+- IEEE Acess 논문 링크 (양세모), https://github.com/Kwangkee/Gachon/blob/main/slides/FLScalize_%E1%84%8B%E1%85%A3%E1%86%BC%E1%84%89%E1%85%A6%E1%84%86%E1%85%A9_20230330.pdf
 
 실습  
 - KSII 논문 관련 code (김진수)
