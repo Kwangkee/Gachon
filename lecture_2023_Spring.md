@@ -83,7 +83,7 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 ## Week-4 (3/31)
 
 #### 연합학습
-- KSII 논문 링크 (김진수)
+- KSII 논문 링크 (김진수), https://github.com/Kwangkee/Gachon/blob/main/slides/FL%20Framework%20Review_%EA%B9%80%EC%A7%84%EC%88%98_20230330.pdf
 - IEEE Acess 논문 링크 (양세모), https://github.com/Kwangkee/Gachon/blob/main/slides/FLScalize_%E1%84%8B%E1%85%A3%E1%86%BC%E1%84%89%E1%85%A6%E1%84%86%E1%85%A9_20230330.pdf
 
 실습  
