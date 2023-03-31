@@ -7,7 +7,7 @@ services:
     deploy:
       resources:
         limits:
-          cpus: 2
+          cpus: 1
           memory: 4000M
     ports:
       - "8002:8002"
@@ -32,7 +32,7 @@ services:
     deploy:
       resources:
         limits:
-          cpus: 1
+          cpus: 0.5
           memory: 500M
     ports:
       - "8003:8003"
