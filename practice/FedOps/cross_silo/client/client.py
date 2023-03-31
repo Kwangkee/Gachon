@@ -223,20 +223,23 @@ async def flower_client_start():
     (x_train, y_train), (x_test, y_test) = client_utils.load_partition(dataset, status.FL_client_num)
     logging.info('data loaded')
 
+    logging.info('init local model')
+    model = build_model()
+
     # make local model directory
-    client_utils.make_model_directory()
+    # client_utils.make_model_directory()
 
     # check local_model listdir
-    local_list = os.listdir('./local_model')
+    # local_list = os.listdir('./local_model')
 
-    if not local_list:
-        logging.info('init local model')
-        model = build_model()
-
-    else:
-        # download latest local model
-        logging.info('Latest Local Model download')
-        model = client_utils.download_local_model(local_list)
+    # if not local_list:
+    #     logging.info('init local model')
+    #     model = build_model()
+    #
+    # else:
+    #     # download latest local model
+    #     logging.info('Latest Local Model download')
+    #     model = client_utils.download_local_model(local_list)
 
     try:
         loop = asyncio.get_event_loop()
