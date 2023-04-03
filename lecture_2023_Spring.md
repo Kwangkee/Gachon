@@ -29,6 +29,7 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 - 이은서, https://github.com/LeeEunSeo/Application-of-Smart-Services
 - SHI JINGYAO, https://github.com/qq490800573/2023_01_Pratical_Smart_Service_HomeWork
 - 정승원, https://github.com/wondrive/smart-service-class
+- 김수은, https://github.com/friendlywhales/smartService2023
 
 
 ***
