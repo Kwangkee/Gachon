@@ -107,6 +107,11 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 #### Meta Learning
 - 실세계 비전 문제해결을 위한 메타학습 (백성용 교수, 한양대), https://drive.google.com/file/d/1vWjxNVFWjI0PgTgg22oRNGlHcQ-b2zYx/view?usp=sharing 166 페이지
 
+#### Meta Learning @ rPPG
+- Meta Learning, Fewshot Learnig 적용 방안, Domain adaptation, 데이터 편향성 극복 방안  
+- rPPG 학습데이터 대부분이 정상인 대상, 조명/움직임/피부색이 제한된 실험실 환경 데이타라서, 환자군 포함 임상 환경, 실세계 환경 적용에 한계
+- rPPG 는 일반적인 Clssification 문제가 아니라, Signal Reconstruction 혹은 Regression 문제
+
 
 ***
 ## Week-7
