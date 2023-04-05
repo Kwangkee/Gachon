@@ -77,6 +77,12 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 - https://github.com/Kwangkee/WEB3.0
 - Web 3.0 Projects, https://github.com/Kwangkee/WEB3.0/blob/main/projects.md
 
+ 
+KISA BlockChain Meetup Conference
+- 2023 BCMC, https://drive.google.com/file/d/1vlWR-NrB0RwvHpaldfFxTLtn6v9pIAzA/view?usp=sharing 
+- 2022 BCMC, https://www.youtube.com/watch?v=2gVSoYPdT7k&list=PLiagZi75rsoZBPHOtg-ASJOkx3meCG_c-
+
+
 실습 (고은수)  
 - Web 3.0, 블록체인 지갑, Remix IDE
 - https://github.com/Kwangkee/Gachon/blob/main/slides/TA-WEB3-%E1%84%80%E1%85%A9%E1%84%8B%E1%85%B3%E1%86%AB%E1%84%89%E1%85%AE.pdf
