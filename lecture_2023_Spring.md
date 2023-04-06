@@ -126,10 +126,6 @@ KISA BlockChain Meetup Conference
 - 헬스커넥트의 사업, 솔루션, 서비스, 플랫폼 소개 (이종선 상무/BioHealth Platform 사업본부장)
 - CTMS: Clinical Trial Management System (홍승광 수석/팀장)
 
-#### Blockchain
-
-실습  
-- BCFL Simulator (고은수)
 
 ***
 ## Week-8
