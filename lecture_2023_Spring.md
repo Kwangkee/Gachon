@@ -116,7 +116,7 @@ KISA BlockChain Meetup Conference
 #### Discussion : Meta Learning @ rPPG
 - Meta Learning, Fewshot Learnig 적용 방안, Domain adaptation, 데이터 편향성 극복 방안  
 - rPPG Open Dataset 대부분은 정상인 대상, 조명/움직임/피부색이 제한된 실험실 환경 데이터 -> 환자군 포함 임상 환경, 실세계 환경 적용에 한계
-- rPPG 는 일반적인 Clssification 문제가 아니라, Signal Reconstruction 혹은 Regression 문제
+- rPPG 는 일반적인 Classification 문제가 아니라, Signal Reconstruction 혹은 Regression 문제
 
 
 ***
