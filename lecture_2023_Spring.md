@@ -122,7 +122,7 @@ KISA BlockChain Meetup Conference
 ***
 ## Week-7 (4/21)
 
-헬스커넥트, http://www.hconnect.co.kr/kr/main.do   
+헬스커넥트, http://www.hconnect.co.kr/kr/works/works_intro.do
 - 헬스커넥트의 사업, 솔루션, 서비스, 플랫폼 소개 (이종선 상무/BioHealth Platform 사업본부장)
 - CTMS: Clinical Trial Management System (홍승광 수석/팀장)
 
