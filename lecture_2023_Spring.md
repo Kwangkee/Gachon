@@ -119,15 +119,12 @@ KISA BlockChain Meetup Conference
 - rPPG Open Dataset 대부분은 정상인 대상, 조명/움직임/피부색이 제한된 실험실 환경 데이터 -> 환자군 포함 임상 환경, 실세계 환경 적용에 한계
 - rPPG 는 일반적인 Classification 문제가 아니라, Signal Reconstruction 혹은 Regression 문제
 
-
 ***
 ## Week-7 (4/21)
 
 헬스커넥트, http://www.hconnect.co.kr/kr/works/works_intro.do  
-
 - 헬스온 서비스 소개영상(한국어), https://www.youtube.com/watch?v=P-4Du54jGGE&list=TLGGSllf94K3deEwNjA0MjAyMw
-- 헬스커넥트의 사업, 솔루션, 서비스, 플랫폼 소개 (이종선 상무/BioHealth Platform 사업본부장)
-
+- 헬스커넥트의 사업, 솔루션, 서비스, 플랫폼 소개 (이종선 상무/본부장, BioHealth Platform 사업본부)
 - 헬스커넥트 스마트 임상시험 소개, https://www.youtube.com/watch?v=RZSb6psN9-s
 - CTMS: Clinical Trial Management System (홍승광 수석/팀장)
 
