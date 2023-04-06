@@ -111,7 +111,8 @@ KISA BlockChain Meetup Conference
 ## Week-6 (4/14)
 
 #### Meta Learning
-- 실세계 비전 문제해결을 위한 메타학습 (백성용 교수, 한양대), https://drive.google.com/file/d/1vWjxNVFWjI0PgTgg22oRNGlHcQ-b2zYx/view?usp=sharing 166 페이지
+- 백성용 교수/한양대, https://dsybaik-hy.github.io/
+- 실세계 비전 문제해결을 위한 메타학습, https://drive.google.com/file/d/1vWjxNVFWjI0PgTgg22oRNGlHcQ-b2zYx/view?usp=sharing 166 페이지
 
 #### Discussion : Meta Learning @ rPPG
 - Meta Learning, Fewshot Learnig 적용 방안, Domain adaptation, 데이터 편향성 극복 방안  
