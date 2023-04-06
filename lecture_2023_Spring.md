@@ -125,6 +125,7 @@ KISA BlockChain Meetup Conference
 헬스커넥트, http://www.hconnect.co.kr/kr/works/works_intro.do
 - 헬스온 서비스 소개영상(한국어), https://www.youtube.com/watch?v=P-4Du54jGGE&list=TLGGSllf94K3deEwNjA0MjAyMw
 - 헬스커넥트의 사업, 솔루션, 서비스, 플랫폼 소개 (이종선 상무/BioHealth Platform 사업본부장)
+- 헬스커넥트 스마트 임상시험 소개, https://www.youtube.com/watch?v=RZSb6psN9-s
 - CTMS: Clinical Trial Management System (홍승광 수석/팀장)
 
 
