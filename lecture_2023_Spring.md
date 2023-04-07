@@ -103,7 +103,7 @@ KISA BlockChain Meetup Conference
 ## Week-5 (4/7)
 
 #### Remote PPG (김대열)
-- rPPG overview, https://github.com/Kwangkee/Gachon/blob/main/slides/TA_rPPG_Overview.pdf
+- rPPG overview, https://github.com/Kwangkee/Gachon/blob/main/slides/TA_rPPG_OVerview_2023.pptx
 - Open Source, Implement Deep Learning based Rppg Model & PPG 2 ABP using pytorch, https://github.com/remotebiosensing/rppg 
 - App/SDK
 
