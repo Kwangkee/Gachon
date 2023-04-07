@@ -122,15 +122,14 @@ KISA BlockChain Meetup Conference
 ***
 ## Week-7 (4/21)
 
-헬스커넥트, http://www.hconnect.co.kr/kr/works/works_intro.do  
-- 헬스온 서비스 소개영상(한국어), https://www.youtube.com/watch?v=P-4Du54jGGE&list=TLGGSllf94K3deEwNjA0MjAyMw
-- 헬스커넥트의 사업, 솔루션, 서비스, 플랫폼 소개 (이종선 상무/본부장, BioHealth Platform 사업본부)
-- 헬스커넥트 스마트 임상시험 소개, https://www.youtube.com/watch?v=RZSb6psN9-s
-- CTMS: Clinical Trial Management System (홍승광 수석/팀장)
-
+#### 의료 Dataset 
+- DeepCars Dataset (양세모)
+- MIMIC (채종의)
 
 ***
-## Week-8
+## Week-8 (4/28)
+## Week-9 (4/28)
+## Week-10 (5/5)
 
 #### BCFL
 
@@ -142,11 +141,11 @@ KISA BlockChain Meetup Conference
 - BCFL Simulator (고은수)
 
 ***
-## Week-9
+## Week-11 (5/12)
 
-#### 의료 Dataset 
-- DeepCars Dataset (양세모)
-- MIMIC (채종의)
-
-
+헬스커넥트, http://www.hconnect.co.kr/kr/works/works_intro.do  
+- 헬스온 서비스 소개영상(한국어), https://www.youtube.com/watch?v=P-4Du54jGGE&list=TLGGSllf94K3deEwNjA0MjAyMw
+- 헬스커넥트의 사업, 솔루션, 서비스, 플랫폼 소개 (이종선 상무/본부장, BioHealth Platform 사업본부)
+- 헬스커넥트 스마트 임상시험 소개, https://www.youtube.com/watch?v=RZSb6psN9-s
+- CTMS: Clinical Trial Management System (홍승광 수석/팀장)
 
