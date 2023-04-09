@@ -134,7 +134,6 @@ KISA BlockChain Meetup Conference
 #### BCFL
 
 - 원격임상시험, https://drive.google.com/drive/u/0/folders/1qV5jN-KspZWYuUZEzx0mzLEYPsomzhko
-- 원격임상시험 플랫폼 (헬스커넥트)
 - 인공지능 모델/데이터 거래시장을 위한 블록체인 융합 연합학습 플랫폼
 
 실습  
