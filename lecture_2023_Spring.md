@@ -121,13 +121,29 @@ KISA BlockChain Meetup Conference
 
 ***
 ## Week-7 (4/21)
+ 
+[양세모]  
+- 의료 서비스/기기: DeepCars, 증증도 분석, EWS 
+- FL 적용 사례 분석: Melloddy vs. CAreFL 
 
-#### 의료 Dataset 
-- DeepCars Dataset (양세모)
-- MIMIC (채종의)
+#### DeepCars, https://www.vuno.co/deepcars
+- Development and validation of a deep-learning-based pediatric early warning system: A single-center study, https://www.sciencedirect.com/science/article/pii/S2319417021000044?via%3Dihub 
+-	A multicentre validation study of the deep learning-based early warning score for predicting in-hospital cardiac arrest in patients admitted to general wards, https://www.sciencedirect.com/science/article/pii/S0300957221001544?via%3Dihub 
+
+#### CAreFL: Enhancing smart healthcare with Contribution‐Aware Federated Learning, https://onlinelibrary.wiley.com/doi/full/10.1002/aaai.12082
+
+#### Melloddy, https://www.melloddy.eu/y3announcement 
+-	[YouTube] Industry-scale orchestrated federated learning for drug discovery, https://www.youtube.com/watch?v=J_RmZhKzBcA 
+- [Paper] Industry-Scale Orchestrated Federated Learning for Drug Discovery, https://arxiv.org/abs/2210.08871    
 
 ***
 ## Week-8 (4/28)
+
+[채종의]
+- MIMIC, 의료 데이터 리뷰, 고려사항, Cuffless BP 기술 소개 
+- cNIBP 연구 소개 
+
+***
 ## Week-9 (4/28)
 ## Week-10 (5/5)
 
