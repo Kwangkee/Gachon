@@ -18,8 +18,8 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 |5(4/7)|Remote PPG|Open Source, App/SDK|김대열|
 |6(4/14)|Meta Learning||백성용 |
 |7(4/21)|의료 서비스 ||양세모|
-|7(4/28)|의료 Dataset ||채종의|
-|8(5/5)|BCFL||고은수|
+|8(4/28)|의료 Dataset ||채종의|
+|9(5/5)|BCFL||고은수|
 
 
 ## Homework
