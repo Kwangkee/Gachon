@@ -79,7 +79,8 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 
  
 KISA BlockChain Meetup Conference
-- 2023 BCMC, https://drive.google.com/file/d/1vlWR-NrB0RwvHpaldfFxTLtn6v9pIAzA/view?usp=sharing 
+- BCMC 2023, https://drive.google.com/file/d/1vlWR-NrB0RwvHpaldfFxTLtn6v9pIAzA/view?usp=sharing 
+- BCMC 2023, https://www.youtube.com/watch?v=NBoaCr8CoWY&list=PLiagZi75rsoZ4keCGjZdvafP_WmZChvOr&index=3
 - 2022 BCMC, https://www.youtube.com/watch?v=2gVSoYPdT7k&list=PLiagZi75rsoZBPHOtg-ASJOkx3meCG_c-
 
 
