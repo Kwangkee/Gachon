@@ -125,7 +125,8 @@ KISA BlockChain Meetup Conference
  
 [양세모]  
 - 의료 서비스/기기: DeepCars, 증증도 분석, EWS 
-- FL 적용 사례 분석: Melloddy vs. CAreFL 
+- FL 적용 사례 분석: Melloddy vs. CAreFL
+- https://github.com/Kwangkee/Gachon/blob/main/slides/%EC%9D%98%EB%A3%8C%EC%84%9C%EB%B9%84%EC%8A%A4%26%EC%97%B0%ED%95%A9%ED%95%99%EC%8A%B5_%EC%96%91%EC%84%B8%EB%AA%A8_20230421.pptx 
 
 #### DeepCars, https://www.vuno.co/deepcars
 - Development and validation of a deep-learning-based pediatric early warning system: A single-center study, https://www.sciencedirect.com/science/article/pii/S2319417021000044?via%3Dihub 
