@@ -165,3 +165,11 @@ KISA BlockChain Meetup Conference
 - 헬스커넥트 스마트 임상시험 소개, https://www.youtube.com/watch?v=RZSb6psN9-s
 - CTMS: Clinical Trial Management System (홍승광 수석/팀장)
 
+
+***
+## Tech-Verse 2022, https://tech-verse.me/ko
+
+- LINE의 End-To-End MLOps 플랫폼, https://tech-verse.me/ko/sessions/49
+- 다수의 연합학습을 지원하는 LFL 클라이언트 플랫폼, https://tech-verse.me/ko/sessions/25
+- 제로부터 시작하는 LINE Blockchain 스마트 계약 개발, https://tech-verse.me/ko/sessions/76
+
