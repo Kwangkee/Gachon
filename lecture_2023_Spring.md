@@ -125,7 +125,8 @@ KISA BlockChain Meetup Conference
  
 [양세모]  
 - 의료 서비스/기기: DeepCars, 증증도 분석, EWS 
-- FL 적용 사례 분석: Melloddy vs. CAreFL 
+- FL 적용 사례 분석: Melloddy vs. CAreFL
+- https://github.com/Kwangkee/Gachon/blob/main/slides/%EC%9D%98%EB%A3%8C%EC%84%9C%EB%B9%84%EC%8A%A4%26%EC%97%B0%ED%95%A9%ED%95%99%EC%8A%B5_%EC%96%91%EC%84%B8%EB%AA%A8_20230421.pptx 
 
 #### DeepCars, https://www.vuno.co/deepcars
 - Development and validation of a deep-learning-based pediatric early warning system: A single-center study, https://www.sciencedirect.com/science/article/pii/S2319417021000044?via%3Dihub 
@@ -163,4 +164,14 @@ KISA BlockChain Meetup Conference
 - 헬스커넥트의 사업, 솔루션, 서비스, 플랫폼 소개 (이종선 상무/본부장, BioHealth Platform 사업본부)
 - 헬스커넥트 스마트 임상시험 소개, https://www.youtube.com/watch?v=RZSb6psN9-s
 - CTMS: Clinical Trial Management System (홍승광 수석/팀장)
+
+
+***
+## Tech-Verse 2022
+- https://tech-verse.me/ko
+- https://engineering.linecorp.com/ko
+- LINE의 End-To-End MLOps 플랫폼, https://tech-verse.me/ko/sessions/49, https://engineering.linecorp.com/ko/blog/line-end-to-end-mlops-platform-mlu
+- 연합 학습을 이용한 LINE 스티커 추천, https://tech-verse.me/ko/sessions/46
+- 다수의 연합학습을 지원하는 LFL 클라이언트 플랫폼, https://tech-verse.me/ko/sessions/25
+- 제로부터 시작하는 LINE Blockchain 스마트 계약 개발, https://tech-verse.me/ko/sessions/76
 
