@@ -141,25 +141,16 @@ KISA BlockChain Meetup Conference
 ***
 ## Week-8 (4/28)
 
-- Samsung Health Stack 리뷰 https://github.com/Kwangkee/Gachon/blob/main/lecture_2023_Spring.md#samsung-health-stack
-
-[채종의]
-- MIMIC, 의료 데이터 리뷰, 고려사항, Cuffless BP 기술 소개 
-- cNIBP 연구 소개 
+- Samsung Health Stack 소개, https://github.com/Kwangkee/Gachon/blob/main/lecture_2023_Spring.md#samsung-health-stack
+- MIMIC, 의료 데이터 리뷰, 고려사항, Cuffless BP 기술 소개, cNIBP 연구 소개 [채종의]
 
 ***
 ## Week-9 (5/12)
 
-[채종의/문종현]
-- MetaPhys 리뷰
-
-[김진수]
-- 원격 PPG에 대한 메타러닝 기반 개인화 연합학습 적용 및 성능 평가
-- MAML, MetaSense 리뷰
+- MetaPhys 리뷰, https://github.com/xliucs/MetaPhys [채종의]
+- MAML, MetaSense 리뷰, 원격 PPG에 대한 메타러닝 기반 개인화 연합학습 적용 및 성능 평가 리뷰 [김진수]
 
 ***
-
-
 ## Week-10 (5/19)
 
 #### BCFL
