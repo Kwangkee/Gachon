@@ -146,7 +146,19 @@ KISA BlockChain Meetup Conference
 - cNIBP 연구 소개 
 
 ***
-## Week-9 (5/5)
+## Week-9 (5/12)
+
+[채종의/문종현]
+- MetaPhys 리뷰
+
+[김진수]
+- 원격 PPG에 대한 메타러닝 기반 개인화 연합학습 적용 및 성능 평가
+- MAML, MetaSense 리뷰
+
+***
+
+
+## Week-10 (5/19)
 
 #### BCFL
 
@@ -157,7 +169,7 @@ KISA BlockChain Meetup Conference
 - BCFL Simulator (고은수)
 
 ***
-## Week-10 (5/12)
+## Week-10 (5/16)
 
 헬스커넥트, http://www.hconnect.co.kr/kr/works/works_intro.do  
 - 헬스온 서비스 소개영상(한국어), https://www.youtube.com/watch?v=P-4Du54jGGE&list=TLGGSllf94K3deEwNjA0MjAyMw
