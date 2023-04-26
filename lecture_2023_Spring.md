@@ -141,6 +141,8 @@ KISA BlockChain Meetup Conference
 ***
 ## Week-8 (4/28)
 
+- Samsung Health Stack 리뷰 https://github.com/Kwangkee/Gachon/blob/main/lecture_2023_Spring.md#samsung-health-stack
+
 [채종의]
 - MIMIC, 의료 데이터 리뷰, 고려사항, Cuffless BP 기술 소개 
 - cNIBP 연구 소개 
