@@ -196,3 +196,12 @@ KISA BlockChain Meetup Conference
 - https://developer.samsung.com/health 
 - https://developer.samsung.com/health/s-healthstack 
 - https://s-healthstack.io/index.html 
+
+***
+## Subtra
+- https://owkin.com/
+- https://owkin.com/en/substra
+- https://github.com/Substra/substra
+
+- 
+
