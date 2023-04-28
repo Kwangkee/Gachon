@@ -205,5 +205,12 @@ KISA BlockChain Meetup Conference
 - https://owkin.com/en/substra
 - https://github.com/Substra/substra
 
-- 
+- Federated learning: the most effective collaborative AI framework for healthcare, https://owkin.com/publications-and-news/blogs/federated-learning-the-most-effective-collaborative-ai-framework-for-healthcare
+
+>- MELLODDY 는 (Blochchain 지원) Subtra 기반으로 시작했지만, 병원 등의 IP 관리/보안 정책이 Blokchain 과는 충돌이 있어서,
+>- In March 2019, we started to deploy Owkin Connect in hospitals. Traditional hospital security systems have whitelist (or allowlist) systems, cybersecurity strategies to grant network access to trusted individuals with specific IP addresses. As new joiners need to secure the agreement of all hospitals and be manually added to join the network, there was a need to define the precise list of stakeholders to join the networks well in advance of launching the initiative. With a decentralized approach requiring peer-to-peer connections, it would have been impossible to scale the network.
+>
+>- 결과적으로 중앙집중식 FL 로 간 걸로 해석됩니다.
+>- Our experience managing healthcare consortiums training machine learning models on data at scale has demonstrated that federated learning with centralized orchestration is better suited for real-world healthcare projects, mainly due to the privacy, IT and IP requirements of partners.
+
 
