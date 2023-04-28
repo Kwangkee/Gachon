@@ -187,7 +187,7 @@ KISA BlockChain Meetup Conference
 - [동영상] https://www.ssdc.kr/stream  
 >13:25 - 13:50Samsung Health Stack김종문 & 도지윤 / 삼성전자 / Samsung Research / Data Research팀
 
-****
+**
 - [News] https://news.samsung.com/global/samsung-electronics-unveils-samsung-health-stack-1-0 
 - [News] https://biz.chosun.com/it-science/ict/2023/04/18/WCIVD2B55RA6FCHZK5LCPELCLI/
 - [News] https://news.samsung.com/kr/%ec%82%bc%ec%84%b1%ec%a0%84%ec%9e%90-%ec%84%b8%ea%b3%84-%ec%b5%9c%eb%8c%80-%ed%97%ac%ec%8a%a4%ec%bc%80%ec%96%b4-%ea%b8%b0%ec%88%a0-%ec%a0%84%ec%8b%9c%ed%9a%8c%ec%84%9c-%ec%82%bc%ec%84%b1-%ed%97%ac 
