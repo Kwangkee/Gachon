@@ -219,5 +219,5 @@ KISA BlockChain Meetup Conference
 - Fed-BioMed: Open, Transparent and Trusted Federated Learning for Real-world Healthcare Applications, https://arxiv.org/abs/2304.12012 
 >-The domain of healthcare and clinical research is characterized by specific challenges and requirements that are difficult or impossible to satisfy with the currently available frameworks. We hope that Fed-BioMed will lower the threshold to apply FL in this domain, enabling clinical data scientists to perform experiments and train ML models within a federated consortium of data providers in a secure, practical, and privacy-preserving way.
 
--11 https://gitlab.inria.fr/fedbiomed/fedbiomed
--12 https://fedbiomed.gitlabpages.inria.fr/v4.1/getting-started/what-is-fedbiomed/   
+- https://gitlab.inria.fr/fedbiomed/fedbiomed
+- https://fedbiomed.gitlabpages.inria.fr/v4.1/getting-started/what-is-fedbiomed/   
