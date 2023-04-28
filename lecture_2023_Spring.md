@@ -141,10 +141,11 @@ KISA BlockChain Meetup Conference
 ***
 ## Week-8 (4/28)
 
-- [사례 소개] Samsung Health Stack, https://github.com/Kwangkee/Gachon/blob/main/lecture_2023_Spring.md#samsung-health-stack
-- [사례 소개] FL@Line, https://github.com/Kwangkee/Gachon/blob/main/lecture_2023_Spring.md#tech-verse-2022
+- [사례 소개] 연합학습 기반 신약개발 가속화 프로젝트(K-MELLODDY) 상세 기획 연구, https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1131448
 - [사례 소개] Subtra, https://github.com/Kwangkee/Gachon/blob/main/lecture_2023_Spring.md#Subtra
 - [사례 소개] Fed-BioMed, https://github.com/Kwangkee/Gachon/blob/main/lecture_2023_Spring.md#fed-biomed
+- [사례 소개] FL@Line, https://github.com/Kwangkee/Gachon/blob/main/lecture_2023_Spring.md#tech-verse-2022
+- [사례 소개] Samsung Health Stack, https://github.com/Kwangkee/Gachon/blob/main/lecture_2023_Spring.md#samsung-health-stack
 - [사례 소개] MIMIC, 의료 데이터 리뷰, 고려사항, Cuffless BP 기술 소개, cNIBP 연구 소개, https://github.com/Kwangkee/Gachon/blob/main/slides/VitalSignalDataset%26Application.pptx
 
 ***
