@@ -143,7 +143,7 @@ KISA BlockChain Meetup Conference
 
 - [사례 소개] Samsung Health Stack, https://github.com/Kwangkee/Gachon/blob/main/lecture_2023_Spring.md#samsung-health-stack
 - [사례 소개] Subtra, https://github.com/Kwangkee/Gachon/blob/main/lecture_2023_Spring.md#Subtra
-- [사례 소개] FL@Line, https://tech-verse.me/ko/sessions/25
+- [사례 소개] FL@Line, https://github.com/Kwangkee/Gachon/blob/main/lecture_2023_Spring.md#tech-verse-2022
 - [사례 소개] MIMIC, 의료 데이터 리뷰, 고려사항, Cuffless BP 기술 소개, cNIBP 연구 소개, https://github.com/Kwangkee/Gachon/blob/main/slides/VitalSignalDataset%26Application.pptx
 
 ***
