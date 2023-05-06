@@ -33,7 +33,8 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 - 추우찬, https://github.com/Choo-Wooo/FL
 - 홍인표, https://github.com/Inpyo-Hong/smart_service_application
 - 김예진, https://github.com/yejinnnn/Smart-service
-
+- 이새봄, https://github.com/LeeSaeBom/SB_Federated-Learning
+- 
 ***
 ## Week-1
 
