@@ -153,12 +153,14 @@ KISA BlockChain Meetup Conference
 
 ***
 ## Week-9 (5/12)
-
-- MetaPhys 리뷰, https://github.com/xliucs/MetaPhys [채종의]
 - MAML, MetaSense 리뷰, 원격 PPG에 대한 메타러닝 기반 개인화 연합학습 적용 및 성능 평가 리뷰 [김진수]
 
 ***
-## Week-10 (5/19)
+## Week-9 (5/19)
+- MetaPhys 리뷰, https://github.com/xliucs/MetaPhys [채종의]
+
+***
+## Week-10 (5/26)
 
 #### BCFL
 
