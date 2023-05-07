@@ -156,11 +156,11 @@ KISA BlockChain Meetup Conference
 - MAML, MetaSense 리뷰, 원격 PPG에 대한 메타러닝 기반 개인화 연합학습 적용 및 성능 평가 리뷰 [김진수]
 
 ***
-## Week-9 (5/19)
+## Week-10 (5/19)
 - MetaPhys 리뷰, https://github.com/xliucs/MetaPhys [채종의]
 
 ***
-## Week-10 (6/2)
+## Week-11 (6/2)
 
 #### BCFL
 
@@ -171,9 +171,8 @@ KISA BlockChain Meetup Conference
 - BCFL Simulator (고은수)
 
 ***
-## Week-10 (5/26)
-
-헬스커넥트, http://www.hconnect.co.kr/kr/works/works_intro.do  
+## 헬스커넥트
+- 헬스커넥트, http://www.hconnect.co.kr/kr/works/works_intro.do  
 - 헬스온 서비스 소개영상(한국어), https://www.youtube.com/watch?v=P-4Du54jGGE&list=TLGGSllf94K3deEwNjA0MjAyMw
 - 헬스커넥트의 사업, 솔루션, 서비스, 플랫폼 소개 (이종선 상무/본부장, BioHealth Platform 사업본부)
 - 헬스커넥트 스마트 임상시험 소개, https://www.youtube.com/watch?v=RZSb6psN9-s
