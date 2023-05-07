@@ -160,7 +160,7 @@ KISA BlockChain Meetup Conference
 - MetaPhys 리뷰, https://github.com/xliucs/MetaPhys [채종의]
 
 ***
-## Week-10 (5/26)
+## Week-10 (6/2)
 
 #### BCFL
 
