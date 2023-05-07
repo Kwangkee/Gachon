@@ -156,7 +156,7 @@ KISA BlockChain Meetup Conference
 - MAML, MetaSense 리뷰, MetaSense: Few-Shot Adaptation to Untrained Conditions in Deep Mobile Sensing https://github.com/TaesikGong/MetaSense_public [김진수]
 - 원격 PPG에 대한 메타러닝 기반 개인화 연합학습 적용 및 성능 평가 리뷰 [김진수]
 - 동적인 디바이스 환경에서 적응적 연합학습기술 개발 (Adaptive Federated Learning in Dynamic Heterogeneous Environment), https://github.com/Kwangkee/FL/blob/main/AFL.md
-- Meta Learning for FL Personalization, https://github.com/Kwangkee/FL/blob/main/FL@Personalization.md
+- MAML-based FL Personalization, https://github.com/Kwangkee/FL/blob/main/FL@Personalization.md
 
 ***
 ## Week-10 (5/19)
