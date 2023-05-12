@@ -163,6 +163,11 @@ KISA BlockChain Meetup Conference
 ## Week-10 (5/19)
 - MetaPhys 리뷰, https://github.com/xliucs/MetaPhys [채종의]
 
+rPPG Open Source    
+-	[Github] https://github.com/remotebiosensing/rppg 
+-	[Slack] https://join.slack.com/t/remobebiosensing/shared_invite/zt-1u3kjfhf9-xWw_XQ8hGd7qFZymCSzUtg 
+
+
 ***
 ## Week-11 (6/2)
 
