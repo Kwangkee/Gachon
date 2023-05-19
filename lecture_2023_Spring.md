@@ -168,6 +168,11 @@ rPPG Open Source
 -	[Github] https://github.com/remotebiosensing/rppg 
 -	[Slack] https://join.slack.com/t/remobebiosensing/shared_invite/zt-1u3kjfhf9-xWw_XQ8hGd7qFZymCSzUtg 
 
+Samsung 스마트모니터,
+- https://www.samsung.com/sec/monitors/package-smart-ls32cm703uk-e-d2c/LS32CM703UK-E/   
+>* 일반적인 건강 및 피트니스 목적으로만 사용됩니다. 의학적 상태 또는 질병의 감지, 진단, 치료에 사용하기 위한 것이 아닙니다.
+>* 스크린 바이탈 기능은 카메라 액세서리를 이용하여 측정 가능합니다. 카메라 액세서리는 별도로 구매가 필요합니다.
+- ScreenVitals, https://www.puxiang.com/galleries/e363ecc5193008aed6f39192b8e729d6 
 
 ***
 ## Week-11 (6/2)
