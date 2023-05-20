@@ -103,7 +103,7 @@ KISA BlockChain Meetup Conference
 
 실습  
 - KSII 논문 관련 code (김진수)
-- IEEE Acess 논문 관련 code (양세모), https://github.com/Kwangkee/Gachon/tree/main/practice/FedOps
+- FLScalize: Federated Learning Lifecycle Management Platform, https://ieeexplore.ieee.org/document/10122960 
 
 ***
 ## Week-5 (4/7)
