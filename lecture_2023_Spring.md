@@ -9,17 +9,19 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 ***
 ## Schedule
 
-|주차|내용|실습|TA|
-|---|---|--|--|
-|1|DNN|Python, PyTorch|김대열|
-|2|연합학습|Open FL Platforms|김진수|
-|3|Web 3.0|지갑/IDE|고은수|
-|4(3/31)|연합학습||김진수, 양세모|
-|5(4/7)|Remote PPG|Open Source, App/SDK|김대열|
-|6(4/14)|Meta Learning||백성용 |
-|7(4/21)|의료 서비스 ||양세모|
-|8(4/28)|의료 Dataset ||채종의|
-|9(5/5)|BCFL||고은수|
+|내용|실습|TA|
+|---|--|--|
+|DNN|Python, PyTorch|김대열|
+|연합학습|Open FL Platforms|김진수|
+|Web 3.0|지갑/IDE|고은수|
+|연합학습|작성논문|김진수, 양세모|
+|Remote PPG|Open Source, App/SDK|김대열|
+|Meta Learning||백성용 교수|
+|의료 서비스 ||양세모|
+|Cuffless BP|의료 Dataset|채종의|
+|FL Personalization|MAML|김진수|
+|MetaPhys||채종의|
+|BCFL||고은수|
 
 
 ## Homework
