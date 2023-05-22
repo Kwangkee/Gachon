@@ -197,7 +197,7 @@ GLITCH/KOREA
 ***
 ## Week-12 (6/2)
 
-- 동형암호, https://ko.wikipedia.org/wiki/%EB%8F%99%ED%98%95%EC%95%94%ED%98%B8
+- 동형암호(同型暗號,Homomorphic Encryption, HE), https://ko.wikipedia.org/wiki/%EB%8F%99%ED%98%95%EC%95%94%ED%98%B8
 - 크립토랩, https://www.cryptolab.co.kr/ (신준범 CTO, 크립토랩)
 
 ***
