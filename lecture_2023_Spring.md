@@ -16,12 +16,13 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 |Web 3.0|지갑/IDE|고은수|
 |연합학습|작성논문|김진수, 양세모|
 |Remote PPG|Open Source, App/SDK|김대열|
-|Meta Learning||백성용 교수|
+|Meta Learning||백성용 교수, 한양대|
 |의료 서비스 ||양세모|
 |Cuffless BP|의료 Dataset|채종의|
 |FL Personalization|MAML|김진수|
 |MetaPhys||채종의|
 |BCFL||고은수|
+|동형암호||신준범 CTO, 크립토랩|
 
 
 ## Homework
@@ -197,7 +198,7 @@ GLITCH/KOREA
 ## Week-12 (6/2)
 
 - 동형암호, https://ko.wikipedia.org/wiki/%EB%8F%99%ED%98%95%EC%95%94%ED%98%B8
-- 크립토랩, https://www.cryptolab.co.kr/
+- 크립토랩, https://www.cryptolab.co.kr/ (신준범 CTO, 크립토랩)
 
 ***
 ## 헬스커넥트
