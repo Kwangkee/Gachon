@@ -177,7 +177,7 @@ Samsung 스마트모니터,
 - ScreenVitals, https://www.puxiang.com/galleries/e363ecc5193008aed6f39192b8e729d6 
 
 ***
-## Week-11 (6/2)
+## Week-11 (5/26)
 
 #### BCFL
 
@@ -186,6 +186,10 @@ Samsung 스마트모니터,
 
 실습  
 - BCFL Simulator (고은수)
+
+
+***
+## Week-12 (6/2)
 
 ***
 ## 헬스커넥트
