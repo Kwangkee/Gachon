@@ -191,7 +191,7 @@ GLITCH/KOREA
 - https://trinity-studio.notion.site/GLITCH-KOREA-TRACK-GUIDE-1509d049e1b84ef49f737af5398541c8
 
 실습  
-- BCFL, https://github.com/Kwangkee/Gachon/blob/main/samples/%EB%8C%80%ED%95%9C%EC%A0%84%EC%9E%90%EA%B3%B5%ED%95%99%ED%9A%8C_%EC%A0%95%EA%B7%9C%EB%85%BC%EB%AC%B8_BCFL_%EC%B5%9C%EC%A2%85%EB%B3%B8_20230518.hwp (고은수)
+- 블록체인 기반 연합학습 레퍼런스 아키텍처 및 DID 접근 시스템, https://github.com/Kwangkee/Gachon/blob/main/samples/%EB%8C%80%ED%95%9C%EC%A0%84%EC%9E%90%EA%B3%B5%ED%95%99%ED%9A%8C_%EC%A0%95%EA%B7%9C%EB%85%BC%EB%AC%B8_BCFL_%EC%B5%9C%EC%A2%85%EB%B3%B8_20230518.hwp (고은수)
 
 ***
 ## Week-12 (6/2)
