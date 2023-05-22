@@ -196,6 +196,9 @@ GLITCH/KOREA
 ***
 ## Week-12 (6/2)
 
+- 동형암호, https://ko.wikipedia.org/wiki/%EB%8F%99%ED%98%95%EC%95%94%ED%98%B8
+- 크립토랩, https://www.cryptolab.co.kr/
+
 ***
 ## 헬스커넥트
 - 헬스커넥트, http://www.hconnect.co.kr/kr/works/works_intro.do  
