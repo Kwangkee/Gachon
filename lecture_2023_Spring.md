@@ -187,7 +187,7 @@ Samsung 스마트모니터,
 
 실습  
 - BCFL MarketPlace PoC, https://drive.google.com/file/d/1aaztAIFnRHTzyKSxTW9v5_Krvw7vq1qx/view?usp=sharing
-- 블록체인 기반 연합학습 레퍼런스 아키텍처 및 DID 접근 시스템, https://github.com/Kwangkee/Gachon/blob/main/samples/%EB%8C%80%ED%95%9C%EC%A0%84%EC%9E%90%EA%B3%B5%ED%95%99%ED%9A%8C_%EC%A0%95%EA%B7%9C%EB%85%BC%EB%AC%B8_BCFL_%EC%B5%9C%EC%A2%85%EB%B3%B8_20230518.hwp 
+- 블록체인 기반 연합학습 레퍼런스 아키텍처 및 DID 접근 시스템, https://drive.google.com/file/d/1uk_mk2GH6bmSpr_fL28EIKKLVqI0q7Yg/view?usp=sharing 
 
 GLITCH/KOREA
 - 글리치, 국내 처음 멀티체인 해커톤… 아발란체, 비앤비, 니어, 폴리곤 동시 참여, https://www.asiae.co.kr/article/2023042109445590801
