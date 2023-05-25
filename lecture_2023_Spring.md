@@ -181,15 +181,11 @@ Samsung 스마트모니터,
 ## Week-11 (5/26)
 
 #### BCFL
-
-- 원격임상시험, https://drive.google.com/drive/u/0/folders/1qV5jN-KspZWYuUZEzx0mzLEYPsomzhko
-- 인공지능 모델/데이터 거래시장을 위한 블록체인 융합 연합학습 플랫폼
-
-실습  
-- BCFL MarketPlace PoC, https://drive.google.com/file/d/1aaztAIFnRHTzyKSxTW9v5_Krvw7vq1qx/view?usp=sharing
+- 인공지능 모델/데이터 거래시장을 위한 블록체인 융합 연합학습 플랫폼, https://drive.google.com/file/d/1aaztAIFnRHTzyKSxTW9v5_Krvw7vq1qx/view?usp=sharing
 - 블록체인 기반 연합학습 레퍼런스 아키텍처 및 DID 접근 시스템, https://drive.google.com/file/d/1uk_mk2GH6bmSpr_fL28EIKKLVqI0q7Yg/view?usp=sharing 
+- 원격임상시험, https://drive.google.com/drive/u/0/folders/1qV5jN-KspZWYuUZEzx0mzLEYPsomzhko
 
-GLITCH/KOREA
+#### GLITCH/KOREA
 - 글리치, 국내 처음 멀티체인 해커톤… 아발란체, 비앤비, 니어, 폴리곤 동시 참여, https://www.asiae.co.kr/article/2023042109445590801
 >- 폴리곤은 세계 최대 메인넷 이더리움 스케일링 솔루션을 제공하며, 글리치 해커톤에서는 최근 폴리곤 생태계에서 가장 화두인 zkEVM을 사용하여 구축된 디앱 개발과 폴리곤 ID를 활용한 개인정보 보호 기능을 제공하는 디앱 구축을 미션으로 선정했다. 
 - https://www.glitch-hack.com/
