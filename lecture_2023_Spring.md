@@ -195,8 +195,10 @@ Samsung 스마트모니터,
 ***
 ## Week-12 (6/2)
 
+- 크림토랩_동형암호_2306, https://github.com/Kwangkee/Gachon/blob/main/slides/%ED%81%AC%EB%A6%BC%ED%86%A0%EB%9E%A9_%EB%8F%99%ED%98%95%EC%95%94%ED%98%B8_2306_%EA%B3%B5%EC%9C%A0_r1.pdf (신준범 CTO, 크립토랩)
+
+- 크립토랩, https://www.cryptolab.co.kr/ 
 - 동형암호(同型暗號,Homomorphic Encryption, HE), https://ko.wikipedia.org/wiki/%EB%8F%99%ED%98%95%EC%95%94%ED%98%B8
-- 크립토랩, https://www.cryptolab.co.kr/ (신준범 CTO, 크립토랩)
 
 ***
 ## 헬스커넥트
