@@ -204,7 +204,7 @@ Samsung 스마트모니터,
 ***
 ## Week-13 (6/9)
 
-- Web 3.0 비즈모델, 송민정 교수, https://drive.google.com/file/d/16lk77JzU9RyopfhrwYYTckWUSQdgHs3p/view?usp=drive_link
+- Web3.0 시장과 비즈니스 모델, 송민정 교수, https://drive.google.com/file/d/16lk77JzU9RyopfhrwYYTckWUSQdgHs3p/view?usp=drive_link
 
 ***
 ## 헬스커넥트
