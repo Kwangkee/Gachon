@@ -23,6 +23,7 @@ Instructor: 이광기 (Kwangkee Lee, kwangkeelee@gmail.com)
 |MetaPhys||채종의|
 |BCFL||고은수|
 |동형암호||신준범 CTO, 크립토랩|
+|Web3.0비즈모델||송민정 교수,한세대|
 
 
 ## Homework
