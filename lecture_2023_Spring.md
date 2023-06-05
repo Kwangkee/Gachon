@@ -201,6 +201,11 @@ Samsung 스마트모니터,
 - 동형암호(同型暗號,Homomorphic Encryption, HE), https://ko.wikipedia.org/wiki/%EB%8F%99%ED%98%95%EC%95%94%ED%98%B8
 
 ***
+## Week-13 (6/9)
+
+- Web 3.0 비즈모델, 송민정 교수, https://drive.google.com/file/d/16lk77JzU9RyopfhrwYYTckWUSQdgHs3p/view?usp=drive_link
+
+***
 ## 헬스커넥트
 - 헬스커넥트, http://www.hconnect.co.kr/kr/works/works_intro.do  
 - 헬스온 서비스 소개영상(한국어), https://www.youtube.com/watch?v=P-4Du54jGGE&list=TLGGSllf94K3deEwNjA0MjAyMw
